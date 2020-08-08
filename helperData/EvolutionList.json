@@ -1,0 +1,2790 @@
+{
+    "NonTransferableMoves": [
+        "Zippy Zap",
+        "Splishy Splash",
+        "Floaty Fall",
+        "Pika Papow",
+        "Bouncy Bubble",
+        "Buzzy Buzz",
+        "Sizzly Slide",
+        "Glitzy Glow",
+        "Baddy Bad",
+        "Sappy Seed",
+        "Freezy Frost",
+        "Sparkly Swirl",
+        "Veevee Volley"
+    ],
+    "Evolutions": [
+        {
+            "Name": "Bulbasaur",
+            "DexNum": 1,
+            "EvolvesIntoName": "Ivysaur",
+            "EvolvesIntoDexNum": 2
+        },
+        {
+            "Name": "Ivysaur",
+            "DexNum": 2,
+            "EvolvesIntoName": "Venusaur",
+            "EvolvesIntoDexNum": 3
+        },
+        {
+            "Name": "Charmander",
+            "DexNum": 4,
+            "EvolvesIntoName": "Charmeleon",
+            "EvolvesIntoDexNum": 5
+        },
+        {
+            "Name": "Charmeleon",
+            "DexNum": 5,
+            "EvolvesIntoName": "Charizard",
+            "EvolvesIntoDexNum": 6
+        },
+        {
+            "Name": "Squirtle",
+            "DexNum": 7,
+            "EvolvesIntoName": "Wartortle",
+            "EvolvesIntoDexNum": 8
+        },
+        {
+            "Name": "Wartortle",
+            "DexNum": 8,
+            "EvolvesIntoName": "Blastoise",
+            "EvolvesIntoDexNum": 9
+        },
+        {
+            "Name": "Caterpie",
+            "DexNum": 10,
+            "EvolvesIntoName": "Metapod",
+            "EvolvesIntoDexNum": 11
+        },
+        {
+            "Name": "Metapod",
+            "DexNum": 11,
+            "EvolvesIntoName": "Butterfree",
+            "EvolvesIntoDexNum": 12
+        },
+        {
+            "Name": "Weedle",
+            "DexNum": 13,
+            "EvolvesIntoName": "Kakuna",
+            "EvolvesIntoDexNum": 14
+        },
+        {
+            "Name": "Kakuna",
+            "DexNum": 14,
+            "EvolvesIntoName": "Beedrill",
+            "EvolvesIntoDexNum": 15
+        },
+        {
+            "Name": "Pidgey",
+            "DexNum": 16,
+            "EvolvesIntoName": "Pidgeotto",
+            "EvolvesIntoDexNum": 17
+        },
+        {
+            "Name": "Pidgeotto",
+            "DexNum": 17,
+            "EvolvesIntoName": "Pidgeot",
+            "EvolvesIntoDexNum": 18
+        },
+        {
+            "Name": "Rattata",
+            "DexNum": 19,
+            "EvolvesIntoName": "Raticate",
+            "EvolvesIntoDexNum": 20
+        },
+        {
+            "Name": "Rattata",
+            "DexNum": 19,
+            "Form": "Alola",
+            "EvolvesIntoName": "Raticate",
+            "EvolvesIntoDexNum": 20,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Spearow",
+            "DexNum": 21,
+            "EvolvesIntoName": "Fearow",
+            "EvolvesIntoDexNum": 22
+        },
+        {
+            "Name": "Ekans",
+            "DexNum": 23,
+            "EvolvesIntoName": "Arbok",
+            "EvolvesIntoDexNum": 24
+        },
+        {
+            "Name": "Pichu",
+            "DexNum": 172,
+            "EvolvesIntoName": "Pikachu",
+            "EvolvesIntoDexNum": 25
+        },
+        {
+            "Name": "Pikachu",
+            "DexNum": 25,
+            "EvolvesIntoName": "Raichu",
+            "EvolvesIntoDexNum": 26
+        },
+        {
+            "Name": "Pikachu",
+            "DexNum": 25,
+            "EvolvesIntoName": "Raichu",
+            "EvolvesIntoDexNum": 26,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Sandshrew",
+            "DexNum": 27,
+            "EvolvesIntoName": "Sandslash",
+            "EvolvesIntoDexNum": 28
+        },
+        {
+            "Name": "Sandshrew",
+            "DexNum": 27,
+            "Form": "Alola",
+            "EvolvesIntoName": "Sandslash",
+            "EvolvesIntoDexNum": 28,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Nidoran♀",
+            "DexNum": 29,
+            "EvolvesIntoName": "Nidorina",
+            "EvolvesIntoDexNum": 30
+        },
+        {
+            "Name": "Nidorina",
+            "DexNum": 30,
+            "EvolvesIntoName": "Nidoqueen",
+            "EvolvesIntoDexNum": 31
+        },
+        {
+            "Name": "Nidoran♂",
+            "DexNum": 32,
+            "EvolvesIntoName": "Nidorino",
+            "EvolvesIntoDexNum": 33
+        },
+        {
+            "Name": "Nidorino",
+            "DexNum": 33,
+            "EvolvesIntoName": "Nidoking",
+            "EvolvesIntoDexNum": 34
+        },
+        {
+            "Name": "Cleffa",
+            "DexNum": 173,
+            "EvolvesIntoName": "Clefairy",
+            "EvolvesIntoDexNum": 35
+        },
+        {
+            "Name": "Clefairy",
+            "DexNum": 35,
+            "EvolvesIntoName": "Clefable",
+            "EvolvesIntoDexNum": 36
+        },
+        {
+            "Name": "Vulpix",
+            "DexNum": 37,
+            "EvolvesIntoName": "Ninetales",
+            "EvolvesIntoDexNum": 38
+        },
+        {
+            "Name": "Vulpix",
+            "DexNum": 37,
+            "Form": "Alola",
+            "EvolvesIntoName": "Ninetales",
+            "EvolvesIntoDexNum": 38,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Igglybuff",
+            "DexNum": 174,
+            "EvolvesIntoName": "Jigglypuff",
+            "EvolvesIntoDexNum": 39
+        },
+        {
+            "Name": "Jigglypuff",
+            "DexNum": 39,
+            "EvolvesIntoName": "Wigglytuff",
+            "EvolvesIntoDexNum": 40
+        },
+        {
+            "Name": "Zubat",
+            "DexNum": 41,
+            "EvolvesIntoName": "Golbat",
+            "EvolvesIntoDexNum": 42
+        },
+        {
+            "Name": "Golbat",
+            "DexNum": 42,
+            "EvolvesIntoName": "Crobat",
+            "EvolvesIntoDexNum": 169
+        },
+        {
+            "Name": "Oddish",
+            "DexNum": 43,
+            "EvolvesIntoName": "Gloom",
+            "EvolvesIntoDexNum": 44
+        },
+        {
+            "Name": "Gloom",
+            "DexNum": 44,
+            "EvolvesIntoName": "Vileplume",
+            "EvolvesIntoDexNum": 45
+        },
+        {
+            "Name": "Gloom",
+            "DexNum": 44,
+            "EvolvesIntoName": "Bellossom",
+            "EvolvesIntoDexNum": 182
+        },
+        {
+            "Name": "Paras",
+            "DexNum": 46,
+            "EvolvesIntoName": "Parasect",
+            "EvolvesIntoDexNum": 47
+        },
+        {
+            "Name": "Venonat",
+            "DexNum": 48,
+            "EvolvesIntoName": "Venomoth",
+            "EvolvesIntoDexNum": 49
+        },
+        {
+            "Name": "Diglett",
+            "DexNum": 50,
+            "EvolvesIntoName": "Dugtrio",
+            "EvolvesIntoDexNum": 51
+        },
+        {
+            "Name": "Diglett",
+            "DexNum": 50,
+            "Form": "Alola",
+            "EvolvesIntoName": "Dugtrio",
+            "EvolvesIntoDexNum": 51,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Meowth",
+            "DexNum": 52,
+            "EvolvesIntoName": "Persian",
+            "EvolvesIntoDexNum": 53
+        },
+        {
+            "Name": "Meowth",
+            "DexNum": 52,
+            "Form": "Alola",
+            "EvolvesIntoName": "Persian",
+            "EvolvesIntoDexNum": 53,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Meowth",
+            "DexNum": 52,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Perrserker",
+            "EvolvesIntoDexNum": 863
+        },
+        {
+            "Name": "Psyduck",
+            "DexNum": 54,
+            "EvolvesIntoName": "Golduck",
+            "EvolvesIntoDexNum": 55
+        },
+        {
+            "Name": "Mankey",
+            "DexNum": 56,
+            "EvolvesIntoName": "Primeape",
+            "EvolvesIntoDexNum": 57
+        },
+        {
+            "Name": "Growlithe",
+            "DexNum": 58,
+            "EvolvesIntoName": "Arcanine",
+            "EvolvesIntoDexNum": 59
+        },
+        {
+            "Name": "Poliwag",
+            "DexNum": 60,
+            "EvolvesIntoName": "Poliwhirl",
+            "EvolvesIntoDexNum": 61
+        },
+        {
+            "Name": "Poliwhirl",
+            "DexNum": 61,
+            "EvolvesIntoName": "Poliwrath",
+            "EvolvesIntoDexNum": 62
+        },
+        {
+            "Name": "Poliwhirl",
+            "DexNum": 61,
+            "EvolvesIntoName": "Politoed",
+            "EvolvesIntoDexNum": 186
+        },
+        {
+            "Name": "Abra",
+            "DexNum": 63,
+            "EvolvesIntoName": "Kadabra",
+            "EvolvesIntoDexNum": 64
+        },
+        {
+            "Name": "Kadabra",
+            "DexNum": 64,
+            "EvolvesIntoName": "Alakazam",
+            "EvolvesIntoDexNum": 65
+        },
+        {
+            "Name": "Machop",
+            "DexNum": 66,
+            "EvolvesIntoName": "Machoke",
+            "EvolvesIntoDexNum": 67
+        },
+        {
+            "Name": "Machoke",
+            "DexNum": 67,
+            "EvolvesIntoName": "Machamp",
+            "EvolvesIntoDexNum": 68
+        },
+        {
+            "Name": "Bellsprout",
+            "DexNum": 69,
+            "EvolvesIntoName": "Weepinbell",
+            "EvolvesIntoDexNum": 70
+        },
+        {
+            "Name": "Weepinbell",
+            "DexNum": 70,
+            "EvolvesIntoName": "Victreebel",
+            "EvolvesIntoDexNum": 71
+        },
+        {
+            "Name": "Tentacool",
+            "DexNum": 72,
+            "EvolvesIntoName": "Tentacruel",
+            "EvolvesIntoDexNum": 73
+        },
+        {
+            "Name": "Geodude",
+            "DexNum": 74,
+            "EvolvesIntoName": "Graveler",
+            "EvolvesIntoDexNum": 75
+        },
+        {
+            "Name": "Graveler",
+            "DexNum": 75,
+            "EvolvesIntoName": "Golem",
+            "EvolvesIntoDexNum": 76
+        },
+        {
+            "Name": "Geodude",
+            "DexNum": 74,
+            "Form": "Alola",
+            "EvolvesIntoName": "Graveler",
+            "EvolvesIntoDexNum": 75,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Graveler",
+            "DexNum": 75,
+            "Form": "Alola",
+            "EvolvesIntoName": "Golem",
+            "EvolvesIntoDexNum": 76,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Ponyta",
+            "DexNum": 77,
+            "EvolvesIntoName": "Rapidash",
+            "EvolvesIntoDexNum": 78
+        },
+        {
+            "Name": "Ponyta",
+            "DexNum": 77,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Rapidash",
+            "EvolvesIntoDexNum": 78,
+            "EvolvesIntoForm": "Galarian"
+        },
+        {
+            "Name": "Slowpoke",
+            "DexNum": 79,
+            "EvolvesIntoName": "Slowbro",
+            "EvolvesIntoDexNum": 80
+        },
+        {
+            "Name": "Slowpoke",
+            "DexNum": 79,
+            "EvolvesIntoName": "Slowking",
+            "EvolvesIntoDexNum": 199
+        },
+        {
+            "Name": "Slowpoke",
+            "DexNum": 79,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Slowbro",
+            "EvolvesIntoDexNum": 80,
+            "EvolvesIntoForm": "Galarian"
+        },
+        {
+            "Name": "Magnemite",
+            "DexNum": 81,
+            "EvolvesIntoName": "Magneton",
+            "EvolvesIntoDexNum": 82
+        },
+        {
+            "Name": "Magneton",
+            "DexNum": 82,
+            "EvolvesIntoName": "Magnezone",
+            "EvolvesIntoDexNum": 462
+        },
+        {
+            "Name": "Doduo",
+            "DexNum": 84,
+            "EvolvesIntoName": "Dodrio",
+            "EvolvesIntoDexNum": 85
+        },
+        {
+            "Name": "Seel",
+            "DexNum": 86,
+            "EvolvesIntoName": "Dewgong",
+            "EvolvesIntoDexNum": 87
+        },
+        {
+            "Name": "Grimer",
+            "DexNum": 88,
+            "EvolvesIntoName": "Muk",
+            "EvolvesIntoDexNum": 89
+        },
+        {
+            "Name": "Grimer",
+            "DexNum": 88,
+            "Form": "Alola",
+            "EvolvesIntoName": "Muk",
+            "EvolvesIntoDexNum": 89,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Shellder",
+            "DexNum": 90,
+            "EvolvesIntoName": "Cloyster",
+            "EvolvesIntoDexNum": 91
+        },
+        {
+            "Name": "Gastly",
+            "DexNum": 92,
+            "EvolvesIntoName": "Haunter",
+            "EvolvesIntoDexNum": 93
+        },
+        {
+            "Name": "Haunter",
+            "DexNum": 93,
+            "EvolvesIntoName": "Gengar",
+            "EvolvesIntoDexNum": 94
+        },
+        {
+            "Name": "Onix",
+            "DexNum": 95,
+            "EvolvesIntoName": "Steelix",
+            "EvolvesIntoDexNum": 208
+        },
+        {
+            "Name": "Drowzee",
+            "DexNum": 96,
+            "EvolvesIntoName": "Hypno",
+            "EvolvesIntoDexNum": 97
+        },
+        {
+            "Name": "Krabby",
+            "DexNum": 98,
+            "EvolvesIntoName": "Kingler",
+            "EvolvesIntoDexNum": 99
+        },
+        {
+            "Name": "Voltorb",
+            "DexNum": 100,
+            "EvolvesIntoName": "Electrode",
+            "EvolvesIntoDexNum": 101
+        },
+        {
+            "Name": "Exeggcute",
+            "DexNum": 102,
+            "EvolvesIntoName": "Exeggutor",
+            "EvolvesIntoDexNum": 103
+        },
+        {
+            "Name": "Exeggcute",
+            "DexNum": 102,
+            "EvolvesIntoName": "Exeggutor",
+            "EvolvesIntoDexNum": 103,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Cubone",
+            "DexNum": 104,
+            "EvolvesIntoName": "Marowak",
+            "EvolvesIntoDexNum": 105
+        },
+        {
+            "Name": "Cubone",
+            "DexNum": 104,
+            "EvolvesIntoName": "Marowak",
+            "EvolvesIntoDexNum": 105,
+            "EvolvesIntoForm": "Alola"
+        },
+        {
+            "Name": "Tyrogue",
+            "DexNum": 236,
+            "EvolvesIntoName": "Hitmonlee",
+            "EvolvesIntoDexNum": 106
+        },
+        {
+            "Name": "Tyrogue",
+            "DexNum": 236,
+            "EvolvesIntoName": "Hitmonchan",
+            "EvolvesIntoDexNum": 107
+        },
+        {
+            "Name": "Tyrogue",
+            "DexNum": 236,
+            "EvolvesIntoName": "Hitmontop",
+            "EvolvesIntoDexNum": 237
+        },
+        {
+            "Name": "Lickitung",
+            "DexNum": 108,
+            "EvolvesIntoName": "Lickilicky",
+            "EvolvesIntoDexNum": 463
+        },
+        {
+            "Name": "Koffing",
+            "DexNum": 109,
+            "EvolvesIntoName": "Weezing",
+            "EvolvesIntoDexNum": 110
+        },
+        {
+            "Name": "Koffing",
+            "DexNum": 109,
+            "EvolvesIntoName": "Weezing",
+            "EvolvesIntoDexNum": 110,
+            "EvolvesIntoForm": "Galarian"
+        },
+        {
+            "Name": "Rhyhorn",
+            "DexNum": 111,
+            "EvolvesIntoName": "Rhydon",
+            "EvolvesIntoDexNum": 112
+        },
+        {
+            "Name": "Rhydon",
+            "DexNum": 112,
+            "EvolvesIntoName": "Rhyperior",
+            "EvolvesIntoDexNum": 464
+        },
+        {
+            "Name": "Happiny",
+            "DexNum": 440,
+            "EvolvesIntoName": "Chansey",
+            "EvolvesIntoDexNum": 113
+        },
+        {
+            "Name": "Chansey",
+            "DexNum": 113,
+            "EvolvesIntoName": "Blissey",
+            "EvolvesIntoDexNum": 242
+        },
+        {
+            "Name": "Tangela",
+            "DexNum": 114,
+            "EvolvesIntoName": "Tangrowth",
+            "EvolvesIntoDexNum": 465
+        },
+        {
+            "Name": "Horsea",
+            "DexNum": 116,
+            "EvolvesIntoName": "Seadra",
+            "EvolvesIntoDexNum": 117
+        },
+        {
+            "Name": "Seadra",
+            "DexNum": 117,
+            "EvolvesIntoName": "Kingdra",
+            "EvolvesIntoDexNum": 230
+        },
+        {
+            "Name": "Goldeen",
+            "DexNum": 118,
+            "EvolvesIntoName": "Seaking",
+            "EvolvesIntoDexNum": 119
+        },
+        {
+            "Name": "Staryu",
+            "DexNum": 120,
+            "EvolvesIntoName": "Starmie",
+            "EvolvesIntoDexNum": 121
+        },
+        {
+            "Name": "Mime Jr.",
+            "DexNum": 439,
+            "EvolvesIntoName": "Mr. Mime",
+            "EvolvesIntoDexNum": 122
+        },
+        {
+            "Name": "Mime Jr.",
+            "DexNum": 439,
+            "EvolvesIntoName": "Mr. Mime",
+            "EvolvesIntoDexNum": 122,
+            "EvolvesIntoForm": "Galarian"
+        },
+        {
+            "Name": "Mr. Mime",
+            "DexNum": 122,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Mr. Rime",
+            "EvolvesIntoDexNum": 866
+        },
+        {
+            "Name": "Scyther",
+            "DexNum": 123,
+            "EvolvesIntoName": "Scizor",
+            "EvolvesIntoDexNum": 212
+        },
+        {
+            "Name": "Smoochum",
+            "DexNum": 238,
+            "EvolvesIntoName": "Jynx",
+            "EvolvesIntoDexNum": 124
+        },
+        {
+            "Name": "Elekid",
+            "DexNum": 239,
+            "EvolvesIntoName": "Electabuzz",
+            "EvolvesIntoDexNum": 125
+        },
+        {
+            "Name": "Electabuzz",
+            "DexNum": 125,
+            "EvolvesIntoName": "Electivire",
+            "EvolvesIntoDexNum": 466
+        },
+        {
+            "Name": "Magby",
+            "DexNum": 240,
+            "EvolvesIntoName": "Magmar",
+            "EvolvesIntoDexNum": 126
+        },
+        {
+            "Name": "Magmar",
+            "DexNum": 126,
+            "EvolvesIntoName": "Magmortar",
+            "EvolvesIntoDexNum": 467
+        },
+        {
+            "Name": "Magikarp",
+            "DexNum": 129,
+            "EvolvesIntoName": "Gyarados",
+            "EvolvesIntoDexNum": 130
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Vaporeon",
+            "EvolvesIntoDexNum": 134
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Jolteon",
+            "EvolvesIntoDexNum": 135
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Flareon",
+            "EvolvesIntoDexNum": 136
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Espeon",
+            "EvolvesIntoDexNum": 196
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Umbreon",
+            "EvolvesIntoDexNum": 197
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Leafeon",
+            "EvolvesIntoDexNum": 470
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Glaceon",
+            "EvolvesIntoDexNum": 471
+        },
+        {
+            "Name": "Eevee",
+            "DexNum": 133,
+            "EvolvesIntoName": "Sylveon",
+            "EvolvesIntoDexNum": 700
+        },
+        {
+            "Name": "Porygon",
+            "DexNum": 137,
+            "EvolvesIntoName": "Porygon2",
+            "EvolvesIntoDexNum": 233
+        },
+        {
+            "Name": "Porygon2",
+            "DexNum": 233,
+            "EvolvesIntoName": "Porygon-Z",
+            "EvolvesIntoDexNum": 474
+        },
+        {
+            "Name": "Omanyte",
+            "DexNum": 138,
+            "EvolvesIntoName": "Omastar",
+            "EvolvesIntoDexNum": 139
+        },
+        {
+            "Name": "Kabuto",
+            "DexNum": 140,
+            "EvolvesIntoName": "Kabutops",
+            "EvolvesIntoDexNum": 141
+        },
+        {
+            "Name": "Munchlax",
+            "DexNum": 446,
+            "EvolvesIntoName": "Snorlax",
+            "EvolvesIntoDexNum": 143
+        },
+        {
+            "Name": "Dratini",
+            "DexNum": 147,
+            "EvolvesIntoName": "Dragonair",
+            "EvolvesIntoDexNum": 148
+        },
+        {
+            "Name": "Dragonair",
+            "DexNum": 148,
+            "EvolvesIntoName": "Dragonite",
+            "EvolvesIntoDexNum": 149
+        },
+        {
+            "Name": "Chikorita",
+            "DexNum": 152,
+            "EvolvesIntoName": "Bayleef",
+            "EvolvesIntoDexNum": 153
+        },
+        {
+            "Name": "Bayleef",
+            "DexNum": 153,
+            "EvolvesIntoName": "Meganium",
+            "EvolvesIntoDexNum": 154
+        },
+        {
+            "Name": "Cyndaquil",
+            "DexNum": 155,
+            "EvolvesIntoName": "Quilava",
+            "EvolvesIntoDexNum": 156
+        },
+        {
+            "Name": "Quilava",
+            "DexNum": 156,
+            "EvolvesIntoName": "Typhlosion",
+            "EvolvesIntoDexNum": 157
+        },
+        {
+            "Name": "Totodile",
+            "DexNum": 158,
+            "EvolvesIntoName": "Croconaw",
+            "EvolvesIntoDexNum": 159
+        },
+        {
+            "Name": "Croconaw",
+            "DexNum": 159,
+            "EvolvesIntoName": "Feraligatr",
+            "EvolvesIntoDexNum": 160
+        },
+        {
+            "Name": "Sentret",
+            "DexNum": 161,
+            "EvolvesIntoName": "Furret",
+            "EvolvesIntoDexNum": 162
+        },
+        {
+            "Name": "Hoothoot",
+            "DexNum": 163,
+            "EvolvesIntoName": "Noctowl",
+            "EvolvesIntoDexNum": 164
+        },
+        {
+            "Name": "Ledyba",
+            "DexNum": 165,
+            "EvolvesIntoName": "Ledian",
+            "EvolvesIntoDexNum": 166
+        },
+        {
+            "Name": "Spinarak",
+            "DexNum": 167,
+            "EvolvesIntoName": "Ariados",
+            "EvolvesIntoDexNum": 168
+        },
+        {
+            "Name": "Chinchou",
+            "DexNum": 170,
+            "EvolvesIntoName": "Lanturn",
+            "EvolvesIntoDexNum": 171
+        },
+        {
+            "Name": "Togepi",
+            "DexNum": 175,
+            "EvolvesIntoName": "Togetic",
+            "EvolvesIntoDexNum": 176
+        },
+        {
+            "Name": "Togetic",
+            "DexNum": 176,
+            "EvolvesIntoName": "Togekiss",
+            "EvolvesIntoDexNum": 468
+        },
+        {
+            "Name": "Natu",
+            "DexNum": 177,
+            "EvolvesIntoName": "Xatu",
+            "EvolvesIntoDexNum": 178
+        },
+        {
+            "Name": "Mareep",
+            "DexNum": 179,
+            "EvolvesIntoName": "Flaaffy",
+            "EvolvesIntoDexNum": 180
+        },
+        {
+            "Name": "Flaaffy",
+            "DexNum": 180,
+            "EvolvesIntoName": "Ampharos",
+            "EvolvesIntoDexNum": 181
+        },
+        {
+            "Name": "Azurill",
+            "DexNum": 298,
+            "EvolvesIntoName": "Marill",
+            "EvolvesIntoDexNum": 183
+        },
+        {
+            "Name": "Marill",
+            "DexNum": 183,
+            "EvolvesIntoName": "Azumarill",
+            "EvolvesIntoDexNum": 184
+        },
+        {
+            "Name": "Bonsly",
+            "DexNum": 438,
+            "EvolvesIntoName": "Sudowoodo",
+            "EvolvesIntoDexNum": 185
+        },
+        {
+            "Name": "Hoppip",
+            "DexNum": 187,
+            "EvolvesIntoName": "Skiploom",
+            "EvolvesIntoDexNum": 188
+        },
+        {
+            "Name": "Skiploom",
+            "DexNum": 188,
+            "EvolvesIntoName": "Jumpluff",
+            "EvolvesIntoDexNum": 189
+        },
+        {
+            "Name": "Aipom",
+            "DexNum": 190,
+            "EvolvesIntoName": "Ambipom",
+            "EvolvesIntoDexNum": 424
+        },
+        {
+            "Name": "Sunkern",
+            "DexNum": 191,
+            "EvolvesIntoName": "Sunflora",
+            "EvolvesIntoDexNum": 192
+        },
+        {
+            "Name": "Yanma",
+            "DexNum": 193,
+            "EvolvesIntoName": "Yanmega",
+            "EvolvesIntoDexNum": 469
+        },
+        {
+            "Name": "Wooper",
+            "DexNum": 194,
+            "EvolvesIntoName": "Quagsire",
+            "EvolvesIntoDexNum": 195
+        },
+        {
+            "Name": "Murkrow",
+            "DexNum": 198,
+            "EvolvesIntoName": "Honchkrow",
+            "EvolvesIntoDexNum": 430
+        },
+        {
+            "Name": "Misdreavus",
+            "DexNum": 200,
+            "EvolvesIntoName": "Mismagius",
+            "EvolvesIntoDexNum": 429
+        },
+        {
+            "Name": "Wynaut",
+            "DexNum": 360,
+            "EvolvesIntoName": "Wobbuffet",
+            "EvolvesIntoDexNum": 202
+        },
+        {
+            "Name": "Pineco",
+            "DexNum": 204,
+            "EvolvesIntoName": "Forretress",
+            "EvolvesIntoDexNum": 205
+        },
+        {
+            "Name": "Gligar",
+            "DexNum": 207,
+            "EvolvesIntoName": "Gliscor",
+            "EvolvesIntoDexNum": 472
+        },
+        {
+            "Name": "Snubbull",
+            "DexNum": 209,
+            "EvolvesIntoName": "Granbull",
+            "EvolvesIntoDexNum": 210
+        },
+        {
+            "Name": "Sneasel",
+            "DexNum": 215,
+            "EvolvesIntoName": "Weavile",
+            "EvolvesIntoDexNum": 461
+        },
+        {
+            "Name": "Teddiursa",
+            "DexNum": 216,
+            "EvolvesIntoName": "Ursaring",
+            "EvolvesIntoDexNum": 217
+        },
+        {
+            "Name": "Slugma",
+            "DexNum": 218,
+            "EvolvesIntoName": "Magcargo",
+            "EvolvesIntoDexNum": 219
+        },
+        {
+            "Name": "Swinub",
+            "DexNum": 220,
+            "EvolvesIntoName": "Piloswine",
+            "EvolvesIntoDexNum": 221
+        },
+        {
+            "Name": "Piloswine",
+            "DexNum": 221,
+            "EvolvesIntoName": "Mamoswine",
+            "EvolvesIntoDexNum": 473
+        },
+        {
+            "Name": "Remoraid",
+            "DexNum": 223,
+            "EvolvesIntoName": "Octillery",
+            "EvolvesIntoDexNum": 224
+        },
+        {
+            "Name": "Mantyke",
+            "DexNum": 458,
+            "EvolvesIntoName": "Mantine",
+            "EvolvesIntoDexNum": 226
+        },
+        {
+            "Name": "Houndour",
+            "DexNum": 228,
+            "EvolvesIntoName": "Houndoom",
+            "EvolvesIntoDexNum": 229
+        },
+        {
+            "Name": "Phanpy",
+            "DexNum": 231,
+            "EvolvesIntoName": "Donphan",
+            "EvolvesIntoDexNum": 232
+        },
+        {
+            "Name": "Larvitar",
+            "DexNum": 246,
+            "EvolvesIntoName": "Pupitar",
+            "EvolvesIntoDexNum": 247
+        },
+        {
+            "Name": "Pupitar",
+            "DexNum": 247,
+            "EvolvesIntoName": "Tyranitar",
+            "EvolvesIntoDexNum": 248
+        },
+        {
+            "Name": "Treecko",
+            "DexNum": 252,
+            "EvolvesIntoName": "Grovyle",
+            "EvolvesIntoDexNum": 253
+        },
+        {
+            "Name": "Grovyle",
+            "DexNum": 253,
+            "EvolvesIntoName": "Sceptile",
+            "EvolvesIntoDexNum": 254
+        },
+        {
+            "Name": "Torchic",
+            "DexNum": 255,
+            "EvolvesIntoName": "Combusken",
+            "EvolvesIntoDexNum": 256
+        },
+        {
+            "Name": "Combusken",
+            "DexNum": 256,
+            "EvolvesIntoName": "Blaziken",
+            "EvolvesIntoDexNum": 257
+        },
+        {
+            "Name": "Mudkip",
+            "DexNum": 258,
+            "EvolvesIntoName": "Marshtomp",
+            "EvolvesIntoDexNum": 259
+        },
+        {
+            "Name": "Marshtomp",
+            "DexNum": 259,
+            "EvolvesIntoName": "Swampert",
+            "EvolvesIntoDexNum": 260
+        },
+        {
+            "Name": "Poochyena",
+            "DexNum": 261,
+            "EvolvesIntoName": "Mightyena",
+            "EvolvesIntoDexNum": 262
+        },
+        {
+            "Name": "Zigzagoon",
+            "DexNum": 263,
+            "EvolvesIntoName": "Linoone",
+            "EvolvesIntoDexNum": 264
+        },
+        {
+            "Name": "Zigzagoon",
+            "DexNum": 263,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Linoone",
+            "EvolvesIntoDexNum": 264,
+            "EvolvesIntoForm": "Galarian"
+        },
+        {
+            "Name": "Linoone",
+            "DexNum": 264,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Obstagoon",
+            "EvolvesIntoDexNum": 862
+        },
+        {
+            "Name": "Wurmple",
+            "DexNum": 265,
+            "EvolvesIntoName": "Silcoon",
+            "EvolvesIntoDexNum": 266
+        },
+        {
+            "Name": "Silcoon",
+            "DexNum": 266,
+            "EvolvesIntoName": "Beautifly",
+            "EvolvesIntoDexNum": 267
+        },
+        {
+            "Name": "Wurmple",
+            "DexNum": 265,
+            "EvolvesIntoName": "Cascoon",
+            "EvolvesIntoDexNum": 268
+        },
+        {
+            "Name": "Cascoon",
+            "DexNum": 268,
+            "EvolvesIntoName": "Dustox",
+            "EvolvesIntoDexNum": 269
+        },
+        {
+            "Name": "Lotad",
+            "DexNum": 270,
+            "EvolvesIntoName": "Lombre",
+            "EvolvesIntoDexNum": 271
+        },
+        {
+            "Name": "Lombre",
+            "DexNum": 271,
+            "EvolvesIntoName": "Ludicolo",
+            "EvolvesIntoDexNum": 272
+        },
+        {
+            "Name": "Seedot",
+            "DexNum": 273,
+            "EvolvesIntoName": "Nuzleaf",
+            "EvolvesIntoDexNum": 274
+        },
+        {
+            "Name": "Nuzleaf",
+            "DexNum": 274,
+            "EvolvesIntoName": "Shiftry",
+            "EvolvesIntoDexNum": 275
+        },
+        {
+            "Name": "Taillow",
+            "DexNum": 276,
+            "EvolvesIntoName": "Swellow",
+            "EvolvesIntoDexNum": 277
+        },
+        {
+            "Name": "Wingull",
+            "DexNum": 278,
+            "EvolvesIntoName": "Pelipper",
+            "EvolvesIntoDexNum": 279
+        },
+        {
+            "Name": "Ralts",
+            "DexNum": 280,
+            "EvolvesIntoName": "Kirlia",
+            "EvolvesIntoDexNum": 281
+        },
+        {
+            "Name": "Kirlia",
+            "DexNum": 281,
+            "EvolvesIntoName": "Gardevoir",
+            "EvolvesIntoDexNum": 282
+        },
+        {
+            "Name": "Kirlia",
+            "DexNum": 281,
+            "EvolvesIntoName": "Gallade",
+            "EvolvesIntoDexNum": 475
+        },
+        {
+            "Name": "Surskit",
+            "DexNum": 283,
+            "EvolvesIntoName": "Masquerain",
+            "EvolvesIntoDexNum": 284
+        },
+        {
+            "Name": "Shroomish",
+            "DexNum": 285,
+            "EvolvesIntoName": "Breloom",
+            "EvolvesIntoDexNum": 286
+        },
+        {
+            "Name": "Slakoth",
+            "DexNum": 287,
+            "EvolvesIntoName": "Vigoroth",
+            "EvolvesIntoDexNum": 288
+        },
+        {
+            "Name": "Vigoroth",
+            "DexNum": 288,
+            "EvolvesIntoName": "Slaking",
+            "EvolvesIntoDexNum": 289
+        },
+        {
+            "Name": "Nincada",
+            "DexNum": 290,
+            "EvolvesIntoName": "Ninjask",
+            "EvolvesIntoDexNum": 291
+        },
+        {
+            "Name": "Nincada",
+            "DexNum": 290,
+            "EvolvesIntoName": "Shedinja",
+            "EvolvesIntoDexNum": 292
+        },
+        {
+            "Name": "Whismur",
+            "DexNum": 293,
+            "EvolvesIntoName": "Loudred",
+            "EvolvesIntoDexNum": 294
+        },
+        {
+            "Name": "Loudred",
+            "DexNum": 294,
+            "EvolvesIntoName": "Exploud",
+            "EvolvesIntoDexNum": 295
+        },
+        {
+            "Name": "Makuhita",
+            "DexNum": 296,
+            "EvolvesIntoName": "Hariyama",
+            "EvolvesIntoDexNum": 297
+        },
+        {
+            "Name": "Nosepass",
+            "DexNum": 299,
+            "EvolvesIntoName": "Probopass",
+            "EvolvesIntoDexNum": 476
+        },
+        {
+            "Name": "Skitty",
+            "DexNum": 300,
+            "EvolvesIntoName": "Delcatty",
+            "EvolvesIntoDexNum": 301
+        },
+        {
+            "Name": "Aron",
+            "DexNum": 304,
+            "EvolvesIntoName": "Lairon",
+            "EvolvesIntoDexNum": 305
+        },
+        {
+            "Name": "Lairon",
+            "DexNum": 305,
+            "EvolvesIntoName": "Aggron",
+            "EvolvesIntoDexNum": 306
+        },
+        {
+            "Name": "Meditite",
+            "DexNum": 307,
+            "EvolvesIntoName": "Medicham",
+            "EvolvesIntoDexNum": 308
+        },
+        {
+            "Name": "Electrike",
+            "DexNum": 309,
+            "EvolvesIntoName": "Manectric",
+            "EvolvesIntoDexNum": 310
+        },
+        {
+            "Name": "Budew",
+            "DexNum": 406,
+            "EvolvesIntoName": "Roselia",
+            "EvolvesIntoDexNum": 315
+        },
+        {
+            "Name": "Roselia",
+            "DexNum": 315,
+            "EvolvesIntoName": "Roserade",
+            "EvolvesIntoDexNum": 407
+        },
+        {
+            "Name": "Gulpin",
+            "DexNum": 316,
+            "EvolvesIntoName": "Swalot",
+            "EvolvesIntoDexNum": 317
+        },
+        {
+            "Name": "Carvanha",
+            "DexNum": 318,
+            "EvolvesIntoName": "Sharpedo",
+            "EvolvesIntoDexNum": 319
+        },
+        {
+            "Name": "Wailmer",
+            "DexNum": 320,
+            "EvolvesIntoName": "Wailord",
+            "EvolvesIntoDexNum": 321
+        },
+        {
+            "Name": "Numel",
+            "DexNum": 322,
+            "EvolvesIntoName": "Camerupt",
+            "EvolvesIntoDexNum": 323
+        },
+        {
+            "Name": "Spoink",
+            "DexNum": 325,
+            "EvolvesIntoName": "Grumpig",
+            "EvolvesIntoDexNum": 326
+        },
+        {
+            "Name": "Trapinch",
+            "DexNum": 328,
+            "EvolvesIntoName": "Vibrava",
+            "EvolvesIntoDexNum": 329
+        },
+        {
+            "Name": "Vibrava",
+            "DexNum": 329,
+            "EvolvesIntoName": "Flygon",
+            "EvolvesIntoDexNum": 330
+        },
+        {
+            "Name": "Cacnea",
+            "DexNum": 331,
+            "EvolvesIntoName": "Cacturne",
+            "EvolvesIntoDexNum": 332
+        },
+        {
+            "Name": "Swablu",
+            "DexNum": 333,
+            "EvolvesIntoName": "Altaria",
+            "EvolvesIntoDexNum": 334
+        },
+        {
+            "Name": "Barboach",
+            "DexNum": 339,
+            "EvolvesIntoName": "Whiscash",
+            "EvolvesIntoDexNum": 340
+        },
+        {
+            "Name": "Corphish",
+            "DexNum": 341,
+            "EvolvesIntoName": "Crawdaunt",
+            "EvolvesIntoDexNum": 342
+        },
+        {
+            "Name": "Baltoy",
+            "DexNum": 343,
+            "EvolvesIntoName": "Claydol",
+            "EvolvesIntoDexNum": 344
+        },
+        {
+            "Name": "Lileep",
+            "DexNum": 345,
+            "EvolvesIntoName": "Cradily",
+            "EvolvesIntoDexNum": 346
+        },
+        {
+            "Name": "Anorith",
+            "DexNum": 347,
+            "EvolvesIntoName": "Armaldo",
+            "EvolvesIntoDexNum": 348
+        },
+        {
+            "Name": "Feebas",
+            "DexNum": 349,
+            "EvolvesIntoName": "Milotic",
+            "EvolvesIntoDexNum": 350
+        },
+        {
+            "Name": "Shuppet",
+            "DexNum": 353,
+            "EvolvesIntoName": "Banette",
+            "EvolvesIntoDexNum": 354
+        },
+        {
+            "Name": "Duskull",
+            "DexNum": 355,
+            "EvolvesIntoName": "Dusclops",
+            "EvolvesIntoDexNum": 356
+        },
+        {
+            "Name": "Dusclops",
+            "DexNum": 356,
+            "EvolvesIntoName": "Dusknoir",
+            "EvolvesIntoDexNum": 477
+        },
+        {
+            "Name": "Chingling",
+            "DexNum": 433,
+            "EvolvesIntoName": "Chimecho",
+            "EvolvesIntoDexNum": 358
+        },
+        {
+            "Name": "Snorunt",
+            "DexNum": 361,
+            "EvolvesIntoName": "Glalie",
+            "EvolvesIntoDexNum": 362
+        },
+        {
+            "Name": "Snorunt",
+            "DexNum": 361,
+            "EvolvesIntoName": "Froslass",
+            "EvolvesIntoDexNum": 478
+        },
+        {
+            "Name": "Spheal",
+            "DexNum": 363,
+            "EvolvesIntoName": "Sealeo",
+            "EvolvesIntoDexNum": 364
+        },
+        {
+            "Name": "Sealeo",
+            "DexNum": 364,
+            "EvolvesIntoName": "Walrein",
+            "EvolvesIntoDexNum": 365
+        },
+        {
+            "Name": "Clamperl",
+            "DexNum": 366,
+            "EvolvesIntoName": "Huntail",
+            "EvolvesIntoDexNum": 367
+        },
+        {
+            "Name": "Clamperl",
+            "DexNum": 366,
+            "EvolvesIntoName": "Gorebyss",
+            "EvolvesIntoDexNum": 368
+        },
+        {
+            "Name": "Bagon",
+            "DexNum": 371,
+            "EvolvesIntoName": "Shelgon",
+            "EvolvesIntoDexNum": 372
+        },
+        {
+            "Name": "Shelgon",
+            "DexNum": 372,
+            "EvolvesIntoName": "Salamence",
+            "EvolvesIntoDexNum": 373
+        },
+        {
+            "Name": "Beldum",
+            "DexNum": 374,
+            "EvolvesIntoName": "Metang",
+            "EvolvesIntoDexNum": 375
+        },
+        {
+            "Name": "Metang",
+            "DexNum": 375,
+            "EvolvesIntoName": "Metagross",
+            "EvolvesIntoDexNum": 376
+        },
+        {
+            "Name": "Turtwig",
+            "DexNum": 387,
+            "EvolvesIntoName": "Grotle",
+            "EvolvesIntoDexNum": 388
+        },
+        {
+            "Name": "Grotle",
+            "DexNum": 388,
+            "EvolvesIntoName": "Torterra",
+            "EvolvesIntoDexNum": 389
+        },
+        {
+            "Name": "Chimchar",
+            "DexNum": 390,
+            "EvolvesIntoName": "Monferno",
+            "EvolvesIntoDexNum": 391
+        },
+        {
+            "Name": "Monferno",
+            "DexNum": 391,
+            "EvolvesIntoName": "Infernape",
+            "EvolvesIntoDexNum": 392
+        },
+        {
+            "Name": "Piplup",
+            "DexNum": 393,
+            "EvolvesIntoName": "Prinplup",
+            "EvolvesIntoDexNum": 394
+        },
+        {
+            "Name": "Prinplup",
+            "DexNum": 394,
+            "EvolvesIntoName": "Empoleon",
+            "EvolvesIntoDexNum": 395
+        },
+        {
+            "Name": "Starly",
+            "DexNum": 396,
+            "EvolvesIntoName": "Staravia",
+            "EvolvesIntoDexNum": 397
+        },
+        {
+            "Name": "Staravia",
+            "DexNum": 397,
+            "EvolvesIntoName": "Staraptor",
+            "EvolvesIntoDexNum": 398
+        },
+        {
+            "Name": "Bidoof",
+            "DexNum": 399,
+            "EvolvesIntoName": "Bibarel",
+            "EvolvesIntoDexNum": 400
+        },
+        {
+            "Name": "Kricketot",
+            "DexNum": 401,
+            "EvolvesIntoName": "Kricketune",
+            "EvolvesIntoDexNum": 402
+        },
+        {
+            "Name": "Shinx",
+            "DexNum": 403,
+            "EvolvesIntoName": "Luxio",
+            "EvolvesIntoDexNum": 404
+        },
+        {
+            "Name": "Luxio",
+            "DexNum": 404,
+            "EvolvesIntoName": "Luxray",
+            "EvolvesIntoDexNum": 405
+        },
+        {
+            "Name": "Cranidos",
+            "DexNum": 408,
+            "EvolvesIntoName": "Rampardos",
+            "EvolvesIntoDexNum": 409
+        },
+        {
+            "Name": "Shieldon",
+            "DexNum": 410,
+            "EvolvesIntoName": "Bastiodon",
+            "EvolvesIntoDexNum": 411
+        },
+        {
+            "Name": "Burmy",
+            "DexNum": 412,
+            "EvolvesIntoName": "Wormadam",
+            "EvolvesIntoDexNum": 413,
+            "EvolvesIntoForm": "Plant"
+        },
+        {
+            "Name": "Burmy",
+            "DexNum": 412,
+            "EvolvesIntoName": "Wormadam",
+            "EvolvesIntoDexNum": 413,
+            "EvolvesIntoForm": "Sandy"
+        },
+        {
+            "Name": "Burmy",
+            "DexNum": 412,
+            "EvolvesIntoName": "Wormadam",
+            "EvolvesIntoDexNum": 413,
+            "EvolvesIntoForm": "Trash"
+        },
+        {
+            "Name": "Burmy",
+            "DexNum": 412,
+            "EvolvesIntoName": "Mothim",
+            "EvolvesIntoDexNum": 414
+        },
+        {
+            "Name": "Combee",
+            "DexNum": 415,
+            "EvolvesIntoName": "Vespiquen",
+            "EvolvesIntoDexNum": 416
+        },
+        {
+            "Name": "Buizel",
+            "DexNum": 418,
+            "EvolvesIntoName": "Floatzel",
+            "EvolvesIntoDexNum": 419
+        },
+        {
+            "Name": "Cherubi",
+            "DexNum": 420,
+            "EvolvesIntoName": "Cherrim",
+            "EvolvesIntoDexNum": 421
+        },
+        {
+            "Name": "Shellos",
+            "DexNum": 422,
+            "EvolvesIntoName": "Gastrodon",
+            "EvolvesIntoDexNum": 423
+        },
+        {
+            "Name": "Drifloon",
+            "DexNum": 425,
+            "EvolvesIntoName": "Drifblim",
+            "EvolvesIntoDexNum": 426
+        },
+        {
+            "Name": "Buneary",
+            "DexNum": 427,
+            "EvolvesIntoName": "Lopunny",
+            "EvolvesIntoDexNum": 428
+        },
+        {
+            "Name": "Glameow",
+            "DexNum": 431,
+            "EvolvesIntoName": "Purugly",
+            "EvolvesIntoDexNum": 432
+        },
+        {
+            "Name": "Stunky",
+            "DexNum": 434,
+            "EvolvesIntoName": "Skuntank",
+            "EvolvesIntoDexNum": 435
+        },
+        {
+            "Name": "Bronzor",
+            "DexNum": 436,
+            "EvolvesIntoName": "Bronzong",
+            "EvolvesIntoDexNum": 437
+        },
+        {
+            "Name": "Gible",
+            "DexNum": 443,
+            "EvolvesIntoName": "Gabite",
+            "EvolvesIntoDexNum": 444
+        },
+        {
+            "Name": "Gabite",
+            "DexNum": 444,
+            "EvolvesIntoName": "Garchomp",
+            "EvolvesIntoDexNum": 445
+        },
+        {
+            "Name": "Riolu",
+            "DexNum": 447,
+            "EvolvesIntoName": "Lucario",
+            "EvolvesIntoDexNum": 448
+        },
+        {
+            "Name": "Hippopotas",
+            "DexNum": 449,
+            "EvolvesIntoName": "Hippowdon",
+            "EvolvesIntoDexNum": 450
+        },
+        {
+            "Name": "Skorupi",
+            "DexNum": 451,
+            "EvolvesIntoName": "Drapion",
+            "EvolvesIntoDexNum": 452
+        },
+        {
+            "Name": "Croagunk",
+            "DexNum": 453,
+            "EvolvesIntoName": "Toxicroak",
+            "EvolvesIntoDexNum": 454
+        },
+        {
+            "Name": "Finneon",
+            "DexNum": 456,
+            "EvolvesIntoName": "Lumineon",
+            "EvolvesIntoDexNum": 457
+        },
+        {
+            "Name": "Snover",
+            "DexNum": 459,
+            "EvolvesIntoName": "Abomasnow",
+            "EvolvesIntoDexNum": 460
+        },
+        {
+            "Name": "Snivy",
+            "DexNum": 495,
+            "EvolvesIntoName": "Servine",
+            "EvolvesIntoDexNum": 496
+        },
+        {
+            "Name": "Servine",
+            "DexNum": 496,
+            "EvolvesIntoName": "Serperior",
+            "EvolvesIntoDexNum": 497
+        },
+        {
+            "Name": "Tepig",
+            "DexNum": 498,
+            "EvolvesIntoName": "Pignite",
+            "EvolvesIntoDexNum": 499
+        },
+        {
+            "Name": "Pignite",
+            "DexNum": 499,
+            "EvolvesIntoName": "Emboar",
+            "EvolvesIntoDexNum": 500
+        },
+        {
+            "Name": "Oshawott",
+            "DexNum": 501,
+            "EvolvesIntoName": "Dewott",
+            "EvolvesIntoDexNum": 502
+        },
+        {
+            "Name": "Dewott",
+            "DexNum": 502,
+            "EvolvesIntoName": "Samurott",
+            "EvolvesIntoDexNum": 503
+        },
+        {
+            "Name": "Patrat",
+            "DexNum": 504,
+            "EvolvesIntoName": "Watchog",
+            "EvolvesIntoDexNum": 505
+        },
+        {
+            "Name": "Lillipup",
+            "DexNum": 506,
+            "EvolvesIntoName": "Herdier",
+            "EvolvesIntoDexNum": 507
+        },
+        {
+            "Name": "Herdier",
+            "DexNum": 507,
+            "EvolvesIntoName": "Stoutland",
+            "EvolvesIntoDexNum": 508
+        },
+        {
+            "Name": "Purrloin",
+            "DexNum": 509,
+            "EvolvesIntoName": "Liepard",
+            "EvolvesIntoDexNum": 510
+        },
+        {
+            "Name": "Pansage",
+            "DexNum": 511,
+            "EvolvesIntoName": "Simisage",
+            "EvolvesIntoDexNum": 512
+        },
+        {
+            "Name": "Pansear",
+            "DexNum": 513,
+            "EvolvesIntoName": "Simisear",
+            "EvolvesIntoDexNum": 514
+        },
+        {
+            "Name": "Panpour",
+            "DexNum": 515,
+            "EvolvesIntoName": "Simipour",
+            "EvolvesIntoDexNum": 516
+        },
+        {
+            "Name": "Munna",
+            "DexNum": 517,
+            "EvolvesIntoName": "Musharna",
+            "EvolvesIntoDexNum": 518
+        },
+        {
+            "Name": "Pidove",
+            "DexNum": 519,
+            "EvolvesIntoName": "Tranquill",
+            "EvolvesIntoDexNum": 520
+        },
+        {
+            "Name": "Tranquill",
+            "DexNum": 520,
+            "EvolvesIntoName": "Unfezant",
+            "EvolvesIntoDexNum": 521
+        },
+        {
+            "Name": "Blitzle",
+            "DexNum": 522,
+            "EvolvesIntoName": "Zebstrika",
+            "EvolvesIntoDexNum": 523
+        },
+        {
+            "Name": "Roggenrola",
+            "DexNum": 524,
+            "EvolvesIntoName": "Boldore",
+            "EvolvesIntoDexNum": 525
+        },
+        {
+            "Name": "Boldore",
+            "DexNum": 525,
+            "EvolvesIntoName": "Gigalith",
+            "EvolvesIntoDexNum": 526
+        },
+        {
+            "Name": "Woobat",
+            "DexNum": 527,
+            "EvolvesIntoName": "Swoobat",
+            "EvolvesIntoDexNum": 528
+        },
+        {
+            "Name": "Drilbur",
+            "DexNum": 529,
+            "EvolvesIntoName": "Excadrill",
+            "EvolvesIntoDexNum": 530
+        },
+        {
+            "Name": "Timburr",
+            "DexNum": 532,
+            "EvolvesIntoName": "Gurdurr",
+            "EvolvesIntoDexNum": 533
+        },
+        {
+            "Name": "Gurdurr",
+            "DexNum": 533,
+            "EvolvesIntoName": "Conkeldurr",
+            "EvolvesIntoDexNum": 534
+        },
+        {
+            "Name": "Tympole",
+            "DexNum": 535,
+            "EvolvesIntoName": "Palpitoad",
+            "EvolvesIntoDexNum": 536
+        },
+        {
+            "Name": "Palpitoad",
+            "DexNum": 536,
+            "EvolvesIntoName": "Seismitoad",
+            "EvolvesIntoDexNum": 537
+        },
+        {
+            "Name": "Sewaddle",
+            "DexNum": 540,
+            "EvolvesIntoName": "Swadloon",
+            "EvolvesIntoDexNum": 541
+        },
+        {
+            "Name": "Swadloon",
+            "DexNum": 541,
+            "EvolvesIntoName": "Leavanny",
+            "EvolvesIntoDexNum": 542
+        },
+        {
+            "Name": "Venipede",
+            "DexNum": 543,
+            "EvolvesIntoName": "Whirlipede",
+            "EvolvesIntoDexNum": 544
+        },
+        {
+            "Name": "Whirlipede",
+            "DexNum": 544,
+            "EvolvesIntoName": "Scolipede",
+            "EvolvesIntoDexNum": 545
+        },
+        {
+            "Name": "Cottonee",
+            "DexNum": 546,
+            "EvolvesIntoName": "Whimsicott",
+            "EvolvesIntoDexNum": 547
+        },
+        {
+            "Name": "Petilil",
+            "DexNum": 548,
+            "EvolvesIntoName": "Lilligant",
+            "EvolvesIntoDexNum": 549
+        },
+        {
+            "Name": "Sandile",
+            "DexNum": 551,
+            "EvolvesIntoName": "Krokorok",
+            "EvolvesIntoDexNum": 552
+        },
+        {
+            "Name": "Krokorok",
+            "DexNum": 552,
+            "EvolvesIntoName": "Krookodile",
+            "EvolvesIntoDexNum": 553
+        },
+        {
+            "Name": "Darumaka",
+            "DexNum": 554,
+            "EvolvesIntoName": "Darmanitan",
+            "EvolvesIntoDexNum": 555
+        },
+        {
+            "Name": "Darumaka",
+            "DexNum": 554,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Darmanitan",
+            "EvolvesIntoDexNum": 555,
+            "EvolvesIntoForm": "Galarian"
+        },
+        {
+            "Name": "Dwebble",
+            "DexNum": 557,
+            "EvolvesIntoName": "Crustle",
+            "EvolvesIntoDexNum": 558
+        },
+        {
+            "Name": "Scraggy",
+            "DexNum": 559,
+            "EvolvesIntoName": "Scrafty",
+            "EvolvesIntoDexNum": 560
+        },
+        {
+            "Name": "Yamask",
+            "DexNum": 562,
+            "EvolvesIntoName": "Cofagrigus",
+            "EvolvesIntoDexNum": 563
+        },
+        {
+            "Name": "Yamask",
+            "DexNum": 562,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Runerigus",
+            "EvolvesIntoDexNum": 867
+        },
+        {
+            "Name": "Tirtouga",
+            "DexNum": 564,
+            "EvolvesIntoName": "Carracosta",
+            "EvolvesIntoDexNum": 565
+        },
+        {
+            "Name": "Archen",
+            "DexNum": 566,
+            "EvolvesIntoName": "Archeops",
+            "EvolvesIntoDexNum": 567
+        },
+        {
+            "Name": "Trubbish",
+            "DexNum": 568,
+            "EvolvesIntoName": "Garbodor",
+            "EvolvesIntoDexNum": 569
+        },
+        {
+            "Name": "Zorua",
+            "DexNum": 570,
+            "EvolvesIntoName": "Zoroark",
+            "EvolvesIntoDexNum": 571
+        },
+        {
+            "Name": "Minccino",
+            "DexNum": 572,
+            "EvolvesIntoName": "Cinccino",
+            "EvolvesIntoDexNum": 573
+        },
+        {
+            "Name": "Gothita",
+            "DexNum": 574,
+            "EvolvesIntoName": "Gothorita",
+            "EvolvesIntoDexNum": 575
+        },
+        {
+            "Name": "Gothorita",
+            "DexNum": 575,
+            "EvolvesIntoName": "Gothitelle",
+            "EvolvesIntoDexNum": 576
+        },
+        {
+            "Name": "Solosis",
+            "DexNum": 577,
+            "EvolvesIntoName": "Duosion",
+            "EvolvesIntoDexNum": 578
+        },
+        {
+            "Name": "Duosion",
+            "DexNum": 578,
+            "EvolvesIntoName": "Reuniclus",
+            "EvolvesIntoDexNum": 579
+        },
+        {
+            "Name": "Ducklett",
+            "DexNum": 580,
+            "EvolvesIntoName": "Swanna",
+            "EvolvesIntoDexNum": 581
+        },
+        {
+            "Name": "Vanillite",
+            "DexNum": 582,
+            "EvolvesIntoName": "Vanillish",
+            "EvolvesIntoDexNum": 583
+        },
+        {
+            "Name": "Vanillish",
+            "DexNum": 583,
+            "EvolvesIntoName": "Vanilluxe",
+            "EvolvesIntoDexNum": 584
+        },
+        {
+            "Name": "Deerling",
+            "DexNum": 585,
+            "EvolvesIntoName": "Sawsbuck",
+            "EvolvesIntoDexNum": 586
+        },
+        {
+            "Name": "Karrablast",
+            "DexNum": 588,
+            "EvolvesIntoName": "Escavalier",
+            "EvolvesIntoDexNum": 589
+        },
+        {
+            "Name": "Foongus",
+            "DexNum": 590,
+            "EvolvesIntoName": "Amoonguss",
+            "EvolvesIntoDexNum": 591
+        },
+        {
+            "Name": "Frillish",
+            "DexNum": 592,
+            "EvolvesIntoName": "Jellicent",
+            "EvolvesIntoDexNum": 593
+        },
+        {
+            "Name": "Joltik",
+            "DexNum": 595,
+            "EvolvesIntoName": "Galvantula",
+            "EvolvesIntoDexNum": 596
+        },
+        {
+            "Name": "Ferroseed",
+            "DexNum": 597,
+            "EvolvesIntoName": "Ferrothorn",
+            "EvolvesIntoDexNum": 598
+        },
+        {
+            "Name": "Klink",
+            "DexNum": 599,
+            "EvolvesIntoName": "Klang",
+            "EvolvesIntoDexNum": 600
+        },
+        {
+            "Name": "Klang",
+            "DexNum": 600,
+            "EvolvesIntoName": "Klinklang",
+            "EvolvesIntoDexNum": 601
+        },
+        {
+            "Name": "Tynamo",
+            "DexNum": 602,
+            "EvolvesIntoName": "Eelektrik",
+            "EvolvesIntoDexNum": 603
+        },
+        {
+            "Name": "Eelektrik",
+            "DexNum": 603,
+            "EvolvesIntoName": "Eelektross",
+            "EvolvesIntoDexNum": 604
+        },
+        {
+            "Name": "Elgyem",
+            "DexNum": 605,
+            "EvolvesIntoName": "Beheeyem",
+            "EvolvesIntoDexNum": 606
+        },
+        {
+            "Name": "Litwick",
+            "DexNum": 607,
+            "EvolvesIntoName": "Lampent",
+            "EvolvesIntoDexNum": 608
+        },
+        {
+            "Name": "Lampent",
+            "DexNum": 608,
+            "EvolvesIntoName": "Chandelure",
+            "EvolvesIntoDexNum": 609
+        },
+        {
+            "Name": "Axew",
+            "DexNum": 610,
+            "EvolvesIntoName": "Fraxure",
+            "EvolvesIntoDexNum": 611
+        },
+        {
+            "Name": "Fraxure",
+            "DexNum": 611,
+            "EvolvesIntoName": "Haxorus",
+            "EvolvesIntoDexNum": 612
+        },
+        {
+            "Name": "Cubchoo",
+            "DexNum": 613,
+            "EvolvesIntoName": "Beartic",
+            "EvolvesIntoDexNum": 614
+        },
+        {
+            "Name": "Shelmet",
+            "DexNum": 616,
+            "EvolvesIntoName": "Accelgor",
+            "EvolvesIntoDexNum": 617
+        },
+        {
+            "Name": "Mienfoo",
+            "DexNum": 619,
+            "EvolvesIntoName": "Mienshao",
+            "EvolvesIntoDexNum": 620
+        },
+        {
+            "Name": "Golett",
+            "DexNum": 622,
+            "EvolvesIntoName": "Golurk",
+            "EvolvesIntoDexNum": 623
+        },
+        {
+            "Name": "Pawniard",
+            "DexNum": 624,
+            "EvolvesIntoName": "Bisharp",
+            "EvolvesIntoDexNum": 625
+        },
+        {
+            "Name": "Rufflet",
+            "DexNum": 627,
+            "EvolvesIntoName": "Braviary",
+            "EvolvesIntoDexNum": 628
+        },
+        {
+            "Name": "Vullaby",
+            "DexNum": 629,
+            "EvolvesIntoName": "Mandibuzz",
+            "EvolvesIntoDexNum": 630
+        },
+        {
+            "Name": "Deino",
+            "DexNum": 633,
+            "EvolvesIntoName": "Zweilous",
+            "EvolvesIntoDexNum": 634
+        },
+        {
+            "Name": "Zweilous",
+            "DexNum": 634,
+            "EvolvesIntoName": "Hydreigon",
+            "EvolvesIntoDexNum": 635
+        },
+        {
+            "Name": "Larvesta",
+            "DexNum": 636,
+            "EvolvesIntoName": "Volcarona",
+            "EvolvesIntoDexNum": 637
+        },
+        {
+            "Name": "Chespin",
+            "DexNum": 650,
+            "EvolvesIntoName": "Quilladin",
+            "EvolvesIntoDexNum": 651
+        },
+        {
+            "Name": "Quilladin",
+            "DexNum": 651,
+            "EvolvesIntoName": "Chesnaught",
+            "EvolvesIntoDexNum": 652
+        },
+        {
+            "Name": "Fennekin",
+            "DexNum": 653,
+            "EvolvesIntoName": "Braixen",
+            "EvolvesIntoDexNum": 654
+        },
+        {
+            "Name": "Braixen",
+            "DexNum": 654,
+            "EvolvesIntoName": "Delphox",
+            "EvolvesIntoDexNum": 655
+        },
+        {
+            "Name": "Froakie",
+            "DexNum": 656,
+            "EvolvesIntoName": "Frogadier",
+            "EvolvesIntoDexNum": 657
+        },
+        {
+            "Name": "Frogadier",
+            "DexNum": 657,
+            "EvolvesIntoName": "Greninja",
+            "EvolvesIntoDexNum": 658
+        },
+        {
+            "Name": "Bunnelby",
+            "DexNum": 659,
+            "EvolvesIntoName": "Diggersby",
+            "EvolvesIntoDexNum": 660
+        },
+        {
+            "Name": "Fletchling",
+            "DexNum": 661,
+            "EvolvesIntoName": "Fletchinder",
+            "EvolvesIntoDexNum": 662
+        },
+        {
+            "Name": "Fletchinder",
+            "DexNum": 662,
+            "EvolvesIntoName": "Talonflame",
+            "EvolvesIntoDexNum": 663
+        },
+        {
+            "Name": "Scatterbug",
+            "DexNum": 664,
+            "EvolvesIntoName": "Spewpa",
+            "EvolvesIntoDexNum": 665
+        },
+        {
+            "Name": "Spewpa",
+            "DexNum": 665,
+            "EvolvesIntoName": "Vivillon",
+            "EvolvesIntoDexNum": 666
+        },
+        {
+            "Name": "Litleo",
+            "DexNum": 667,
+            "EvolvesIntoName": "Pyroar",
+            "EvolvesIntoDexNum": 668
+        },
+        {
+            "Name": "Flabébé",
+            "DexNum": 669,
+            "EvolvesIntoName": "Floette",
+            "EvolvesIntoDexNum": 670
+        },
+        {
+            "Name": "Floette",
+            "DexNum": 670,
+            "EvolvesIntoName": "Florges",
+            "EvolvesIntoDexNum": 671
+        },
+        {
+            "Name": "Skiddo",
+            "DexNum": 672,
+            "EvolvesIntoName": "Gogoat",
+            "EvolvesIntoDexNum": 673
+        },
+        {
+            "Name": "Pancham",
+            "DexNum": 674,
+            "EvolvesIntoName": "Pangoro",
+            "EvolvesIntoDexNum": 675
+        },
+        {
+            "Name": "Espurr",
+            "DexNum": 677,
+            "EvolvesIntoName": "Meowstic",
+            "EvolvesIntoDexNum": 678,
+            "EvolvesIntoForm": "Male"
+        },
+        {
+            "Name": "Espurr",
+            "DexNum": 677,
+            "EvolvesIntoName": "Meowstic",
+            "EvolvesIntoDexNum": 678,
+            "EvolvesIntoForm": "Female"
+        },
+        {
+            "Name": "Honedge",
+            "DexNum": 679,
+            "EvolvesIntoName": "Doublade",
+            "EvolvesIntoDexNum": 680
+        },
+        {
+            "Name": "Doublade",
+            "DexNum": 680,
+            "EvolvesIntoName": "Aegislash",
+            "EvolvesIntoDexNum": 681
+        },
+        {
+            "Name": "Spritzee",
+            "DexNum": 682,
+            "EvolvesIntoName": "Aromatisse",
+            "EvolvesIntoDexNum": 683
+        },
+        {
+            "Name": "Swirlix",
+            "DexNum": 684,
+            "EvolvesIntoName": "Slurpuff",
+            "EvolvesIntoDexNum": 685
+        },
+        {
+            "Name": "Inkay",
+            "DexNum": 686,
+            "EvolvesIntoName": "Malamar",
+            "EvolvesIntoDexNum": 687
+        },
+        {
+            "Name": "Binacle",
+            "DexNum": 688,
+            "EvolvesIntoName": "Barbaracle",
+            "EvolvesIntoDexNum": 689
+        },
+        {
+            "Name": "Skrelp",
+            "DexNum": 690,
+            "EvolvesIntoName": "Dragalge",
+            "EvolvesIntoDexNum": 691
+        },
+        {
+            "Name": "Clauncher",
+            "DexNum": 692,
+            "EvolvesIntoName": "Clawitzer",
+            "EvolvesIntoDexNum": 693
+        },
+        {
+            "Name": "Helioptile",
+            "DexNum": 694,
+            "EvolvesIntoName": "Heliolisk",
+            "EvolvesIntoDexNum": 695
+        },
+        {
+            "Name": "Tyrunt",
+            "DexNum": 696,
+            "EvolvesIntoName": "Tyrantrum",
+            "EvolvesIntoDexNum": 697
+        },
+        {
+            "Name": "Amaura",
+            "DexNum": 698,
+            "EvolvesIntoName": "Aurorus",
+            "EvolvesIntoDexNum": 699
+        },
+        {
+            "Name": "Goomy",
+            "DexNum": 704,
+            "EvolvesIntoName": "Sliggoo",
+            "EvolvesIntoDexNum": 705
+        },
+        {
+            "Name": "Sliggoo",
+            "DexNum": 705,
+            "EvolvesIntoName": "Goodra",
+            "EvolvesIntoDexNum": 706
+        },
+        {
+            "Name": "Phantump",
+            "DexNum": 708,
+            "EvolvesIntoName": "Trevenant",
+            "EvolvesIntoDexNum": 709
+        },
+        {
+            "Name": "Pumpkaboo",
+            "DexNum": 710,
+            "EvolvesIntoName": "Gourgeist",
+            "EvolvesIntoDexNum": 711
+        },
+        {
+            "Name": "Bergmite",
+            "DexNum": 712,
+            "EvolvesIntoName": "Avalugg",
+            "EvolvesIntoDexNum": 713
+        },
+        {
+            "Name": "Noibat",
+            "DexNum": 714,
+            "EvolvesIntoName": "Noivern",
+            "EvolvesIntoDexNum": 715
+        },
+        {
+            "Name": "Rowlet",
+            "DexNum": 722,
+            "EvolvesIntoName": "Dartrix",
+            "EvolvesIntoDexNum": 723
+        },
+        {
+            "Name": "Dartrix",
+            "DexNum": 723,
+            "EvolvesIntoName": "Decidueye",
+            "EvolvesIntoDexNum": 724
+        },
+        {
+            "Name": "Litten",
+            "DexNum": 725,
+            "EvolvesIntoName": "Torracat",
+            "EvolvesIntoDexNum": 726
+        },
+        {
+            "Name": "Torracat",
+            "DexNum": 726,
+            "EvolvesIntoName": "Incineroar",
+            "EvolvesIntoDexNum": 727
+        },
+        {
+            "Name": "Popplio",
+            "DexNum": 728,
+            "EvolvesIntoName": "Brionne",
+            "EvolvesIntoDexNum": 729
+        },
+        {
+            "Name": "Brionne",
+            "DexNum": 729,
+            "EvolvesIntoName": "Primarina",
+            "EvolvesIntoDexNum": 730
+        },
+        {
+            "Name": "Pikipek",
+            "DexNum": 731,
+            "EvolvesIntoName": "Trumbeak",
+            "EvolvesIntoDexNum": 732
+        },
+        {
+            "Name": "Trumbeak",
+            "DexNum": 732,
+            "EvolvesIntoName": "Toucannon",
+            "EvolvesIntoDexNum": 733
+        },
+        {
+            "Name": "Yungoos",
+            "DexNum": 734,
+            "EvolvesIntoName": "Gumshoos",
+            "EvolvesIntoDexNum": 735
+        },
+        {
+            "Name": "Grubbin",
+            "DexNum": 736,
+            "EvolvesIntoName": "Charjabug",
+            "EvolvesIntoDexNum": 737
+        },
+        {
+            "Name": "Charjabug",
+            "DexNum": 737,
+            "EvolvesIntoName": "Vikavolt",
+            "EvolvesIntoDexNum": 738
+        },
+        {
+            "Name": "Crabrawler",
+            "DexNum": 739,
+            "EvolvesIntoName": "Crabominable",
+            "EvolvesIntoDexNum": 740
+        },
+        {
+            "Name": "Cutiefly",
+            "DexNum": 742,
+            "EvolvesIntoName": "Ribombee",
+            "EvolvesIntoDexNum": 743
+        },
+        {
+            "Name": "Rockruff",
+            "DexNum": 744,
+            "EvolvesIntoName": "Lycanroc",
+            "EvolvesIntoDexNum": 745,
+            "EvolvesIntoForm": "Midday"
+        },
+        {
+            "Name": "Rockruff",
+            "DexNum": 744,
+            "EvolvesIntoName": "Lycanroc",
+            "EvolvesIntoDexNum": 745,
+            "EvolvesIntoForm": "Midnight"
+        },
+        {
+            "Name": "Rockruff",
+            "DexNum": 744,
+            "EvolvesIntoName": "Lycanroc",
+            "EvolvesIntoDexNum": 745,
+            "EvolvesIntoForm": "Dusk"
+        },
+        {
+            "Name": "Mareanie",
+            "DexNum": 747,
+            "EvolvesIntoName": "Toxapex",
+            "EvolvesIntoDexNum": 748
+        },
+        {
+            "Name": "Mudbray",
+            "DexNum": 749,
+            "EvolvesIntoName": "Mudsdale",
+            "EvolvesIntoDexNum": 750
+        },
+        {
+            "Name": "Dewpider",
+            "DexNum": 751,
+            "EvolvesIntoName": "Araquanid",
+            "EvolvesIntoDexNum": 752
+        },
+        {
+            "Name": "Fomantis",
+            "DexNum": 753,
+            "EvolvesIntoName": "Lurantis",
+            "EvolvesIntoDexNum": 754
+        },
+        {
+            "Name": "Morelull",
+            "DexNum": 755,
+            "EvolvesIntoName": "Shiinotic",
+            "EvolvesIntoDexNum": 756
+        },
+        {
+            "Name": "Salandit",
+            "DexNum": 757,
+            "EvolvesIntoName": "Salazzle",
+            "EvolvesIntoDexNum": 758
+        },
+        {
+            "Name": "Stufful",
+            "DexNum": 759,
+            "EvolvesIntoName": "Bewear",
+            "EvolvesIntoDexNum": 760
+        },
+        {
+            "Name": "Bounsweet",
+            "DexNum": 761,
+            "EvolvesIntoName": "Steenee",
+            "EvolvesIntoDexNum": 762
+        },
+        {
+            "Name": "Steenee",
+            "DexNum": 762,
+            "EvolvesIntoName": "Tsareena",
+            "EvolvesIntoDexNum": 763
+        },
+        {
+            "Name": "Wimpod",
+            "DexNum": 767,
+            "EvolvesIntoName": "Golisopod",
+            "EvolvesIntoDexNum": 768
+        },
+        {
+            "Name": "Sandygast",
+            "DexNum": 769,
+            "EvolvesIntoName": "Palossand",
+            "EvolvesIntoDexNum": 770
+        },
+        {
+            "Name": "Type: Null",
+            "DexNum": 772,
+            "EvolvesIntoName": "Silvally",
+            "EvolvesIntoDexNum": 773
+        },
+        {
+            "Name": "Jangmo-o",
+            "DexNum": 782,
+            "EvolvesIntoName": "Hakamo-o",
+            "EvolvesIntoDexNum": 783
+        },
+        {
+            "Name": "Hakamo-o",
+            "DexNum": 783,
+            "EvolvesIntoName": "Kommo-o",
+            "EvolvesIntoDexNum": 784
+        },
+        {
+            "Name": "Cosmog",
+            "DexNum": 789,
+            "EvolvesIntoName": "Cosmoem",
+            "EvolvesIntoDexNum": 790
+        },
+        {
+            "Name": "Cosmoem",
+            "DexNum": 790,
+            "EvolvesIntoName": "Solgaleo",
+            "EvolvesIntoDexNum": 791
+        },
+        {
+            "Name": "Cosmoem",
+            "DexNum": 790,
+            "EvolvesIntoName": "Lunala",
+            "EvolvesIntoDexNum": 792
+        },
+        {
+            "Name": "Poipole",
+            "DexNum": 803,
+            "EvolvesIntoName": "Naganadel",
+            "EvolvesIntoDexNum": 804
+        },
+        {
+            "Name": "Meltan",
+            "DexNum": 808,
+            "EvolvesIntoName": "Melmetal",
+            "EvolvesIntoDexNum": 809
+        },
+        {
+            "Name": "Grookey",
+            "DexNum": 810,
+            "EvolvesIntoName": "Thwackey",
+            "EvolvesIntoDexNum": 811
+        },
+        {
+            "Name": "Thwackey",
+            "DexNum": 811,
+            "EvolvesIntoName": "Rillaboom",
+            "EvolvesIntoDexNum": 812
+        },
+        {
+            "Name": "Scorbunny",
+            "DexNum": 813,
+            "EvolvesIntoName": "Raboot",
+            "EvolvesIntoDexNum": 814
+        },
+        {
+            "Name": "Raboot",
+            "DexNum": 814,
+            "EvolvesIntoName": "Cinderace",
+            "EvolvesIntoDexNum": 815
+        },
+        {
+            "Name": "Sobble",
+            "DexNum": 816,
+            "EvolvesIntoName": "Drizzile",
+            "EvolvesIntoDexNum": 817
+        },
+        {
+            "Name": "Drizzile",
+            "DexNum": 817,
+            "EvolvesIntoName": "Inteleon",
+            "EvolvesIntoDexNum": 818
+        },
+        {
+            "Name": "Skwovet",
+            "DexNum": 819,
+            "EvolvesIntoName": "Greedent",
+            "EvolvesIntoDexNum": 820
+        },
+        {
+            "Name": "Rookidee",
+            "DexNum": 821,
+            "EvolvesIntoName": "Corvisquire",
+            "EvolvesIntoDexNum": 822
+        },
+        {
+            "Name": "Corvisquire",
+            "DexNum": 822,
+            "EvolvesIntoName": "Corviknight",
+            "EvolvesIntoDexNum": 823
+        },
+        {
+            "Name": "Blipbug",
+            "DexNum": 824,
+            "EvolvesIntoName": "Dottler",
+            "EvolvesIntoDexNum": 825
+        },
+        {
+            "Name": "Dottler",
+            "DexNum": 825,
+            "EvolvesIntoName": "Orbeetle",
+            "EvolvesIntoDexNum": 826
+        },
+        {
+            "Name": "Nickit",
+            "DexNum": 827,
+            "EvolvesIntoName": "Thievul",
+            "EvolvesIntoDexNum": 828
+        },
+        {
+            "Name": "Gossifleur",
+            "DexNum": 829,
+            "EvolvesIntoName": "Eldegoss",
+            "EvolvesIntoDexNum": 830
+        },
+        {
+            "Name": "Wooloo",
+            "DexNum": 831,
+            "EvolvesIntoName": "Dubwool",
+            "EvolvesIntoDexNum": 832
+        },
+        {
+            "Name": "Chewtle",
+            "DexNum": 833,
+            "EvolvesIntoName": "Drednaw",
+            "EvolvesIntoDexNum": 834
+        },
+        {
+            "Name": "Yamper",
+            "DexNum": 835,
+            "EvolvesIntoName": "Boltund",
+            "EvolvesIntoDexNum": 836
+        },
+        {
+            "Name": "Rolycoly",
+            "DexNum": 837,
+            "EvolvesIntoName": "Carkol",
+            "EvolvesIntoDexNum": 838
+        },
+        {
+            "Name": "Carkol",
+            "DexNum": 838,
+            "EvolvesIntoName": "Coalossal",
+            "EvolvesIntoDexNum": 839
+        },
+        {
+            "Name": "Applin",
+            "DexNum": 840,
+            "EvolvesIntoName": "Flapple",
+            "EvolvesIntoDexNum": 841
+        },
+        {
+            "Name": "Applin",
+            "DexNum": 840,
+            "EvolvesIntoName": "Appletun",
+            "EvolvesIntoDexNum": 842
+        },
+        {
+            "Name": "Silicobra",
+            "DexNum": 843,
+            "EvolvesIntoName": "Sandaconda",
+            "EvolvesIntoDexNum": 844
+        },
+        {
+            "Name": "Arrokuda",
+            "DexNum": 846,
+            "EvolvesIntoName": "Barraskewda",
+            "EvolvesIntoDexNum": 847
+        },
+        {
+            "Name": "Toxel",
+            "DexNum": 848,
+            "EvolvesIntoName": "Toxtricity",
+            "EvolvesIntoDexNum": 849,
+            "EvolvesIntoForm": "Low Key"
+        },
+        {
+            "Name": "Toxel",
+            "DexNum": 848,
+            "EvolvesIntoName": "Toxtricity",
+            "EvolvesIntoDexNum": 849,
+            "EvolvesIntoForm": "Amped"
+        },
+        {
+            "Name": "Sizzlipede",
+            "DexNum": 850,
+            "EvolvesIntoName": "Centiskorch",
+            "EvolvesIntoDexNum": 851
+        },
+        {
+            "Name": "Clobbopus",
+            "DexNum": 852,
+            "EvolvesIntoName": "Grapploct",
+            "EvolvesIntoDexNum": 853
+        },
+        {
+            "Name": "Sinistea",
+            "DexNum": 854,
+            "EvolvesIntoName": "Polteageist",
+            "EvolvesIntoDexNum": 855
+        },
+        {
+            "Name": "Hatenna",
+            "DexNum": 856,
+            "EvolvesIntoName": "Hattrem",
+            "EvolvesIntoDexNum": 857
+        },
+        {
+            "Name": "Hattrem",
+            "DexNum": 857,
+            "EvolvesIntoName": "Hatterene",
+            "EvolvesIntoDexNum": 858
+        },
+        {
+            "Name": "Impidimp",
+            "DexNum": 859,
+            "EvolvesIntoName": "Morgrem",
+            "EvolvesIntoDexNum": 860
+        },
+        {
+            "Name": "Morgrem",
+            "DexNum": 860,
+            "EvolvesIntoName": "Grimmsnarl",
+            "EvolvesIntoDexNum": 861
+        },
+        {
+            "Name": "Corsola",
+            "DexNum": 222,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Cursola",
+            "EvolvesIntoDexNum": 864
+        },
+        {
+            "Name": "Farfetch'd",
+            "DexNum": 83,
+            "Form": "Galarian",
+            "EvolvesIntoName": "Sirfetch'd",
+            "EvolvesIntoDexNum": 865
+        },
+        {
+            "Name": "Milcery",
+            "DexNum": 868,
+            "EvolvesIntoName": "Alcremie",
+            "EvolvesIntoDexNum": 869
+        },
+        {
+            "Name": "Snom",
+            "DexNum": 872,
+            "EvolvesIntoName": "Frosmoth",
+            "EvolvesIntoDexNum": 873
+        },
+        {
+            "Name": "Cufant",
+            "DexNum": 878,
+            "EvolvesIntoName": "Copperajah",
+            "EvolvesIntoDexNum": 879
+        },
+        {
+            "Name": "Dreepy",
+            "DexNum": 885,
+            "EvolvesIntoName": "Drakloak",
+            "EvolvesIntoDexNum": 886
+        },
+        {
+            "Name": "Drakloak",
+            "DexNum": 886,
+            "EvolvesIntoName": "Dragapult",
+            "EvolvesIntoDexNum": 887
+        },
+        {
+            "Name": "Kubfu",
+            "DexNum": 891,
+            "EvolvesIntoName": "Urshifu",
+            "EvolvesIntoDexNum": 892,
+            "EvolvesIntoForm": "Single Strike Style"
+        },
+        {
+            "Name": "Kubfu",
+            "DexNum": 891,
+            "EvolvesIntoName": "Urshifu",
+            "EvolvesIntoDexNum": 892,
+            "EvolvesIntoForm": "Rapid Strike Style"
+        }
+    ]
+}

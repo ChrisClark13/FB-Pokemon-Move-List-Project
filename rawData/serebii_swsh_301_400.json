@@ -1,0 +1,6211 @@
+{
+ "Pokemon": [
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/sableye",
+   "DexNum": "302",
+   "LevelUpMoves": [
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Scratch",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "3"
+    },
+    {
+     "name": "Confuse Ray",
+     "level": "6"
+    },
+    {
+     "name": "Shadow Sneak",
+     "level": "9"
+    },
+    {
+     "name": "Fake Out",
+     "level": "12"
+    },
+    {
+     "name": "Disable",
+     "level": "15"
+    },
+    {
+     "name": "Detect",
+     "level": "18"
+    },
+    {
+     "name": "Night Shade",
+     "level": "21"
+    },
+    {
+     "name": "Fury Swipes",
+     "level": "24"
+    },
+    {
+     "name": "Knock Off",
+     "level": "27"
+    },
+    {
+     "name": "Quash",
+     "level": "30"
+    },
+    {
+     "name": "Shadow Claw",
+     "level": "33"
+    },
+    {
+     "name": "Mean Look",
+     "level": "36"
+    },
+    {
+     "name": "Power Gem",
+     "level": "39"
+    },
+    {
+     "name": "Zen Headbutt",
+     "level": "42"
+    },
+    {
+     "name": "Shadow Ball",
+     "level": "45"
+    },
+    {
+     "name": "Foul Play",
+     "level": "48"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Recover"
+    },
+    {
+     "name": "Flatter"
+    },
+    {
+     "name": "Feint"
+    },
+    {
+     "name": "Sucker Punch"
+    },
+    {
+     "name": "Metal Burst"
+    },
+    {
+     "name": "Torment"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Poltergeist"
+    },
+    {
+     "name": "Lash Out"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Mega Kick"
+    },
+    {
+     "name": "Fire Punch"
+    },
+    {
+     "name": "Ice Punch"
+    },
+    {
+     "name": "Thunder Punch"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Will-O-Wisp"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Drain Punch"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Wonder Room"
+    },
+    {
+     "name": "Low Sweep"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Retaliate"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Low Kick"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Metronome"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Encore"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Trick"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Power Gem"
+    },
+    {
+     "name": "Nasty Plot"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Foul Play"
+    },
+    {
+     "name": "Ally Switch"
+    },
+    {
+     "name": "Dazzling Gleam"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/mawile",
+   "DexNum": "303",
+   "LevelUpMoves": [
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Growl",
+     "level": "—"
+    },
+    {
+     "name": "Fairy Wind",
+     "level": "4"
+    },
+    {
+     "name": "Baton Pass",
+     "level": "8"
+    },
+    {
+     "name": "Bite",
+     "level": "12"
+    },
+    {
+     "name": "Stockpile",
+     "level": "16"
+    },
+    {
+     "name": "Swallow",
+     "level": "16"
+    },
+    {
+     "name": "Spit Up",
+     "level": "16"
+    },
+    {
+     "name": "Sucker Punch",
+     "level": "20"
+    },
+    {
+     "name": "Iron Defense",
+     "level": "24"
+    },
+    {
+     "name": "Crunch",
+     "level": "28"
+    },
+    {
+     "name": "Sweet Scent",
+     "level": "32"
+    },
+    {
+     "name": "Iron Head",
+     "level": "36"
+    },
+    {
+     "name": "Taunt",
+     "level": "40"
+    },
+    {
+     "name": "Fake Tears",
+     "level": "44"
+    },
+    {
+     "name": "Play Rough",
+     "level": "48"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Tickle"
+    },
+    {
+     "name": "Slam"
+    },
+    {
+     "name": "Seismic Toss"
+    },
+    {
+     "name": "Power-Up Punch"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Steel Beam"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Mega Kick"
+    },
+    {
+     "name": "Ice Punch"
+    },
+    {
+     "name": "Thunder Punch"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Fake Tears"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Assurance"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Guard Swap"
+    },
+    {
+     "name": "Thunder Fang"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Fire Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Draining Kiss"
+    },
+    {
+     "name": "Misty Terrain"
+    },
+    {
+     "name": "False Swipe"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Baton Pass"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Focus Blast"
+    },
+    {
+     "name": "Flash Cannon"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Foul Play"
+    },
+    {
+     "name": "Play Rough"
+    },
+    {
+     "name": "Psychic Fangs"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/electrike",
+   "DexNum": "309",
+   "LevelUpMoves": [
+    {
+     "name": "Tackle",
+     "level": "—"
+    },
+    {
+     "name": "Thunder Wave",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "4"
+    },
+    {
+     "name": "Howl",
+     "level": "8"
+    },
+    {
+     "name": "Quick Attack",
+     "level": "12"
+    },
+    {
+     "name": "Shock Wave",
+     "level": "16"
+    },
+    {
+     "name": "Bite",
+     "level": "20"
+    },
+    {
+     "name": "Thunder Fang",
+     "level": "24"
+    },
+    {
+     "name": "Roar",
+     "level": "28"
+    },
+    {
+     "name": "Discharge",
+     "level": "32"
+    },
+    {
+     "name": "Charge",
+     "level": "36"
+    },
+    {
+     "name": "Wild Charge",
+     "level": "40"
+    },
+    {
+     "name": "Thunder",
+     "level": "44"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Headbutt"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Switcheroo"
+    },
+    {
+     "name": "Spark"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Rising Voltage"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Thunder Wave"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Thunder Fang"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Fire Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Volt Switch"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Eerie Impulse"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Agility"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Electro Ball"
+    },
+    {
+     "name": "Wild Charge"
+    },
+    {
+     "name": "Psychic Fangs"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/manectric",
+   "DexNum": "310",
+   "LevelUpMoves": [
+    {
+     "name": "Fire Fang",
+     "level": "—"
+    },
+    {
+     "name": "Tackle",
+     "level": "—"
+    },
+    {
+     "name": "Thunder Wave",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Howl",
+     "level": "—"
+    },
+    {
+     "name": "Quick Attack",
+     "level": "12"
+    },
+    {
+     "name": "Shock Wave",
+     "level": "16"
+    },
+    {
+     "name": "Bite",
+     "level": "20"
+    },
+    {
+     "name": "Thunder Fang",
+     "level": "24"
+    },
+    {
+     "name": "Roar",
+     "level": "30"
+    },
+    {
+     "name": "Discharge",
+     "level": "36"
+    },
+    {
+     "name": "Charge",
+     "level": "42"
+    },
+    {
+     "name": "Wild Charge",
+     "level": "48"
+    },
+    {
+     "name": "Thunder",
+     "level": "54"
+    },
+    {
+     "name": "Electric Terrain",
+     "level": "60"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Headbutt"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Switcheroo"
+    },
+    {
+     "name": "Spark"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Rising Voltage"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Thunder Wave"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Scary Face"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Thunder Fang"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Fire Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Volt Switch"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Electric Terrain"
+    },
+    {
+     "name": "Eerie Impulse"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Agility"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Hyper Voice"
+    },
+    {
+     "name": "Overheat"
+    },
+    {
+     "name": "Electro Ball"
+    },
+    {
+     "name": "Wild Charge"
+    },
+    {
+     "name": "Psychic Fangs"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/roselia",
+   "DexNum": "315",
+   "LevelUpMoves": [
+    {
+     "name": "Poison Sting",
+     "level": "Evolve"
+    },
+    {
+     "name": "Poison Sting",
+     "level": "—"
+    },
+    {
+     "name": "Absorb",
+     "level": "—"
+    },
+    {
+     "name": "Growth",
+     "level": "—"
+    },
+    {
+     "name": "Stun Spore",
+     "level": "—"
+    },
+    {
+     "name": "Worry Seed",
+     "level": "—"
+    },
+    {
+     "name": "Mega Drain",
+     "level": "5"
+    },
+    {
+     "name": "Leech Seed",
+     "level": "10"
+    },
+    {
+     "name": "Magical Leaf",
+     "level": "15"
+    },
+    {
+     "name": "Toxic Spikes",
+     "level": "20"
+    },
+    {
+     "name": "Sweet Scent",
+     "level": "25"
+    },
+    {
+     "name": "Giga Drain",
+     "level": "30"
+    },
+    {
+     "name": "Synthesis",
+     "level": "35"
+    },
+    {
+     "name": "Toxic",
+     "level": "40"
+    },
+    {
+     "name": "Petal Blizzard",
+     "level": "45"
+    },
+    {
+     "name": "Aromatherapy",
+     "level": "50"
+    },
+    {
+     "name": "Ingrain",
+     "level": "55"
+    },
+    {
+     "name": "Petal Dance",
+     "level": "60"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Cotton Spore"
+    },
+    {
+     "name": "Sleep Powder"
+    },
+    {
+     "name": "Razor Leaf"
+    },
+    {
+     "name": "Extrasensory"
+    },
+    {
+     "name": "Life Dew"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Grassy Glide"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Pin Missile"
+    },
+    {
+     "name": "Magical Leaf"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Giga Drain"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Bullet Seed"
+    },
+    {
+     "name": "Venoshock"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Spikes"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Toxic Spikes"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Seed Bomb"
+    },
+    {
+     "name": "Energy Ball"
+    },
+    {
+     "name": "Leaf Storm"
+    },
+    {
+     "name": "Power Whip"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Dazzling Gleam"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/carvanha",
+   "DexNum": "318",
+   "LevelUpMoves": [
+    {
+     "name": "Aqua Jet",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Poison Fang",
+     "level": "4"
+    },
+    {
+     "name": "Focus Energy",
+     "level": "8"
+    },
+    {
+     "name": "Scary Face",
+     "level": "12"
+    },
+    {
+     "name": "Bite",
+     "level": "16"
+    },
+    {
+     "name": "Ice Fang",
+     "level": "20"
+    },
+    {
+     "name": "Screech",
+     "level": "24"
+    },
+    {
+     "name": "Swagger",
+     "level": "28"
+    },
+    {
+     "name": "Crunch",
+     "level": "32"
+    },
+    {
+     "name": "Agility",
+     "level": "36"
+    },
+    {
+     "name": "Liquidation",
+     "level": "40"
+    },
+    {
+     "name": "Take Down",
+     "level": "44"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Destiny Bond"
+    },
+    {
+     "name": "Double-Edge"
+    },
+    {
+     "name": "Thrash"
+    },
+    {
+     "name": "Water Pulse"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Flip Turn"
+    },
+    {
+     "name": "Scale Shot"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Scary Face"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Bounce"
+    },
+    {
+     "name": "Brine"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Assurance"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Retaliate"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Agility"
+    },
+    {
+     "name": "Focus Energy"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Scald"
+    },
+    {
+     "name": "Psychic Fangs"
+    },
+    {
+     "name": "Liquidation"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/sharpedo",
+   "DexNum": "319",
+   "LevelUpMoves": [
+    {
+     "name": "Slash",
+     "level": "Evolve"
+    },
+    {
+     "name": "Slash",
+     "level": "—"
+    },
+    {
+     "name": "Night Slash",
+     "level": "—"
+    },
+    {
+     "name": "Aqua Jet",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Poison Fang",
+     "level": "—"
+    },
+    {
+     "name": "Focus Energy",
+     "level": "—"
+    },
+    {
+     "name": "Scary Face",
+     "level": "12"
+    },
+    {
+     "name": "Bite",
+     "level": "16"
+    },
+    {
+     "name": "Ice Fang",
+     "level": "20"
+    },
+    {
+     "name": "Screech",
+     "level": "24"
+    },
+    {
+     "name": "Swagger",
+     "level": "28"
+    },
+    {
+     "name": "Crunch",
+     "level": "34"
+    },
+    {
+     "name": "Agility",
+     "level": "40"
+    },
+    {
+     "name": "Liquidation",
+     "level": "46"
+    },
+    {
+     "name": "Take Down",
+     "level": "52"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Destiny Bond"
+    },
+    {
+     "name": "Double-Edge"
+    },
+    {
+     "name": "Thrash"
+    },
+    {
+     "name": "Water Pulse"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Flip Turn"
+    },
+    {
+     "name": "Scale Shot"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Scary Face"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Bounce"
+    },
+    {
+     "name": "Brine"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Assurance"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Retaliate"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Agility"
+    },
+    {
+     "name": "Focus Energy"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Close Combat"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Scald"
+    },
+    {
+     "name": "Psychic Fangs"
+    },
+    {
+     "name": "Liquidation"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/wailmer",
+   "DexNum": "320",
+   "LevelUpMoves": [
+    {
+     "name": "Splash",
+     "level": "—"
+    },
+    {
+     "name": "Growl",
+     "level": "3"
+    },
+    {
+     "name": "Astonish",
+     "level": "6"
+    },
+    {
+     "name": "Water Gun",
+     "level": "12"
+    },
+    {
+     "name": "Mist",
+     "level": "15"
+    },
+    {
+     "name": "Water Pulse",
+     "level": "18"
+    },
+    {
+     "name": "Heavy Slam",
+     "level": "21"
+    },
+    {
+     "name": "Brine",
+     "level": "24"
+    },
+    {
+     "name": "Whirlpool",
+     "level": "27"
+    },
+    {
+     "name": "Dive",
+     "level": "30"
+    },
+    {
+     "name": "Bounce",
+     "level": "33"
+    },
+    {
+     "name": "Body Slam",
+     "level": "36"
+    },
+    {
+     "name": "Rest",
+     "level": "39"
+    },
+    {
+     "name": "Amnesia",
+     "level": "42"
+    },
+    {
+     "name": "Hydro Pump",
+     "level": "45"
+    },
+    {
+     "name": "Water Spout",
+     "level": "48"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Double-Edge"
+    },
+    {
+     "name": "Thrash"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Fissure"
+    },
+    {
+     "name": "Tickle"
+    },
+    {
+     "name": "Defense Curl"
+    },
+    {
+     "name": "Rollout"
+    },
+    {
+     "name": "Aqua Ring"
+    },
+    {
+     "name": "Soak"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Steel Roller"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Bounce"
+    },
+    {
+     "name": "Brine"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Hyper Voice"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Heavy Slam"
+    },
+    {
+     "name": "Scald"
+    },
+    {
+     "name": "Body Press"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/wailord",
+   "DexNum": "321",
+   "LevelUpMoves": [
+    {
+     "name": "Soak",
+     "level": "—"
+    },
+    {
+     "name": "Noble Roar",
+     "level": "—"
+    },
+    {
+     "name": "Splash",
+     "level": "—"
+    },
+    {
+     "name": "Growl",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Water Gun",
+     "level": "—"
+    },
+    {
+     "name": "Mist",
+     "level": "15"
+    },
+    {
+     "name": "Water Pulse",
+     "level": "18"
+    },
+    {
+     "name": "Heavy Slam",
+     "level": "21"
+    },
+    {
+     "name": "Brine",
+     "level": "24"
+    },
+    {
+     "name": "Whirlpool",
+     "level": "27"
+    },
+    {
+     "name": "Dive",
+     "level": "30"
+    },
+    {
+     "name": "Bounce",
+     "level": "33"
+    },
+    {
+     "name": "Body Slam",
+     "level": "36"
+    },
+    {
+     "name": "Rest",
+     "level": "39"
+    },
+    {
+     "name": "Amnesia",
+     "level": "44"
+    },
+    {
+     "name": "Hydro Pump",
+     "level": "49"
+    },
+    {
+     "name": "Water Spout",
+     "level": "54"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Double-Edge"
+    },
+    {
+     "name": "Thrash"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Fissure"
+    },
+    {
+     "name": "Tickle"
+    },
+    {
+     "name": "Defense Curl"
+    },
+    {
+     "name": "Rollout"
+    },
+    {
+     "name": "Aqua Ring"
+    },
+    {
+     "name": "Soak"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Steel Roller"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Bounce"
+    },
+    {
+     "name": "Brine"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Hyper Voice"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Heavy Slam"
+    },
+    {
+     "name": "Scald"
+    },
+    {
+     "name": "Liquidation"
+    },
+    {
+     "name": "Body Press"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/torkoal",
+   "DexNum": "324",
+   "LevelUpMoves": [
+    {
+     "name": "Smog",
+     "level": "—"
+    },
+    {
+     "name": "Ember",
+     "level": "—"
+    },
+    {
+     "name": "Withdraw",
+     "level": "4"
+    },
+    {
+     "name": "Rapid Spin",
+     "level": "8"
+    },
+    {
+     "name": "Smokescreen",
+     "level": "12"
+    },
+    {
+     "name": "Clear Smog",
+     "level": "16"
+    },
+    {
+     "name": "Flame Wheel",
+     "level": "20"
+    },
+    {
+     "name": "Protect",
+     "level": "24"
+    },
+    {
+     "name": "Lava Plume",
+     "level": "28"
+    },
+    {
+     "name": "Body Slam",
+     "level": "32"
+    },
+    {
+     "name": "Iron Defense",
+     "level": "36"
+    },
+    {
+     "name": "Flamethrower",
+     "level": "40"
+    },
+    {
+     "name": "Curse",
+     "level": "44"
+    },
+    {
+     "name": "Heat Wave",
+     "level": "48"
+    },
+    {
+     "name": "Amnesia",
+     "level": "52"
+    },
+    {
+     "name": "Inferno",
+     "level": "56"
+    },
+    {
+     "name": "Shell Smash",
+     "level": "60"
+    },
+    {
+     "name": "Eruption",
+     "level": "64"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Yawn"
+    },
+    {
+     "name": "Fissure"
+    },
+    {
+     "name": "Skull Bash"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Ancient Power"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Burning Jealousy"
+    },
+    {
+     "name": "Scorching Sands"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Fire Spin"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Will-O-Wisp"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Stomping Tantrum"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Heat Wave"
+    },
+    {
+     "name": "Superpower"
+    },
+    {
+     "name": "Overheat"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Heat Crash"
+    },
+    {
+     "name": "Body Press"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/trapinch",
+   "DexNum": "328",
+   "LevelUpMoves": [
+    {
+     "name": "Sand Attack",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Laser Focus",
+     "level": "4"
+    },
+    {
+     "name": "Bite",
+     "level": "8"
+    },
+    {
+     "name": "Mud-Slap",
+     "level": "12"
+    },
+    {
+     "name": "Sand Tomb",
+     "level": "16"
+    },
+    {
+     "name": "Bulldoze",
+     "level": "20"
+    },
+    {
+     "name": "Dig",
+     "level": "24"
+    },
+    {
+     "name": "Crunch",
+     "level": "28"
+    },
+    {
+     "name": "Sandstorm",
+     "level": "32"
+    },
+    {
+     "name": "Earth Power",
+     "level": "36"
+    },
+    {
+     "name": "Earthquake",
+     "level": "40"
+    },
+    {
+     "name": "Superpower",
+     "level": "44"
+    },
+    {
+     "name": "Fissure",
+     "level": "48"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Quick Attack"
+    },
+    {
+     "name": "Gust"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Fury Cutter"
+    },
+    {
+     "name": "Bug Bite"
+    },
+    {
+     "name": "Feint"
+    },
+    {
+     "name": "First Impression"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Scorching Sands"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Giga Drain"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Focus Energy"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Superpower"
+    },
+    {
+     "name": "Earth Power"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/vibrava",
+   "DexNum": "329",
+   "LevelUpMoves": [
+    {
+     "name": "Dragon Breath",
+     "level": "Evolve"
+    },
+    {
+     "name": "Dragon Breath",
+     "level": "—"
+    },
+    {
+     "name": "Laser Focus",
+     "level": "—"
+    },
+    {
+     "name": "Bulldoze",
+     "level": "—"
+    },
+    {
+     "name": "Dig",
+     "level": "—"
+    },
+    {
+     "name": "Crunch",
+     "level": "—"
+    },
+    {
+     "name": "Superpower",
+     "level": "—"
+    },
+    {
+     "name": "Fissure",
+     "level": "—"
+    },
+    {
+     "name": "Sand Attack",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Supersonic",
+     "level": "—"
+    },
+    {
+     "name": "Bite",
+     "level": "—"
+    },
+    {
+     "name": "Mud-Slap",
+     "level": "12"
+    },
+    {
+     "name": "Sand Tomb",
+     "level": "16"
+    },
+    {
+     "name": "Dragon Tail",
+     "level": "20"
+    },
+    {
+     "name": "Screech",
+     "level": "24"
+    },
+    {
+     "name": "Bug Buzz",
+     "level": "28"
+    },
+    {
+     "name": "Sandstorm",
+     "level": "32"
+    },
+    {
+     "name": "Earth Power",
+     "level": "38"
+    },
+    {
+     "name": "Earthquake",
+     "level": "44"
+    },
+    {
+     "name": "Uproar",
+     "level": "50"
+    },
+    {
+     "name": "Dragon Rush",
+     "level": "56"
+    },
+    {
+     "name": "Boomburst",
+     "level": "62"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Quick Attack"
+    },
+    {
+     "name": "Gust"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Fury Cutter"
+    },
+    {
+     "name": "Bug Bite"
+    },
+    {
+     "name": "Feint"
+    },
+    {
+     "name": "First Impression"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Draco Meteor"
+    },
+    {
+     "name": "Scorching Sands"
+    },
+    {
+     "name": "Dual Wingbeat"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Fly"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Giga Drain"
+    },
+    {
+     "name": "Steel Wing"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Air Slash"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Focus Energy"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Outrage"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Heat Wave"
+    },
+    {
+     "name": "Superpower"
+    },
+    {
+     "name": "Bug Buzz"
+    },
+    {
+     "name": "Dragon Pulse"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Throat Chop"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/flygon",
+   "DexNum": "330",
+   "LevelUpMoves": [
+    {
+     "name": "Dragon Claw",
+     "level": "Evolve"
+    },
+    {
+     "name": "Dragon Claw",
+     "level": "—"
+    },
+    {
+     "name": "Dragon Breath",
+     "level": "—"
+    },
+    {
+     "name": "Dragon Dance",
+     "level": "—"
+    },
+    {
+     "name": "Feint",
+     "level": "—"
+    },
+    {
+     "name": "Laser Focus",
+     "level": "—"
+    },
+    {
+     "name": "Bulldoze",
+     "level": "—"
+    },
+    {
+     "name": "Dig",
+     "level": "—"
+    },
+    {
+     "name": "Crunch",
+     "level": "—"
+    },
+    {
+     "name": "Superpower",
+     "level": "—"
+    },
+    {
+     "name": "Fissure",
+     "level": "—"
+    },
+    {
+     "name": "Sand Attack",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Supersonic",
+     "level": "—"
+    },
+    {
+     "name": "Bite",
+     "level": "—"
+    },
+    {
+     "name": "Mud-Slap",
+     "level": "12"
+    },
+    {
+     "name": "Sand Tomb",
+     "level": "16"
+    },
+    {
+     "name": "Dragon Tail",
+     "level": "20"
+    },
+    {
+     "name": "Screech",
+     "level": "24"
+    },
+    {
+     "name": "Bug Buzz",
+     "level": "28"
+    },
+    {
+     "name": "Sandstorm",
+     "level": "32"
+    },
+    {
+     "name": "Earth Power",
+     "level": "38"
+    },
+    {
+     "name": "Earthquake",
+     "level": "44"
+    },
+    {
+     "name": "Uproar",
+     "level": "52"
+    },
+    {
+     "name": "Dragon Rush",
+     "level": "60"
+    },
+    {
+     "name": "Boomburst",
+     "level": "68"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Quick Attack"
+    },
+    {
+     "name": "Gust"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Fury Cutter"
+    },
+    {
+     "name": "Bug Bite"
+    },
+    {
+     "name": "Feint"
+    },
+    {
+     "name": "First Impression"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Draco Meteor"
+    },
+    {
+     "name": "Scorching Sands"
+    },
+    {
+     "name": "Dual Wingbeat"
+    },
+    {
+     "name": "Scale Shot"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Mega Kick"
+    },
+    {
+     "name": "Fire Punch"
+    },
+    {
+     "name": "Thunder Punch"
+    },
+    {
+     "name": "Fly"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Fire Spin"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Giga Drain"
+    },
+    {
+     "name": "Steel Wing"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Air Slash"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Breaking Swipe"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Focus Energy"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Outrage"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Heat Wave"
+    },
+    {
+     "name": "Superpower"
+    },
+    {
+     "name": "Dragon Claw"
+    },
+    {
+     "name": "Dragon Dance"
+    },
+    {
+     "name": "Bug Buzz"
+    },
+    {
+     "name": "Dragon Pulse"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Throat Chop"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/lunatone",
+   "DexNum": "337",
+   "LevelUpMoves": [
+    {
+     "name": "Moonblast",
+     "level": "—"
+    },
+    {
+     "name": "Moonlight",
+     "level": "—"
+    },
+    {
+     "name": "Tackle",
+     "level": "—"
+    },
+    {
+     "name": "Harden",
+     "level": "—"
+    },
+    {
+     "name": "Confusion",
+     "level": "—"
+    },
+    {
+     "name": "Rock Throw",
+     "level": "—"
+    },
+    {
+     "name": "Hypnosis",
+     "level": "5"
+    },
+    {
+     "name": "Rock Polish",
+     "level": "10"
+    },
+    {
+     "name": "Rock Slide",
+     "level": "15"
+    },
+    {
+     "name": "Psyshock",
+     "level": "20"
+    },
+    {
+     "name": "Cosmic Power",
+     "level": "25"
+    },
+    {
+     "name": "Psychic",
+     "level": "30"
+    },
+    {
+     "name": "Stone Edge",
+     "level": "35"
+    },
+    {
+     "name": "Future Sight",
+     "level": "40"
+    },
+    {
+     "name": "Magic Room",
+     "level": "45"
+    },
+    {
+     "name": "Explosion",
+     "level": "50"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Meteor Beam"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Rock Blast"
+    },
+    {
+     "name": "Power Swap"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Magic Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Acrobatics"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Psychic Terrain"
+    },
+    {
+     "name": "Stomping Tantrum"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Baton Pass"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Cosmic Power"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Power Gem"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Nasty Plot"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Stored Power"
+    },
+    {
+     "name": "Ally Switch"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/solrock",
+   "DexNum": "338",
+   "LevelUpMoves": [
+    {
+     "name": "Flare Blitz",
+     "level": "—"
+    },
+    {
+     "name": "Morning Sun",
+     "level": "—"
+    },
+    {
+     "name": "Tackle",
+     "level": "—"
+    },
+    {
+     "name": "Harden",
+     "level": "—"
+    },
+    {
+     "name": "Confusion",
+     "level": "—"
+    },
+    {
+     "name": "Rock Throw",
+     "level": "—"
+    },
+    {
+     "name": "Hypnosis",
+     "level": "5"
+    },
+    {
+     "name": "Rock Polish",
+     "level": "10"
+    },
+    {
+     "name": "Rock Slide",
+     "level": "15"
+    },
+    {
+     "name": "Zen Headbutt",
+     "level": "20"
+    },
+    {
+     "name": "Cosmic Power",
+     "level": "25"
+    },
+    {
+     "name": "Psychic",
+     "level": "30"
+    },
+    {
+     "name": "Stone Edge",
+     "level": "35"
+    },
+    {
+     "name": "Solar Beam",
+     "level": "40"
+    },
+    {
+     "name": "Wonder Room",
+     "level": "45"
+    },
+    {
+     "name": "Explosion",
+     "level": "50"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Meteor Beam"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Fire Spin"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Will-O-Wisp"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Rock Blast"
+    },
+    {
+     "name": "Power Swap"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Wonder Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Acrobatics"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Psychic Terrain"
+    },
+    {
+     "name": "Stomping Tantrum"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Baton Pass"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Heat Wave"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Overheat"
+    },
+    {
+     "name": "Cosmic Power"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Flare Blitz"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Stored Power"
+    },
+    {
+     "name": "Ally Switch"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/barboach",
+   "DexNum": "339",
+   "LevelUpMoves": [
+    {
+     "name": "Mud-Slap",
+     "level": "—"
+    },
+    {
+     "name": "Water Gun",
+     "level": "—"
+    },
+    {
+     "name": "Rest",
+     "level": "6"
+    },
+    {
+     "name": "Snore",
+     "level": "6"
+    },
+    {
+     "name": "Water Pulse",
+     "level": "12"
+    },
+    {
+     "name": "Amnesia",
+     "level": "18"
+    },
+    {
+     "name": "Aqua Tail",
+     "level": "24"
+    },
+    {
+     "name": "Muddy Water",
+     "level": "31"
+    },
+    {
+     "name": "Earthquake",
+     "level": "36"
+    },
+    {
+     "name": "Future Sight",
+     "level": "42"
+    },
+    {
+     "name": "Fissure",
+     "level": "48"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Thrash"
+    },
+    {
+     "name": "Spark"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Take Down"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Bounce"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Muddy Water"
+    },
+    {
+     "name": "Dragon Dance"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Scald"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/whiscash",
+   "DexNum": "340",
+   "LevelUpMoves": [
+    {
+     "name": "Thrash",
+     "level": "Evolve"
+    },
+    {
+     "name": "Thrash",
+     "level": "—"
+    },
+    {
+     "name": "Belch",
+     "level": "—"
+    },
+    {
+     "name": "Zen Headbutt",
+     "level": "—"
+    },
+    {
+     "name": "Tickle",
+     "level": "—"
+    },
+    {
+     "name": "Mud-Slap",
+     "level": "—"
+    },
+    {
+     "name": "Water Gun",
+     "level": "—"
+    },
+    {
+     "name": "Rest",
+     "level": "—"
+    },
+    {
+     "name": "Snore",
+     "level": "—"
+    },
+    {
+     "name": "Water Pulse",
+     "level": "12"
+    },
+    {
+     "name": "Amnesia",
+     "level": "18"
+    },
+    {
+     "name": "Aqua Tail",
+     "level": "24"
+    },
+    {
+     "name": "Muddy Water",
+     "level": "33"
+    },
+    {
+     "name": "Earthquake",
+     "level": "40"
+    },
+    {
+     "name": "Future Sight",
+     "level": "48"
+    },
+    {
+     "name": "Fissure",
+     "level": "56"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Thrash"
+    },
+    {
+     "name": "Spark"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Take Down"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Bounce"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Stomping Tantrum"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Muddy Water"
+    },
+    {
+     "name": "Dragon Dance"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Scald"
+    },
+    {
+     "name": "Liquidation"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/corphish",
+   "DexNum": "341",
+   "LevelUpMoves": [
+    {
+     "name": "Water Gun",
+     "level": "—"
+    },
+    {
+     "name": "Harden",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "4"
+    },
+    {
+     "name": "Taunt",
+     "level": "8"
+    },
+    {
+     "name": "Bubble Beam",
+     "level": "12"
+    },
+    {
+     "name": "Knock Off",
+     "level": "16"
+    },
+    {
+     "name": "Double Hit",
+     "level": "20"
+    },
+    {
+     "name": "Protect",
+     "level": "24"
+    },
+    {
+     "name": "Night Slash",
+     "level": "28"
+    },
+    {
+     "name": "Razor Shell",
+     "level": "32"
+    },
+    {
+     "name": "Swords Dance",
+     "level": "36"
+    },
+    {
+     "name": "Crunch",
+     "level": "40"
+    },
+    {
+     "name": "Crabhammer",
+     "level": "44"
+    },
+    {
+     "name": "Endeavor",
+     "level": "48"
+    },
+    {
+     "name": "Guillotine",
+     "level": "52"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Metal Claw"
+    },
+    {
+     "name": "Double-Edge"
+    },
+    {
+     "name": "Aqua Jet"
+    },
+    {
+     "name": "Switcheroo"
+    },
+    {
+     "name": "Slash"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Razor Shell"
+    },
+    {
+     "name": "False Swipe"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Superpower"
+    },
+    {
+     "name": "Muddy Water"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Dragon Dance"
+    },
+    {
+     "name": "X-Scissor"
+    },
+    {
+     "name": "Scald"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/crawdaunt",
+   "DexNum": "342",
+   "LevelUpMoves": [
+    {
+     "name": "Swift",
+     "level": "Evolve"
+    },
+    {
+     "name": "Swift",
+     "level": "—"
+    },
+    {
+     "name": "Water Gun",
+     "level": "—"
+    },
+    {
+     "name": "Harden",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Taunt",
+     "level": "—"
+    },
+    {
+     "name": "Bubble Beam",
+     "level": "12"
+    },
+    {
+     "name": "Knock Off",
+     "level": "16"
+    },
+    {
+     "name": "Double Hit",
+     "level": "20"
+    },
+    {
+     "name": "Protect",
+     "level": "24"
+    },
+    {
+     "name": "Night Slash",
+     "level": "28"
+    },
+    {
+     "name": "Razor Shell",
+     "level": "34"
+    },
+    {
+     "name": "Swords Dance",
+     "level": "40"
+    },
+    {
+     "name": "Crunch",
+     "level": "46"
+    },
+    {
+     "name": "Crabhammer",
+     "level": "52"
+    },
+    {
+     "name": "Endeavor",
+     "level": "58"
+    },
+    {
+     "name": "Guillotine",
+     "level": "64"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Metal Claw"
+    },
+    {
+     "name": "Double-Edge"
+    },
+    {
+     "name": "Aqua Jet"
+    },
+    {
+     "name": "Switcheroo"
+    },
+    {
+     "name": "Slash"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Lash Out"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Revenge"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Retaliate"
+    },
+    {
+     "name": "Razor Shell"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "False Swipe"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Superpower"
+    },
+    {
+     "name": "Muddy Water"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Dragon Dance"
+    },
+    {
+     "name": "Close Combat"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "X-Scissor"
+    },
+    {
+     "name": "Nasty Plot"
+    },
+    {
+     "name": "Sludge Wave"
+    },
+    {
+     "name": "Scald"
+    },
+    {
+     "name": "Liquidation"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/baltoy",
+   "DexNum": "343",
+   "LevelUpMoves": [
+    {
+     "name": "Harden",
+     "level": "—"
+    },
+    {
+     "name": "Mud-Slap",
+     "level": "—"
+    },
+    {
+     "name": "Rapid Spin",
+     "level": "3"
+    },
+    {
+     "name": "Confusion",
+     "level": "6"
+    },
+    {
+     "name": "Rock Tomb",
+     "level": "9"
+    },
+    {
+     "name": "Power Trick",
+     "level": "12"
+    },
+    {
+     "name": "Psybeam",
+     "level": "15"
+    },
+    {
+     "name": "Ancient Power",
+     "level": "18"
+    },
+    {
+     "name": "Imprison",
+     "level": "21"
+    },
+    {
+     "name": "Cosmic Power",
+     "level": "24"
+    },
+    {
+     "name": "Extrasensory",
+     "level": "27"
+    },
+    {
+     "name": "Earth Power",
+     "level": "30"
+    },
+    {
+     "name": "Self-Destruct",
+     "level": "33"
+    },
+    {
+     "name": "Guard Split",
+     "level": "36"
+    },
+    {
+     "name": "Power Split",
+     "level": "36"
+    },
+    {
+     "name": "Sandstorm",
+     "level": "39"
+    },
+    {
+     "name": "Explosion",
+     "level": "42"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Scorching Sands"
+    },
+    {
+     "name": "Expanding Force"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Power Swap"
+    },
+    {
+     "name": "Guard Swap"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Wonder Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Psychic Terrain"
+    },
+    {
+     "name": "Eerie Impulse"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Trick"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Cosmic Power"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Ally Switch"
+    },
+    {
+     "name": "Drill Run"
+    },
+    {
+     "name": "Dazzling Gleam"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/claydol",
+   "DexNum": "344",
+   "LevelUpMoves": [
+    {
+     "name": "Hyper Beam",
+     "level": "Evolve"
+    },
+    {
+     "name": "Hyper Beam",
+     "level": "—"
+    },
+    {
+     "name": "Teleport",
+     "level": "—"
+    },
+    {
+     "name": "Harden",
+     "level": "—"
+    },
+    {
+     "name": "Mud-Slap",
+     "level": "—"
+    },
+    {
+     "name": "Rapid Spin",
+     "level": "—"
+    },
+    {
+     "name": "Confusion",
+     "level": "—"
+    },
+    {
+     "name": "Rock Tomb",
+     "level": "9"
+    },
+    {
+     "name": "Power Trick",
+     "level": "12"
+    },
+    {
+     "name": "Psybeam",
+     "level": "15"
+    },
+    {
+     "name": "Ancient Power",
+     "level": "18"
+    },
+    {
+     "name": "Imprison",
+     "level": "21"
+    },
+    {
+     "name": "Cosmic Power",
+     "level": "24"
+    },
+    {
+     "name": "Extrasensory",
+     "level": "27"
+    },
+    {
+     "name": "Earth Power",
+     "level": "30"
+    },
+    {
+     "name": "Self-Destruct",
+     "level": "33"
+    },
+    {
+     "name": "Guard Split",
+     "level": "38"
+    },
+    {
+     "name": "Power Split",
+     "level": "38"
+    },
+    {
+     "name": "Sandstorm",
+     "level": "43"
+    },
+    {
+     "name": "Explosion",
+     "level": "48"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Scorching Sands"
+    },
+    {
+     "name": "Expanding Force"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Dig"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Sand Tomb"
+    },
+    {
+     "name": "Power Swap"
+    },
+    {
+     "name": "Guard Swap"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Wonder Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Psychic Terrain"
+    },
+    {
+     "name": "Eerie Impulse"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Trick"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Cosmic Power"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Earth Power"
+    },
+    {
+     "name": "Nasty Plot"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Stored Power"
+    },
+    {
+     "name": "Ally Switch"
+    },
+    {
+     "name": "Drill Run"
+    },
+    {
+     "name": "Dazzling Gleam"
+    },
+    {
+     "name": "Body Press"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/feebas",
+   "DexNum": "349",
+   "LevelUpMoves": [
+    {
+     "name": "Splash",
+     "level": "—"
+    },
+    {
+     "name": "Tackle",
+     "level": "15"
+    },
+    {
+     "name": "Flail",
+     "level": "25"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Mirror Coat"
+    },
+    {
+     "name": "Dragon Breath"
+    },
+    {
+     "name": "Hypnosis"
+    },
+    {
+     "name": "Confuse Ray"
+    },
+    {
+     "name": "Mist"
+    },
+    {
+     "name": "Haze"
+    },
+    {
+     "name": "Tickle"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Scale Shot"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Brine"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Muddy Water"
+    },
+    {
+     "name": "Dragon Pulse"
+    },
+    {
+     "name": "Scald"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/milotic",
+   "DexNum": "350",
+   "LevelUpMoves": [
+    {
+     "name": "Water Pulse",
+     "level": "Evolve"
+    },
+    {
+     "name": "Water Pulse",
+     "level": "—"
+    },
+    {
+     "name": "Flail",
+     "level": "—"
+    },
+    {
+     "name": "Splash",
+     "level": "—"
+    },
+    {
+     "name": "Tackle",
+     "level": "—"
+    },
+    {
+     "name": "Wrap",
+     "level": "—"
+    },
+    {
+     "name": "Water Gun",
+     "level": "—"
+    },
+    {
+     "name": "Disarming Voice",
+     "level": "4"
+    },
+    {
+     "name": "Twister",
+     "level": "8"
+    },
+    {
+     "name": "Aqua Ring",
+     "level": "12"
+    },
+    {
+     "name": "Attract",
+     "level": "16"
+    },
+    {
+     "name": "Life Dew",
+     "level": "20"
+    },
+    {
+     "name": "Dragon Tail",
+     "level": "24"
+    },
+    {
+     "name": "Recover",
+     "level": "28"
+    },
+    {
+     "name": "Aqua Tail",
+     "level": "32"
+    },
+    {
+     "name": "Safeguard",
+     "level": "36"
+    },
+    {
+     "name": "Surf",
+     "level": "40"
+    },
+    {
+     "name": "Rain Dance",
+     "level": "44"
+    },
+    {
+     "name": "Coil",
+     "level": "48"
+    },
+    {
+     "name": "Hydro Pump",
+     "level": "52"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Mirror Coat"
+    },
+    {
+     "name": "Dragon Breath"
+    },
+    {
+     "name": "Hypnosis"
+    },
+    {
+     "name": "Confuse Ray"
+    },
+    {
+     "name": "Mist"
+    },
+    {
+     "name": "Haze"
+    },
+    {
+     "name": "Tickle"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Flip Turn"
+    },
+    {
+     "name": "Triple Axel"
+    },
+    {
+     "name": "Skitter Smack"
+    },
+    {
+     "name": "Scale Shot"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Whirlpool"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Dive"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Brine"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Breaking Swipe"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Hydro Pump"
+    },
+    {
+     "name": "Surf"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Waterfall"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Muddy Water"
+    },
+    {
+     "name": "Dragon Dance"
+    },
+    {
+     "name": "Dragon Pulse"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Scald"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/duskull",
+   "DexNum": "355",
+   "LevelUpMoves": [
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Disable",
+     "level": "4"
+    },
+    {
+     "name": "Shadow Sneak",
+     "level": "8"
+    },
+    {
+     "name": "Confuse Ray",
+     "level": "12"
+    },
+    {
+     "name": "Night Shade",
+     "level": "16"
+    },
+    {
+     "name": "Payback",
+     "level": "20"
+    },
+    {
+     "name": "Will-O-Wisp",
+     "level": "24"
+    },
+    {
+     "name": "Mean Look",
+     "level": "28"
+    },
+    {
+     "name": "Hex",
+     "level": "32"
+    },
+    {
+     "name": "Curse",
+     "level": "36"
+    },
+    {
+     "name": "Shadow Ball",
+     "level": "40"
+    },
+    {
+     "name": "Future Sight",
+     "level": "44"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Pain Split"
+    },
+    {
+     "name": "Grudge"
+    },
+    {
+     "name": "Memento"
+    },
+    {
+     "name": "Haze"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Skitter Smack"
+    },
+    {
+     "name": "Poltergeist"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Will-O-Wisp"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Revenge"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Wonder Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Trick"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Ally Switch"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/dusclops",
+   "DexNum": "356",
+   "LevelUpMoves": [
+    {
+     "name": "Shadow Punch",
+     "level": "Evolve"
+    },
+    {
+     "name": "Shadow Punch",
+     "level": "—"
+    },
+    {
+     "name": "Fire Punch",
+     "level": "—"
+    },
+    {
+     "name": "Ice Punch",
+     "level": "—"
+    },
+    {
+     "name": "Thunder Punch",
+     "level": "—"
+    },
+    {
+     "name": "Gravity",
+     "level": "—"
+    },
+    {
+     "name": "Bind",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Disable",
+     "level": "—"
+    },
+    {
+     "name": "Shadow Sneak",
+     "level": "—"
+    },
+    {
+     "name": "Confuse Ray",
+     "level": "12"
+    },
+    {
+     "name": "Night Shade",
+     "level": "16"
+    },
+    {
+     "name": "Payback",
+     "level": "20"
+    },
+    {
+     "name": "Will-O-Wisp",
+     "level": "24"
+    },
+    {
+     "name": "Mean Look",
+     "level": "28"
+    },
+    {
+     "name": "Hex",
+     "level": "32"
+    },
+    {
+     "name": "Curse",
+     "level": "36"
+    },
+    {
+     "name": "Shadow Ball",
+     "level": "42"
+    },
+    {
+     "name": "Future Sight",
+     "level": "48"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Pain Split"
+    },
+    {
+     "name": "Grudge"
+    },
+    {
+     "name": "Memento"
+    },
+    {
+     "name": "Haze"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Skitter Smack"
+    },
+    {
+     "name": "Poltergeist"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Mega Kick"
+    },
+    {
+     "name": "Fire Punch"
+    },
+    {
+     "name": "Ice Punch"
+    },
+    {
+     "name": "Thunder Punch"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Will-O-Wisp"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Revenge"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Wonder Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Metronome"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Trick"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Ally Switch"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/wynaut",
+   "DexNum": "360",
+   "LevelUpMoves": [
+    {
+     "name": "Counter",
+     "level": "—"
+    },
+    {
+     "name": "Mirror Coat",
+     "level": "—"
+    },
+    {
+     "name": "Safeguard",
+     "level": "—"
+    },
+    {
+     "name": "Destiny Bond",
+     "level": "—"
+    },
+    {
+     "name": "Splash",
+     "level": "—"
+    },
+    {
+     "name": "Charm",
+     "level": "—"
+    },
+    {
+     "name": "Encore",
+     "level": "—"
+    },
+    {
+     "name": "Amnesia",
+     "level": "—"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Charm"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Encore"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/snorunt",
+   "DexNum": "361",
+   "LevelUpMoves": [
+    {
+     "name": "Powder Snow",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "5"
+    },
+    {
+     "name": "Double Team",
+     "level": "10"
+    },
+    {
+     "name": "Ice Shard",
+     "level": "15"
+    },
+    {
+     "name": "Protect",
+     "level": "20"
+    },
+    {
+     "name": "Icy Wind",
+     "level": "25"
+    },
+    {
+     "name": "Frost Breath",
+     "level": "30"
+    },
+    {
+     "name": "Bite",
+     "level": "35"
+    },
+    {
+     "name": "Ice Fang",
+     "level": "40"
+    },
+    {
+     "name": "Hail",
+     "level": "45"
+    },
+    {
+     "name": "Headbutt",
+     "level": "50"
+    },
+    {
+     "name": "Crunch",
+     "level": "55"
+    },
+    {
+     "name": "Blizzard",
+     "level": "60"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Block"
+    },
+    {
+     "name": "Disable"
+    },
+    {
+     "name": "Switcheroo"
+    },
+    {
+     "name": "Rollout"
+    },
+    {
+     "name": "Icicle Crash"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Fake Tears"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Spikes"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Shadow Ball"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/glalie",
+   "DexNum": "362",
+   "LevelUpMoves": [
+    {
+     "name": "Freeze-Dry",
+     "level": "Evolve"
+    },
+    {
+     "name": "Freeze-Dry",
+     "level": "—"
+    },
+    {
+     "name": "Sheer Cold",
+     "level": "—"
+    },
+    {
+     "name": "Powder Snow",
+     "level": "—"
+    },
+    {
+     "name": "Astonish",
+     "level": "—"
+    },
+    {
+     "name": "Leer",
+     "level": "—"
+    },
+    {
+     "name": "Double Team",
+     "level": "—"
+    },
+    {
+     "name": "Ice Shard",
+     "level": "15"
+    },
+    {
+     "name": "Protect",
+     "level": "20"
+    },
+    {
+     "name": "Icy Wind",
+     "level": "25"
+    },
+    {
+     "name": "Frost Breath",
+     "level": "30"
+    },
+    {
+     "name": "Bite",
+     "level": "35"
+    },
+    {
+     "name": "Ice Fang",
+     "level": "40"
+    },
+    {
+     "name": "Hail",
+     "level": "47"
+    },
+    {
+     "name": "Headbutt",
+     "level": "54"
+    },
+    {
+     "name": "Crunch",
+     "level": "61"
+    },
+    {
+     "name": "Blizzard",
+     "level": "68"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Block"
+    },
+    {
+     "name": "Disable"
+    },
+    {
+     "name": "Switcheroo"
+    },
+    {
+     "name": "Rollout"
+    },
+    {
+     "name": "Icicle Crash"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Steel Roller"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Self-Destruct"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Scary Face"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Weather Ball"
+    },
+    {
+     "name": "Fake Tears"
+    },
+    {
+     "name": "Icicle Spear"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Avalanche"
+    },
+    {
+     "name": "Ice Fang"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Hex"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Spikes"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Crunch"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Iron Head"
+    }
+   ]
+  },
+  {
+   "link": "https://www.serebii.net/pokedex-swsh/jirachi",
+   "DexNum": "385",
+   "LevelUpMoves": [
+    {
+     "name": "Confusion",
+     "level": "—"
+    },
+    {
+     "name": "Wish",
+     "level": "—"
+    },
+    {
+     "name": "Swift",
+     "level": "7"
+    },
+    {
+     "name": "Helping Hand",
+     "level": "14"
+    },
+    {
+     "name": "Life Dew",
+     "level": "21"
+    },
+    {
+     "name": "Zen Headbutt",
+     "level": "28"
+    },
+    {
+     "name": "Gravity",
+     "level": "35"
+    },
+    {
+     "name": "Psychic",
+     "level": "42"
+    },
+    {
+     "name": "Meteor Mash",
+     "level": "49"
+    },
+    {
+     "name": "Healing Wish",
+     "level": "56"
+    },
+    {
+     "name": "Rest",
+     "level": "63"
+    },
+    {
+     "name": "Future Sight",
+     "level": "70"
+    },
+    {
+     "name": "Double-Edge",
+     "level": "77"
+    },
+    {
+     "name": "Cosmic Power",
+     "level": "84"
+    },
+    {
+     "name": "Last Resort",
+     "level": "91"
+    },
+    {
+     "name": "Doom Desire",
+     "level": "98"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Steel Beam"
+    },
+    {
+     "name": "Expanding Force"
+    },
+    {
+     "name": "Meteor Beam"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Mega Kick"
+    },
+    {
+     "name": "Fire Punch"
+    },
+    {
+     "name": "Ice Punch"
+    },
+    {
+     "name": "Thunder Punch"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Thunder Wave"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Snore"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Icy Wind"
+    },
+    {
+     "name": "Charm"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Swift"
+    },
+    {
+     "name": "Helping Hand"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Drain Punch"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Magic Room"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Body Slam"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Metronome"
+    },
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Baton Pass"
+    },
+    {
+     "name": "Encore"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Future Sight"
+    },
+    {
+     "name": "Uproar"
+    },
+    {
+     "name": "Trick"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Cosmic Power"
+    },
+    {
+     "name": "Iron Defense"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Aura Sphere"
+    },
+    {
+     "name": "Energy Ball"
+    },
+    {
+     "name": "Zen Headbutt"
+    },
+    {
+     "name": "Flash Cannon"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Stealth Rock"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Stored Power"
+    },
+    {
+     "name": "Ally Switch"
+    },
+    {
+     "name": "Play Rough"
+    },
+    {
+     "name": "Dazzling Gleam"
+    }
+   ]
+  }
+ ]
+}

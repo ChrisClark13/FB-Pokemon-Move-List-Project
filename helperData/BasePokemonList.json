@@ -1,0 +1,3576 @@
+{
+  "Pokemon": [
+    {
+      "DexNum": 1,
+      "name": "Bulbasaur"
+    },
+    {
+      "DexNum": 2,
+      "name": "Ivysaur"
+    },
+    {
+      "DexNum": 3,
+      "name": "Venusaur"
+    },
+    {
+      "DexNum": 4,
+      "name": "Charmander"
+    },
+    {
+      "DexNum": 5,
+      "name": "Charmeleon"
+    },
+    {
+      "DexNum": 6,
+      "name": "Charizard"
+    },
+    {
+      "DexNum": 7,
+      "name": "Squirtle"
+    },
+    {
+      "DexNum": 8,
+      "name": "Wartortle"
+    },
+    {
+      "DexNum": 9,
+      "name": "Blastoise"
+    },
+    {
+      "DexNum": 10,
+      "name": "Caterpie"
+    },
+    {
+      "DexNum": 11,
+      "name": "Metapod"
+    },
+    {
+      "DexNum": 12,
+      "name": "Butterfree"
+    },
+    {
+      "DexNum": 13,
+      "name": "Weedle"
+    },
+    {
+      "DexNum": 14,
+      "name": "Kakuna"
+    },
+    {
+      "DexNum": 15,
+      "name": "Beedrill"
+    },
+    {
+      "DexNum": 16,
+      "name": "Pidgey"
+    },
+    {
+      "DexNum": 17,
+      "name": "Pidgeotto"
+    },
+    {
+      "DexNum": 18,
+      "name": "Pidgeot"
+    },
+    {
+      "DexNum": 19,
+      "name": "Rattata"
+    },
+    {
+      "DexNum": 20,
+      "name": "Raticate"
+    },
+    {
+      "DexNum": 21,
+      "name": "Spearow"
+    },
+    {
+      "DexNum": 22,
+      "name": "Fearow"
+    },
+    {
+      "DexNum": 23,
+      "name": "Ekans"
+    },
+    {
+      "DexNum": 24,
+      "name": "Arbok"
+    },
+    {
+      "DexNum": 25,
+      "name": "Pikachu"
+    },
+    {
+      "DexNum": 26,
+      "name": "Raichu"
+    },
+    {
+      "DexNum": 27,
+      "name": "Sandshrew"
+    },
+    {
+      "DexNum": 28,
+      "name": "Sandslash"
+    },
+    {
+      "DexNum": 29,
+      "name": "Nidoran♀"
+    },
+    {
+      "DexNum": 30,
+      "name": "Nidorina"
+    },
+    {
+      "DexNum": 31,
+      "name": "Nidoqueen"
+    },
+    {
+      "DexNum": 32,
+      "name": "Nidoran♂"
+    },
+    {
+      "DexNum": 33,
+      "name": "Nidorino"
+    },
+    {
+      "DexNum": 34,
+      "name": "Nidoking"
+    },
+    {
+      "DexNum": 35,
+      "name": "Clefairy"
+    },
+    {
+      "DexNum": 36,
+      "name": "Clefable"
+    },
+    {
+      "DexNum": 37,
+      "name": "Vulpix"
+    },
+    {
+      "DexNum": 38,
+      "name": "Ninetales"
+    },
+    {
+      "DexNum": 39,
+      "name": "Jigglypuff"
+    },
+    {
+      "DexNum": 40,
+      "name": "Wigglytuff"
+    },
+    {
+      "DexNum": 41,
+      "name": "Zubat"
+    },
+    {
+      "DexNum": 42,
+      "name": "Golbat"
+    },
+    {
+      "DexNum": 43,
+      "name": "Oddish"
+    },
+    {
+      "DexNum": 44,
+      "name": "Gloom"
+    },
+    {
+      "DexNum": 45,
+      "name": "Vileplume"
+    },
+    {
+      "DexNum": 46,
+      "name": "Paras"
+    },
+    {
+      "DexNum": 47,
+      "name": "Parasect"
+    },
+    {
+      "DexNum": 48,
+      "name": "Venonat"
+    },
+    {
+      "DexNum": 49,
+      "name": "Venomoth"
+    },
+    {
+      "DexNum": 50,
+      "name": "Diglett"
+    },
+    {
+      "DexNum": 51,
+      "name": "Dugtrio"
+    },
+    {
+      "DexNum": 52,
+      "name": "Meowth"
+    },
+    {
+      "DexNum": 53,
+      "name": "Persian"
+    },
+    {
+      "DexNum": 54,
+      "name": "Psyduck"
+    },
+    {
+      "DexNum": 55,
+      "name": "Golduck"
+    },
+    {
+      "DexNum": 56,
+      "name": "Mankey"
+    },
+    {
+      "DexNum": 57,
+      "name": "Primeape"
+    },
+    {
+      "DexNum": 58,
+      "name": "Growlithe"
+    },
+    {
+      "DexNum": 59,
+      "name": "Arcanine"
+    },
+    {
+      "DexNum": 60,
+      "name": "Poliwag"
+    },
+    {
+      "DexNum": 61,
+      "name": "Poliwhirl"
+    },
+    {
+      "DexNum": 62,
+      "name": "Poliwrath"
+    },
+    {
+      "DexNum": 63,
+      "name": "Abra"
+    },
+    {
+      "DexNum": 64,
+      "name": "Kadabra"
+    },
+    {
+      "DexNum": 65,
+      "name": "Alakazam"
+    },
+    {
+      "DexNum": 66,
+      "name": "Machop"
+    },
+    {
+      "DexNum": 67,
+      "name": "Machoke"
+    },
+    {
+      "DexNum": 68,
+      "name": "Machamp"
+    },
+    {
+      "DexNum": 69,
+      "name": "Bellsprout"
+    },
+    {
+      "DexNum": 70,
+      "name": "Weepinbell"
+    },
+    {
+      "DexNum": 71,
+      "name": "Victreebel"
+    },
+    {
+      "DexNum": 72,
+      "name": "Tentacool"
+    },
+    {
+      "DexNum": 73,
+      "name": "Tentacruel"
+    },
+    {
+      "DexNum": 74,
+      "name": "Geodude"
+    },
+    {
+      "DexNum": 75,
+      "name": "Graveler"
+    },
+    {
+      "DexNum": 76,
+      "name": "Golem"
+    },
+    {
+      "DexNum": 77,
+      "name": "Ponyta"
+    },
+    {
+      "DexNum": 78,
+      "name": "Rapidash"
+    },
+    {
+      "DexNum": 79,
+      "name": "Slowpoke"
+    },
+    {
+      "DexNum": 80,
+      "name": "Slowbro"
+    },
+    {
+      "DexNum": 81,
+      "name": "Magnemite"
+    },
+    {
+      "DexNum": 82,
+      "name": "Magneton"
+    },
+    {
+      "DexNum": 83,
+      "name": "Farfetch'd"
+    },
+    {
+      "DexNum": 84,
+      "name": "Doduo"
+    },
+    {
+      "DexNum": 85,
+      "name": "Dodrio"
+    },
+    {
+      "DexNum": 86,
+      "name": "Seel"
+    },
+    {
+      "DexNum": 87,
+      "name": "Dewgong"
+    },
+    {
+      "DexNum": 88,
+      "name": "Grimer"
+    },
+    {
+      "DexNum": 89,
+      "name": "Muk"
+    },
+    {
+      "DexNum": 90,
+      "name": "Shellder"
+    },
+    {
+      "DexNum": 91,
+      "name": "Cloyster"
+    },
+    {
+      "DexNum": 92,
+      "name": "Gastly"
+    },
+    {
+      "DexNum": 93,
+      "name": "Haunter"
+    },
+    {
+      "DexNum": 94,
+      "name": "Gengar"
+    },
+    {
+      "DexNum": 95,
+      "name": "Onix"
+    },
+    {
+      "DexNum": 96,
+      "name": "Drowzee"
+    },
+    {
+      "DexNum": 97,
+      "name": "Hypno"
+    },
+    {
+      "DexNum": 98,
+      "name": "Krabby"
+    },
+    {
+      "DexNum": 99,
+      "name": "Kingler"
+    },
+    {
+      "DexNum": 100,
+      "name": "Voltorb"
+    },
+    {
+      "DexNum": 101,
+      "name": "Electrode"
+    },
+    {
+      "DexNum": 102,
+      "name": "Exeggcute"
+    },
+    {
+      "DexNum": 103,
+      "name": "Exeggutor"
+    },
+    {
+      "DexNum": 104,
+      "name": "Cubone"
+    },
+    {
+      "DexNum": 105,
+      "name": "Marowak"
+    },
+    {
+      "DexNum": 106,
+      "name": "Hitmonlee"
+    },
+    {
+      "DexNum": 107,
+      "name": "Hitmonchan"
+    },
+    {
+      "DexNum": 108,
+      "name": "Lickitung"
+    },
+    {
+      "DexNum": 109,
+      "name": "Koffing"
+    },
+    {
+      "DexNum": 110,
+      "name": "Weezing"
+    },
+    {
+      "DexNum": 111,
+      "name": "Rhyhorn"
+    },
+    {
+      "DexNum": 112,
+      "name": "Rhydon"
+    },
+    {
+      "DexNum": 113,
+      "name": "Chansey"
+    },
+    {
+      "DexNum": 114,
+      "name": "Tangela"
+    },
+    {
+      "DexNum": 115,
+      "name": "Kangaskhan"
+    },
+    {
+      "DexNum": 116,
+      "name": "Horsea"
+    },
+    {
+      "DexNum": 117,
+      "name": "Seadra"
+    },
+    {
+      "DexNum": 118,
+      "name": "Goldeen"
+    },
+    {
+      "DexNum": 119,
+      "name": "Seaking"
+    },
+    {
+      "DexNum": 120,
+      "name": "Staryu"
+    },
+    {
+      "DexNum": 121,
+      "name": "Starmie"
+    },
+    {
+      "DexNum": 122,
+      "name": "Mr. Mime"
+    },
+    {
+      "DexNum": 123,
+      "name": "Scyther"
+    },
+    {
+      "DexNum": 124,
+      "name": "Jynx"
+    },
+    {
+      "DexNum": 125,
+      "name": "Electabuzz"
+    },
+    {
+      "DexNum": 126,
+      "name": "Magmar"
+    },
+    {
+      "DexNum": 127,
+      "name": "Pinsir"
+    },
+    {
+      "DexNum": 128,
+      "name": "Tauros"
+    },
+    {
+      "DexNum": 129,
+      "name": "Magikarp"
+    },
+    {
+      "DexNum": 130,
+      "name": "Gyarados"
+    },
+    {
+      "DexNum": 131,
+      "name": "Lapras"
+    },
+    {
+      "DexNum": 132,
+      "name": "Ditto"
+    },
+    {
+      "DexNum": 133,
+      "name": "Eevee"
+    },
+    {
+      "DexNum": 134,
+      "name": "Vaporeon"
+    },
+    {
+      "DexNum": 135,
+      "name": "Jolteon"
+    },
+    {
+      "DexNum": 136,
+      "name": "Flareon"
+    },
+    {
+      "DexNum": 137,
+      "name": "Porygon"
+    },
+    {
+      "DexNum": 138,
+      "name": "Omanyte"
+    },
+    {
+      "DexNum": 139,
+      "name": "Omastar"
+    },
+    {
+      "DexNum": 140,
+      "name": "Kabuto"
+    },
+    {
+      "DexNum": 141,
+      "name": "Kabutops"
+    },
+    {
+      "DexNum": 142,
+      "name": "Aerodactyl"
+    },
+    {
+      "DexNum": 143,
+      "name": "Snorlax"
+    },
+    {
+      "DexNum": 144,
+      "name": "Articuno"
+    },
+    {
+      "DexNum": 145,
+      "name": "Zapdos"
+    },
+    {
+      "DexNum": 146,
+      "name": "Moltres"
+    },
+    {
+      "DexNum": 147,
+      "name": "Dratini"
+    },
+    {
+      "DexNum": 148,
+      "name": "Dragonair"
+    },
+    {
+      "DexNum": 149,
+      "name": "Dragonite"
+    },
+    {
+      "DexNum": 150,
+      "name": "Mewtwo"
+    },
+    {
+      "DexNum": 151,
+      "name": "Mew"
+    },
+    {
+      "DexNum": 152,
+      "name": "Chikorita"
+    },
+    {
+      "DexNum": 153,
+      "name": "Bayleef"
+    },
+    {
+      "DexNum": 154,
+      "name": "Meganium"
+    },
+    {
+      "DexNum": 155,
+      "name": "Cyndaquil"
+    },
+    {
+      "DexNum": 156,
+      "name": "Quilava"
+    },
+    {
+      "DexNum": 157,
+      "name": "Typhlosion"
+    },
+    {
+      "DexNum": 158,
+      "name": "Totodile"
+    },
+    {
+      "DexNum": 159,
+      "name": "Croconaw"
+    },
+    {
+      "DexNum": 160,
+      "name": "Feraligatr"
+    },
+    {
+      "DexNum": 161,
+      "name": "Sentret"
+    },
+    {
+      "DexNum": 162,
+      "name": "Furret"
+    },
+    {
+      "DexNum": 163,
+      "name": "Hoothoot"
+    },
+    {
+      "DexNum": 164,
+      "name": "Noctowl"
+    },
+    {
+      "DexNum": 165,
+      "name": "Ledyba"
+    },
+    {
+      "DexNum": 166,
+      "name": "Ledian"
+    },
+    {
+      "DexNum": 167,
+      "name": "Spinarak"
+    },
+    {
+      "DexNum": 168,
+      "name": "Ariados"
+    },
+    {
+      "DexNum": 169,
+      "name": "Crobat"
+    },
+    {
+      "DexNum": 170,
+      "name": "Chinchou"
+    },
+    {
+      "DexNum": 171,
+      "name": "Lanturn"
+    },
+    {
+      "DexNum": 172,
+      "name": "Pichu"
+    },
+    {
+      "DexNum": 173,
+      "name": "Cleffa"
+    },
+    {
+      "DexNum": 174,
+      "name": "Igglybuff"
+    },
+    {
+      "DexNum": 175,
+      "name": "Togepi"
+    },
+    {
+      "DexNum": 176,
+      "name": "Togetic"
+    },
+    {
+      "DexNum": 177,
+      "name": "Natu"
+    },
+    {
+      "DexNum": 178,
+      "name": "Xatu"
+    },
+    {
+      "DexNum": 179,
+      "name": "Mareep"
+    },
+    {
+      "DexNum": 180,
+      "name": "Flaaffy"
+    },
+    {
+      "DexNum": 181,
+      "name": "Ampharos"
+    },
+    {
+      "DexNum": 182,
+      "name": "Bellossom"
+    },
+    {
+      "DexNum": 183,
+      "name": "Marill"
+    },
+    {
+      "DexNum": 184,
+      "name": "Azumarill"
+    },
+    {
+      "DexNum": 185,
+      "name": "Sudowoodo"
+    },
+    {
+      "DexNum": 186,
+      "name": "Politoed"
+    },
+    {
+      "DexNum": 187,
+      "name": "Hoppip"
+    },
+    {
+      "DexNum": 188,
+      "name": "Skiploom"
+    },
+    {
+      "DexNum": 189,
+      "name": "Jumpluff"
+    },
+    {
+      "DexNum": 190,
+      "name": "Aipom"
+    },
+    {
+      "DexNum": 191,
+      "name": "Sunkern"
+    },
+    {
+      "DexNum": 192,
+      "name": "Sunflora"
+    },
+    {
+      "DexNum": 193,
+      "name": "Yanma"
+    },
+    {
+      "DexNum": 194,
+      "name": "Wooper"
+    },
+    {
+      "DexNum": 195,
+      "name": "Quagsire"
+    },
+    {
+      "DexNum": 196,
+      "name": "Espeon"
+    },
+    {
+      "DexNum": 197,
+      "name": "Umbreon"
+    },
+    {
+      "DexNum": 198,
+      "name": "Murkrow"
+    },
+    {
+      "DexNum": 199,
+      "name": "Slowking"
+    },
+    {
+      "DexNum": 200,
+      "name": "Misdreavus"
+    },
+    {
+      "DexNum": 201,
+      "name": "Unown"
+    },
+    {
+      "DexNum": 202,
+      "name": "Wobbuffet"
+    },
+    {
+      "DexNum": 203,
+      "name": "Girafarig"
+    },
+    {
+      "DexNum": 204,
+      "name": "Pineco"
+    },
+    {
+      "DexNum": 205,
+      "name": "Forretress"
+    },
+    {
+      "DexNum": 206,
+      "name": "Dunsparce"
+    },
+    {
+      "DexNum": 207,
+      "name": "Gligar"
+    },
+    {
+      "DexNum": 208,
+      "name": "Steelix"
+    },
+    {
+      "DexNum": 209,
+      "name": "Snubbull"
+    },
+    {
+      "DexNum": 210,
+      "name": "Granbull"
+    },
+    {
+      "DexNum": 211,
+      "name": "Qwilfish"
+    },
+    {
+      "DexNum": 212,
+      "name": "Scizor"
+    },
+    {
+      "DexNum": 213,
+      "name": "Shuckle"
+    },
+    {
+      "DexNum": 214,
+      "name": "Heracross"
+    },
+    {
+      "DexNum": 215,
+      "name": "Sneasel"
+    },
+    {
+      "DexNum": 216,
+      "name": "Teddiursa"
+    },
+    {
+      "DexNum": 217,
+      "name": "Ursaring"
+    },
+    {
+      "DexNum": 218,
+      "name": "Slugma"
+    },
+    {
+      "DexNum": 219,
+      "name": "Magcargo"
+    },
+    {
+      "DexNum": 220,
+      "name": "Swinub"
+    },
+    {
+      "DexNum": 221,
+      "name": "Piloswine"
+    },
+    {
+      "DexNum": 222,
+      "name": "Corsola"
+    },
+    {
+      "DexNum": 223,
+      "name": "Remoraid"
+    },
+    {
+      "DexNum": 224,
+      "name": "Octillery"
+    },
+    {
+      "DexNum": 225,
+      "name": "Delibird"
+    },
+    {
+      "DexNum": 226,
+      "name": "Mantine"
+    },
+    {
+      "DexNum": 227,
+      "name": "Skarmory"
+    },
+    {
+      "DexNum": 228,
+      "name": "Houndour"
+    },
+    {
+      "DexNum": 229,
+      "name": "Houndoom"
+    },
+    {
+      "DexNum": 230,
+      "name": "Kingdra"
+    },
+    {
+      "DexNum": 231,
+      "name": "Phanpy"
+    },
+    {
+      "DexNum": 232,
+      "name": "Donphan"
+    },
+    {
+      "DexNum": 233,
+      "name": "Porygon2"
+    },
+    {
+      "DexNum": 234,
+      "name": "Stantler"
+    },
+    {
+      "DexNum": 235,
+      "name": "Smeargle"
+    },
+    {
+      "DexNum": 236,
+      "name": "Tyrogue"
+    },
+    {
+      "DexNum": 237,
+      "name": "Hitmontop"
+    },
+    {
+      "DexNum": 238,
+      "name": "Smoochum"
+    },
+    {
+      "DexNum": 239,
+      "name": "Elekid"
+    },
+    {
+      "DexNum": 240,
+      "name": "Magby"
+    },
+    {
+      "DexNum": 241,
+      "name": "Miltank"
+    },
+    {
+      "DexNum": 242,
+      "name": "Blissey"
+    },
+    {
+      "DexNum": 243,
+      "name": "Raikou"
+    },
+    {
+      "DexNum": 244,
+      "name": "Entei"
+    },
+    {
+      "DexNum": 245,
+      "name": "Suicune"
+    },
+    {
+      "DexNum": 246,
+      "name": "Larvitar"
+    },
+    {
+      "DexNum": 247,
+      "name": "Pupitar"
+    },
+    {
+      "DexNum": 248,
+      "name": "Tyranitar"
+    },
+    {
+      "DexNum": 249,
+      "name": "Lugia"
+    },
+    {
+      "DexNum": 250,
+      "name": "Ho-Oh"
+    },
+    {
+      "DexNum": 251,
+      "name": "Celebi"
+    },
+    {
+      "DexNum": 252,
+      "name": "Treecko"
+    },
+    {
+      "DexNum": 253,
+      "name": "Grovyle"
+    },
+    {
+      "DexNum": 254,
+      "name": "Sceptile"
+    },
+    {
+      "DexNum": 255,
+      "name": "Torchic"
+    },
+    {
+      "DexNum": 256,
+      "name": "Combusken"
+    },
+    {
+      "DexNum": 257,
+      "name": "Blaziken"
+    },
+    {
+      "DexNum": 258,
+      "name": "Mudkip"
+    },
+    {
+      "DexNum": 259,
+      "name": "Marshtomp"
+    },
+    {
+      "DexNum": 260,
+      "name": "Swampert"
+    },
+    {
+      "DexNum": 261,
+      "name": "Poochyena"
+    },
+    {
+      "DexNum": 262,
+      "name": "Mightyena"
+    },
+    {
+      "DexNum": 263,
+      "name": "Zigzagoon"
+    },
+    {
+      "DexNum": 264,
+      "name": "Linoone"
+    },
+    {
+      "DexNum": 265,
+      "name": "Wurmple"
+    },
+    {
+      "DexNum": 266,
+      "name": "Silcoon"
+    },
+    {
+      "DexNum": 267,
+      "name": "Beautifly"
+    },
+    {
+      "DexNum": 268,
+      "name": "Cascoon"
+    },
+    {
+      "DexNum": 269,
+      "name": "Dustox"
+    },
+    {
+      "DexNum": 270,
+      "name": "Lotad"
+    },
+    {
+      "DexNum": 271,
+      "name": "Lombre"
+    },
+    {
+      "DexNum": 272,
+      "name": "Ludicolo"
+    },
+    {
+      "DexNum": 273,
+      "name": "Seedot"
+    },
+    {
+      "DexNum": 274,
+      "name": "Nuzleaf"
+    },
+    {
+      "DexNum": 275,
+      "name": "Shiftry"
+    },
+    {
+      "DexNum": 276,
+      "name": "Taillow"
+    },
+    {
+      "DexNum": 277,
+      "name": "Swellow"
+    },
+    {
+      "DexNum": 278,
+      "name": "Wingull"
+    },
+    {
+      "DexNum": 279,
+      "name": "Pelipper"
+    },
+    {
+      "DexNum": 280,
+      "name": "Ralts"
+    },
+    {
+      "DexNum": 281,
+      "name": "Kirlia"
+    },
+    {
+      "DexNum": 282,
+      "name": "Gardevoir"
+    },
+    {
+      "DexNum": 283,
+      "name": "Surskit"
+    },
+    {
+      "DexNum": 284,
+      "name": "Masquerain"
+    },
+    {
+      "DexNum": 285,
+      "name": "Shroomish"
+    },
+    {
+      "DexNum": 286,
+      "name": "Breloom"
+    },
+    {
+      "DexNum": 287,
+      "name": "Slakoth"
+    },
+    {
+      "DexNum": 288,
+      "name": "Vigoroth"
+    },
+    {
+      "DexNum": 289,
+      "name": "Slaking"
+    },
+    {
+      "DexNum": 290,
+      "name": "Nincada"
+    },
+    {
+      "DexNum": 291,
+      "name": "Ninjask"
+    },
+    {
+      "DexNum": 292,
+      "name": "Shedinja"
+    },
+    {
+      "DexNum": 293,
+      "name": "Whismur"
+    },
+    {
+      "DexNum": 294,
+      "name": "Loudred"
+    },
+    {
+      "DexNum": 295,
+      "name": "Exploud"
+    },
+    {
+      "DexNum": 296,
+      "name": "Makuhita"
+    },
+    {
+      "DexNum": 297,
+      "name": "Hariyama"
+    },
+    {
+      "DexNum": 298,
+      "name": "Azurill"
+    },
+    {
+      "DexNum": 299,
+      "name": "Nosepass"
+    },
+    {
+      "DexNum": 300,
+      "name": "Skitty"
+    },
+    {
+      "DexNum": 301,
+      "name": "Delcatty"
+    },
+    {
+      "DexNum": 302,
+      "name": "Sableye"
+    },
+    {
+      "DexNum": 303,
+      "name": "Mawile"
+    },
+    {
+      "DexNum": 304,
+      "name": "Aron"
+    },
+    {
+      "DexNum": 305,
+      "name": "Lairon"
+    },
+    {
+      "DexNum": 306,
+      "name": "Aggron"
+    },
+    {
+      "DexNum": 307,
+      "name": "Meditite"
+    },
+    {
+      "DexNum": 308,
+      "name": "Medicham"
+    },
+    {
+      "DexNum": 309,
+      "name": "Electrike"
+    },
+    {
+      "DexNum": 310,
+      "name": "Manectric"
+    },
+    {
+      "DexNum": 311,
+      "name": "Plusle"
+    },
+    {
+      "DexNum": 312,
+      "name": "Minun"
+    },
+    {
+      "DexNum": 313,
+      "name": "Volbeat"
+    },
+    {
+      "DexNum": 314,
+      "name": "Illumise"
+    },
+    {
+      "DexNum": 315,
+      "name": "Roselia"
+    },
+    {
+      "DexNum": 316,
+      "name": "Gulpin"
+    },
+    {
+      "DexNum": 317,
+      "name": "Swalot"
+    },
+    {
+      "DexNum": 318,
+      "name": "Carvanha"
+    },
+    {
+      "DexNum": 319,
+      "name": "Sharpedo"
+    },
+    {
+      "DexNum": 320,
+      "name": "Wailmer"
+    },
+    {
+      "DexNum": 321,
+      "name": "Wailord"
+    },
+    {
+      "DexNum": 322,
+      "name": "Numel"
+    },
+    {
+      "DexNum": 323,
+      "name": "Camerupt"
+    },
+    {
+      "DexNum": 324,
+      "name": "Torkoal"
+    },
+    {
+      "DexNum": 325,
+      "name": "Spoink"
+    },
+    {
+      "DexNum": 326,
+      "name": "Grumpig"
+    },
+    {
+      "DexNum": 327,
+      "name": "Spinda"
+    },
+    {
+      "DexNum": 328,
+      "name": "Trapinch"
+    },
+    {
+      "DexNum": 329,
+      "name": "Vibrava"
+    },
+    {
+      "DexNum": 330,
+      "name": "Flygon"
+    },
+    {
+      "DexNum": 331,
+      "name": "Cacnea"
+    },
+    {
+      "DexNum": 332,
+      "name": "Cacturne"
+    },
+    {
+      "DexNum": 333,
+      "name": "Swablu"
+    },
+    {
+      "DexNum": 334,
+      "name": "Altaria"
+    },
+    {
+      "DexNum": 335,
+      "name": "Zangoose"
+    },
+    {
+      "DexNum": 336,
+      "name": "Seviper"
+    },
+    {
+      "DexNum": 337,
+      "name": "Lunatone"
+    },
+    {
+      "DexNum": 338,
+      "name": "Solrock"
+    },
+    {
+      "DexNum": 339,
+      "name": "Barboach"
+    },
+    {
+      "DexNum": 340,
+      "name": "Whiscash"
+    },
+    {
+      "DexNum": 341,
+      "name": "Corphish"
+    },
+    {
+      "DexNum": 342,
+      "name": "Crawdaunt"
+    },
+    {
+      "DexNum": 343,
+      "name": "Baltoy"
+    },
+    {
+      "DexNum": 344,
+      "name": "Claydol"
+    },
+    {
+      "DexNum": 345,
+      "name": "Lileep"
+    },
+    {
+      "DexNum": 346,
+      "name": "Cradily"
+    },
+    {
+      "DexNum": 347,
+      "name": "Anorith"
+    },
+    {
+      "DexNum": 348,
+      "name": "Armaldo"
+    },
+    {
+      "DexNum": 349,
+      "name": "Feebas"
+    },
+    {
+      "DexNum": 350,
+      "name": "Milotic"
+    },
+    {
+      "DexNum": 351,
+      "name": "Castform"
+    },
+    {
+      "DexNum": 352,
+      "name": "Kecleon"
+    },
+    {
+      "DexNum": 353,
+      "name": "Shuppet"
+    },
+    {
+      "DexNum": 354,
+      "name": "Banette"
+    },
+    {
+      "DexNum": 355,
+      "name": "Duskull"
+    },
+    {
+      "DexNum": 356,
+      "name": "Dusclops"
+    },
+    {
+      "DexNum": 357,
+      "name": "Tropius"
+    },
+    {
+      "DexNum": 358,
+      "name": "Chimecho"
+    },
+    {
+      "DexNum": 359,
+      "name": "Absol"
+    },
+    {
+      "DexNum": 360,
+      "name": "Wynaut"
+    },
+    {
+      "DexNum": 361,
+      "name": "Snorunt"
+    },
+    {
+      "DexNum": 362,
+      "name": "Glalie"
+    },
+    {
+      "DexNum": 363,
+      "name": "Spheal"
+    },
+    {
+      "DexNum": 364,
+      "name": "Sealeo"
+    },
+    {
+      "DexNum": 365,
+      "name": "Walrein"
+    },
+    {
+      "DexNum": 366,
+      "name": "Clamperl"
+    },
+    {
+      "DexNum": 367,
+      "name": "Huntail"
+    },
+    {
+      "DexNum": 368,
+      "name": "Gorebyss"
+    },
+    {
+      "DexNum": 369,
+      "name": "Relicanth"
+    },
+    {
+      "DexNum": 370,
+      "name": "Luvdisc"
+    },
+    {
+      "DexNum": 371,
+      "name": "Bagon"
+    },
+    {
+      "DexNum": 372,
+      "name": "Shelgon"
+    },
+    {
+      "DexNum": 373,
+      "name": "Salamence"
+    },
+    {
+      "DexNum": 374,
+      "name": "Beldum"
+    },
+    {
+      "DexNum": 375,
+      "name": "Metang"
+    },
+    {
+      "DexNum": 376,
+      "name": "Metagross"
+    },
+    {
+      "DexNum": 377,
+      "name": "Regirock"
+    },
+    {
+      "DexNum": 378,
+      "name": "Regice"
+    },
+    {
+      "DexNum": 379,
+      "name": "Registeel"
+    },
+    {
+      "DexNum": 380,
+      "name": "Latias"
+    },
+    {
+      "DexNum": 381,
+      "name": "Latios"
+    },
+    {
+      "DexNum": 382,
+      "name": "Kyogre"
+    },
+    {
+      "DexNum": 383,
+      "name": "Groudon"
+    },
+    {
+      "DexNum": 384,
+      "name": "Rayquaza"
+    },
+    {
+      "DexNum": 385,
+      "name": "Jirachi"
+    },
+    {
+      "DexNum": 386,
+      "name": "Deoxys"
+    },
+    {
+      "DexNum": 387,
+      "name": "Turtwig"
+    },
+    {
+      "DexNum": 388,
+      "name": "Grotle"
+    },
+    {
+      "DexNum": 389,
+      "name": "Torterra"
+    },
+    {
+      "DexNum": 390,
+      "name": "Chimchar"
+    },
+    {
+      "DexNum": 391,
+      "name": "Monferno"
+    },
+    {
+      "DexNum": 392,
+      "name": "Infernape"
+    },
+    {
+      "DexNum": 393,
+      "name": "Piplup"
+    },
+    {
+      "DexNum": 394,
+      "name": "Prinplup"
+    },
+    {
+      "DexNum": 395,
+      "name": "Empoleon"
+    },
+    {
+      "DexNum": 396,
+      "name": "Starly"
+    },
+    {
+      "DexNum": 397,
+      "name": "Staravia"
+    },
+    {
+      "DexNum": 398,
+      "name": "Staraptor"
+    },
+    {
+      "DexNum": 399,
+      "name": "Bidoof"
+    },
+    {
+      "DexNum": 400,
+      "name": "Bibarel"
+    },
+    {
+      "DexNum": 401,
+      "name": "Kricketot"
+    },
+    {
+      "DexNum": 402,
+      "name": "Kricketune"
+    },
+    {
+      "DexNum": 403,
+      "name": "Shinx"
+    },
+    {
+      "DexNum": 404,
+      "name": "Luxio"
+    },
+    {
+      "DexNum": 405,
+      "name": "Luxray"
+    },
+    {
+      "DexNum": 406,
+      "name": "Budew"
+    },
+    {
+      "DexNum": 407,
+      "name": "Roserade"
+    },
+    {
+      "DexNum": 408,
+      "name": "Cranidos"
+    },
+    {
+      "DexNum": 409,
+      "name": "Rampardos"
+    },
+    {
+      "DexNum": 410,
+      "name": "Shieldon"
+    },
+    {
+      "DexNum": 411,
+      "name": "Bastiodon"
+    },
+    {
+      "DexNum": 412,
+      "name": "Burmy"
+    },
+    {
+      "DexNum": 413,
+      "name": "Wormadam"
+    },
+    {
+      "DexNum": 414,
+      "name": "Mothim"
+    },
+    {
+      "DexNum": 415,
+      "name": "Combee"
+    },
+    {
+      "DexNum": 416,
+      "name": "Vespiquen"
+    },
+    {
+      "DexNum": 417,
+      "name": "Pachirisu"
+    },
+    {
+      "DexNum": 418,
+      "name": "Buizel"
+    },
+    {
+      "DexNum": 419,
+      "name": "Floatzel"
+    },
+    {
+      "DexNum": 420,
+      "name": "Cherubi"
+    },
+    {
+      "DexNum": 421,
+      "name": "Cherrim"
+    },
+    {
+      "DexNum": 422,
+      "name": "Shellos"
+    },
+    {
+      "DexNum": 423,
+      "name": "Gastrodon"
+    },
+    {
+      "DexNum": 424,
+      "name": "Ambipom"
+    },
+    {
+      "DexNum": 425,
+      "name": "Drifloon"
+    },
+    {
+      "DexNum": 426,
+      "name": "Drifblim"
+    },
+    {
+      "DexNum": 427,
+      "name": "Buneary"
+    },
+    {
+      "DexNum": 428,
+      "name": "Lopunny"
+    },
+    {
+      "DexNum": 429,
+      "name": "Mismagius"
+    },
+    {
+      "DexNum": 430,
+      "name": "Honchkrow"
+    },
+    {
+      "DexNum": 431,
+      "name": "Glameow"
+    },
+    {
+      "DexNum": 432,
+      "name": "Purugly"
+    },
+    {
+      "DexNum": 433,
+      "name": "Chingling"
+    },
+    {
+      "DexNum": 434,
+      "name": "Stunky"
+    },
+    {
+      "DexNum": 435,
+      "name": "Skuntank"
+    },
+    {
+      "DexNum": 436,
+      "name": "Bronzor"
+    },
+    {
+      "DexNum": 437,
+      "name": "Bronzong"
+    },
+    {
+      "DexNum": 438,
+      "name": "Bonsly"
+    },
+    {
+      "DexNum": 439,
+      "name": "Mime Jr."
+    },
+    {
+      "DexNum": 440,
+      "name": "Happiny"
+    },
+    {
+      "DexNum": 441,
+      "name": "Chatot"
+    },
+    {
+      "DexNum": 442,
+      "name": "Spiritomb"
+    },
+    {
+      "DexNum": 443,
+      "name": "Gible"
+    },
+    {
+      "DexNum": 444,
+      "name": "Gabite"
+    },
+    {
+      "DexNum": 445,
+      "name": "Garchomp"
+    },
+    {
+      "DexNum": 446,
+      "name": "Munchlax"
+    },
+    {
+      "DexNum": 447,
+      "name": "Riolu"
+    },
+    {
+      "DexNum": 448,
+      "name": "Lucario"
+    },
+    {
+      "DexNum": 449,
+      "name": "Hippopotas"
+    },
+    {
+      "DexNum": 450,
+      "name": "Hippowdon"
+    },
+    {
+      "DexNum": 451,
+      "name": "Skorupi"
+    },
+    {
+      "DexNum": 452,
+      "name": "Drapion"
+    },
+    {
+      "DexNum": 453,
+      "name": "Croagunk"
+    },
+    {
+      "DexNum": 454,
+      "name": "Toxicroak"
+    },
+    {
+      "DexNum": 455,
+      "name": "Carnivine"
+    },
+    {
+      "DexNum": 456,
+      "name": "Finneon"
+    },
+    {
+      "DexNum": 457,
+      "name": "Lumineon"
+    },
+    {
+      "DexNum": 458,
+      "name": "Mantyke"
+    },
+    {
+      "DexNum": 459,
+      "name": "Snover"
+    },
+    {
+      "DexNum": 460,
+      "name": "Abomasnow"
+    },
+    {
+      "DexNum": 461,
+      "name": "Weavile"
+    },
+    {
+      "DexNum": 462,
+      "name": "Magnezone"
+    },
+    {
+      "DexNum": 463,
+      "name": "Lickilicky"
+    },
+    {
+      "DexNum": 464,
+      "name": "Rhyperior"
+    },
+    {
+      "DexNum": 465,
+      "name": "Tangrowth"
+    },
+    {
+      "DexNum": 466,
+      "name": "Electivire"
+    },
+    {
+      "DexNum": 467,
+      "name": "Magmortar"
+    },
+    {
+      "DexNum": 468,
+      "name": "Togekiss"
+    },
+    {
+      "DexNum": 469,
+      "name": "Yanmega"
+    },
+    {
+      "DexNum": 470,
+      "name": "Leafeon"
+    },
+    {
+      "DexNum": 471,
+      "name": "Glaceon"
+    },
+    {
+      "DexNum": 472,
+      "name": "Gliscor"
+    },
+    {
+      "DexNum": 473,
+      "name": "Mamoswine"
+    },
+    {
+      "DexNum": 474,
+      "name": "Porygon-Z"
+    },
+    {
+      "DexNum": 475,
+      "name": "Gallade"
+    },
+    {
+      "DexNum": 476,
+      "name": "Probopass"
+    },
+    {
+      "DexNum": 477,
+      "name": "Dusknoir"
+    },
+    {
+      "DexNum": 478,
+      "name": "Froslass"
+    },
+    {
+      "DexNum": 479,
+      "name": "Rotom"
+    },
+    {
+      "DexNum": 480,
+      "name": "Uxie"
+    },
+    {
+      "DexNum": 481,
+      "name": "Mesprit"
+    },
+    {
+      "DexNum": 482,
+      "name": "Azelf"
+    },
+    {
+      "DexNum": 483,
+      "name": "Dialga"
+    },
+    {
+      "DexNum": 484,
+      "name": "Palkia"
+    },
+    {
+      "DexNum": 485,
+      "name": "Heatran"
+    },
+    {
+      "DexNum": 486,
+      "name": "Regigigas"
+    },
+    {
+      "DexNum": 487,
+      "name": "Giratina"
+    },
+    {
+      "DexNum": 488,
+      "name": "Cresselia"
+    },
+    {
+      "DexNum": 489,
+      "name": "Phione"
+    },
+    {
+      "DexNum": 490,
+      "name": "Manaphy"
+    },
+    {
+      "DexNum": 491,
+      "name": "Darkrai"
+    },
+    {
+      "DexNum": 492,
+      "name": "Shaymin"
+    },
+    {
+      "DexNum": 493,
+      "name": "Arceus"
+    },
+    {
+      "DexNum": 494,
+      "name": "Victini"
+    },
+    {
+      "DexNum": 495,
+      "name": "Snivy"
+    },
+    {
+      "DexNum": 496,
+      "name": "Servine"
+    },
+    {
+      "DexNum": 497,
+      "name": "Serperior"
+    },
+    {
+      "DexNum": 498,
+      "name": "Tepig"
+    },
+    {
+      "DexNum": 499,
+      "name": "Pignite"
+    },
+    {
+      "DexNum": 500,
+      "name": "Emboar"
+    },
+    {
+      "DexNum": 501,
+      "name": "Oshawott"
+    },
+    {
+      "DexNum": 502,
+      "name": "Dewott"
+    },
+    {
+      "DexNum": 503,
+      "name": "Samurott"
+    },
+    {
+      "DexNum": 504,
+      "name": "Patrat"
+    },
+    {
+      "DexNum": 505,
+      "name": "Watchog"
+    },
+    {
+      "DexNum": 506,
+      "name": "Lillipup"
+    },
+    {
+      "DexNum": 507,
+      "name": "Herdier"
+    },
+    {
+      "DexNum": 508,
+      "name": "Stoutland"
+    },
+    {
+      "DexNum": 509,
+      "name": "Purrloin"
+    },
+    {
+      "DexNum": 510,
+      "name": "Liepard"
+    },
+    {
+      "DexNum": 511,
+      "name": "Pansage"
+    },
+    {
+      "DexNum": 512,
+      "name": "Simisage"
+    },
+    {
+      "DexNum": 513,
+      "name": "Pansear"
+    },
+    {
+      "DexNum": 514,
+      "name": "Simisear"
+    },
+    {
+      "DexNum": 515,
+      "name": "Panpour"
+    },
+    {
+      "DexNum": 516,
+      "name": "Simipour"
+    },
+    {
+      "DexNum": 517,
+      "name": "Munna"
+    },
+    {
+      "DexNum": 518,
+      "name": "Musharna"
+    },
+    {
+      "DexNum": 519,
+      "name": "Pidove"
+    },
+    {
+      "DexNum": 520,
+      "name": "Tranquill"
+    },
+    {
+      "DexNum": 521,
+      "name": "Unfezant"
+    },
+    {
+      "DexNum": 522,
+      "name": "Blitzle"
+    },
+    {
+      "DexNum": 523,
+      "name": "Zebstrika"
+    },
+    {
+      "DexNum": 524,
+      "name": "Roggenrola"
+    },
+    {
+      "DexNum": 525,
+      "name": "Boldore"
+    },
+    {
+      "DexNum": 526,
+      "name": "Gigalith"
+    },
+    {
+      "DexNum": 527,
+      "name": "Woobat"
+    },
+    {
+      "DexNum": 528,
+      "name": "Swoobat"
+    },
+    {
+      "DexNum": 529,
+      "name": "Drilbur"
+    },
+    {
+      "DexNum": 530,
+      "name": "Excadrill"
+    },
+    {
+      "DexNum": 531,
+      "name": "Audino"
+    },
+    {
+      "DexNum": 532,
+      "name": "Timburr"
+    },
+    {
+      "DexNum": 533,
+      "name": "Gurdurr"
+    },
+    {
+      "DexNum": 534,
+      "name": "Conkeldurr"
+    },
+    {
+      "DexNum": 535,
+      "name": "Tympole"
+    },
+    {
+      "DexNum": 536,
+      "name": "Palpitoad"
+    },
+    {
+      "DexNum": 537,
+      "name": "Seismitoad"
+    },
+    {
+      "DexNum": 538,
+      "name": "Throh"
+    },
+    {
+      "DexNum": 539,
+      "name": "Sawk"
+    },
+    {
+      "DexNum": 540,
+      "name": "Sewaddle"
+    },
+    {
+      "DexNum": 541,
+      "name": "Swadloon"
+    },
+    {
+      "DexNum": 542,
+      "name": "Leavanny"
+    },
+    {
+      "DexNum": 543,
+      "name": "Venipede"
+    },
+    {
+      "DexNum": 544,
+      "name": "Whirlipede"
+    },
+    {
+      "DexNum": 545,
+      "name": "Scolipede"
+    },
+    {
+      "DexNum": 546,
+      "name": "Cottonee"
+    },
+    {
+      "DexNum": 547,
+      "name": "Whimsicott"
+    },
+    {
+      "DexNum": 548,
+      "name": "Petilil"
+    },
+    {
+      "DexNum": 549,
+      "name": "Lilligant"
+    },
+    {
+      "DexNum": 550,
+      "name": "Basculin"
+    },
+    {
+      "DexNum": 551,
+      "name": "Sandile"
+    },
+    {
+      "DexNum": 552,
+      "name": "Krokorok"
+    },
+    {
+      "DexNum": 553,
+      "name": "Krookodile"
+    },
+    {
+      "DexNum": 554,
+      "name": "Darumaka"
+    },
+    {
+      "DexNum": 555,
+      "name": "Darmanitan"
+    },
+    {
+      "DexNum": 556,
+      "name": "Maractus"
+    },
+    {
+      "DexNum": 557,
+      "name": "Dwebble"
+    },
+    {
+      "DexNum": 558,
+      "name": "Crustle"
+    },
+    {
+      "DexNum": 559,
+      "name": "Scraggy"
+    },
+    {
+      "DexNum": 560,
+      "name": "Scrafty"
+    },
+    {
+      "DexNum": 561,
+      "name": "Sigilyph"
+    },
+    {
+      "DexNum": 562,
+      "name": "Yamask"
+    },
+    {
+      "DexNum": 563,
+      "name": "Cofagrigus"
+    },
+    {
+      "DexNum": 564,
+      "name": "Tirtouga"
+    },
+    {
+      "DexNum": 565,
+      "name": "Carracosta"
+    },
+    {
+      "DexNum": 566,
+      "name": "Archen"
+    },
+    {
+      "DexNum": 567,
+      "name": "Archeops"
+    },
+    {
+      "DexNum": 568,
+      "name": "Trubbish"
+    },
+    {
+      "DexNum": 569,
+      "name": "Garbodor"
+    },
+    {
+      "DexNum": 570,
+      "name": "Zorua"
+    },
+    {
+      "DexNum": 571,
+      "name": "Zoroark"
+    },
+    {
+      "DexNum": 572,
+      "name": "Minccino"
+    },
+    {
+      "DexNum": 573,
+      "name": "Cinccino"
+    },
+    {
+      "DexNum": 574,
+      "name": "Gothita"
+    },
+    {
+      "DexNum": 575,
+      "name": "Gothorita"
+    },
+    {
+      "DexNum": 576,
+      "name": "Gothitelle"
+    },
+    {
+      "DexNum": 577,
+      "name": "Solosis"
+    },
+    {
+      "DexNum": 578,
+      "name": "Duosion"
+    },
+    {
+      "DexNum": 579,
+      "name": "Reuniclus"
+    },
+    {
+      "DexNum": 580,
+      "name": "Ducklett"
+    },
+    {
+      "DexNum": 581,
+      "name": "Swanna"
+    },
+    {
+      "DexNum": 582,
+      "name": "Vanillite"
+    },
+    {
+      "DexNum": 583,
+      "name": "Vanillish"
+    },
+    {
+      "DexNum": 584,
+      "name": "Vanilluxe"
+    },
+    {
+      "DexNum": 585,
+      "name": "Deerling"
+    },
+    {
+      "DexNum": 586,
+      "name": "Sawsbuck"
+    },
+    {
+      "DexNum": 587,
+      "name": "Emolga"
+    },
+    {
+      "DexNum": 588,
+      "name": "Karrablast"
+    },
+    {
+      "DexNum": 589,
+      "name": "Escavalier"
+    },
+    {
+      "DexNum": 590,
+      "name": "Foongus"
+    },
+    {
+      "DexNum": 591,
+      "name": "Amoonguss"
+    },
+    {
+      "DexNum": 592,
+      "name": "Frillish"
+    },
+    {
+      "DexNum": 593,
+      "name": "Jellicent"
+    },
+    {
+      "DexNum": 594,
+      "name": "Alomomola"
+    },
+    {
+      "DexNum": 595,
+      "name": "Joltik"
+    },
+    {
+      "DexNum": 596,
+      "name": "Galvantula"
+    },
+    {
+      "DexNum": 597,
+      "name": "Ferroseed"
+    },
+    {
+      "DexNum": 598,
+      "name": "Ferrothorn"
+    },
+    {
+      "DexNum": 599,
+      "name": "Klink"
+    },
+    {
+      "DexNum": 600,
+      "name": "Klang"
+    },
+    {
+      "DexNum": 601,
+      "name": "Klinklang"
+    },
+    {
+      "DexNum": 602,
+      "name": "Tynamo"
+    },
+    {
+      "DexNum": 603,
+      "name": "Eelektrik"
+    },
+    {
+      "DexNum": 604,
+      "name": "Eelektross"
+    },
+    {
+      "DexNum": 605,
+      "name": "Elgyem"
+    },
+    {
+      "DexNum": 606,
+      "name": "Beheeyem"
+    },
+    {
+      "DexNum": 607,
+      "name": "Litwick"
+    },
+    {
+      "DexNum": 608,
+      "name": "Lampent"
+    },
+    {
+      "DexNum": 609,
+      "name": "Chandelure"
+    },
+    {
+      "DexNum": 610,
+      "name": "Axew"
+    },
+    {
+      "DexNum": 611,
+      "name": "Fraxure"
+    },
+    {
+      "DexNum": 612,
+      "name": "Haxorus"
+    },
+    {
+      "DexNum": 613,
+      "name": "Cubchoo"
+    },
+    {
+      "DexNum": 614,
+      "name": "Beartic"
+    },
+    {
+      "DexNum": 615,
+      "name": "Cryogonal"
+    },
+    {
+      "DexNum": 616,
+      "name": "Shelmet"
+    },
+    {
+      "DexNum": 617,
+      "name": "Accelgor"
+    },
+    {
+      "DexNum": 618,
+      "name": "Stunfisk"
+    },
+    {
+      "DexNum": 619,
+      "name": "Mienfoo"
+    },
+    {
+      "DexNum": 620,
+      "name": "Mienshao"
+    },
+    {
+      "DexNum": 621,
+      "name": "Druddigon"
+    },
+    {
+      "DexNum": 622,
+      "name": "Golett"
+    },
+    {
+      "DexNum": 623,
+      "name": "Golurk"
+    },
+    {
+      "DexNum": 624,
+      "name": "Pawniard"
+    },
+    {
+      "DexNum": 625,
+      "name": "Bisharp"
+    },
+    {
+      "DexNum": 626,
+      "name": "Bouffalant"
+    },
+    {
+      "DexNum": 627,
+      "name": "Rufflet"
+    },
+    {
+      "DexNum": 628,
+      "name": "Braviary"
+    },
+    {
+      "DexNum": 629,
+      "name": "Vullaby"
+    },
+    {
+      "DexNum": 630,
+      "name": "Mandibuzz"
+    },
+    {
+      "DexNum": 631,
+      "name": "Heatmor"
+    },
+    {
+      "DexNum": 632,
+      "name": "Durant"
+    },
+    {
+      "DexNum": 633,
+      "name": "Deino"
+    },
+    {
+      "DexNum": 634,
+      "name": "Zweilous"
+    },
+    {
+      "DexNum": 635,
+      "name": "Hydreigon"
+    },
+    {
+      "DexNum": 636,
+      "name": "Larvesta"
+    },
+    {
+      "DexNum": 637,
+      "name": "Volcarona"
+    },
+    {
+      "DexNum": 638,
+      "name": "Cobalion"
+    },
+    {
+      "DexNum": 639,
+      "name": "Terrakion"
+    },
+    {
+      "DexNum": 640,
+      "name": "Virizion"
+    },
+    {
+      "DexNum": 641,
+      "name": "Tornadus"
+    },
+    {
+      "DexNum": 642,
+      "name": "Thundurus"
+    },
+    {
+      "DexNum": 643,
+      "name": "Reshiram"
+    },
+    {
+      "DexNum": 644,
+      "name": "Zekrom"
+    },
+    {
+      "DexNum": 645,
+      "name": "Landorus"
+    },
+    {
+      "DexNum": 646,
+      "name": "Kyurem"
+    },
+    {
+      "DexNum": 647,
+      "name": "Keldeo"
+    },
+    {
+      "DexNum": 648,
+      "name": "Meloetta"
+    },
+    {
+      "DexNum": 649,
+      "name": "Genesect"
+    },
+    {
+      "DexNum": 650,
+      "name": "Chespin"
+    },
+    {
+      "DexNum": 651,
+      "name": "Quilladin"
+    },
+    {
+      "DexNum": 652,
+      "name": "Chesnaught"
+    },
+    {
+      "DexNum": 653,
+      "name": "Fennekin"
+    },
+    {
+      "DexNum": 654,
+      "name": "Braixen"
+    },
+    {
+      "DexNum": 655,
+      "name": "Delphox"
+    },
+    {
+      "DexNum": 656,
+      "name": "Froakie"
+    },
+    {
+      "DexNum": 657,
+      "name": "Frogadier"
+    },
+    {
+      "DexNum": 658,
+      "name": "Greninja"
+    },
+    {
+      "DexNum": 659,
+      "name": "Bunnelby"
+    },
+    {
+      "DexNum": 660,
+      "name": "Diggersby"
+    },
+    {
+      "DexNum": 661,
+      "name": "Fletchling"
+    },
+    {
+      "DexNum": 662,
+      "name": "Fletchinder"
+    },
+    {
+      "DexNum": 663,
+      "name": "Talonflame"
+    },
+    {
+      "DexNum": 664,
+      "name": "Scatterbug"
+    },
+    {
+      "DexNum": 665,
+      "name": "Spewpa"
+    },
+    {
+      "DexNum": 666,
+      "name": "Vivillon"
+    },
+    {
+      "DexNum": 667,
+      "name": "Litleo"
+    },
+    {
+      "DexNum": 668,
+      "name": "Pyroar"
+    },
+    {
+      "DexNum": 669,
+      "name": "Flabébé"
+    },
+    {
+      "DexNum": 670,
+      "name": "Floette"
+    },
+    {
+      "DexNum": 671,
+      "name": "Florges"
+    },
+    {
+      "DexNum": 672,
+      "name": "Skiddo"
+    },
+    {
+      "DexNum": 673,
+      "name": "Gogoat"
+    },
+    {
+      "DexNum": 674,
+      "name": "Pancham"
+    },
+    {
+      "DexNum": 675,
+      "name": "Pangoro"
+    },
+    {
+      "DexNum": 676,
+      "name": "Furfrou"
+    },
+    {
+      "DexNum": 677,
+      "name": "Espurr"
+    },
+    {
+      "DexNum": 678,
+      "name": "Meowstic"
+    },
+    {
+      "DexNum": 679,
+      "name": "Honedge"
+    },
+    {
+      "DexNum": 680,
+      "name": "Doublade"
+    },
+    {
+      "DexNum": 681,
+      "name": "Aegislash"
+    },
+    {
+      "DexNum": 682,
+      "name": "Spritzee"
+    },
+    {
+      "DexNum": 683,
+      "name": "Aromatisse"
+    },
+    {
+      "DexNum": 684,
+      "name": "Swirlix"
+    },
+    {
+      "DexNum": 685,
+      "name": "Slurpuff"
+    },
+    {
+      "DexNum": 686,
+      "name": "Inkay"
+    },
+    {
+      "DexNum": 687,
+      "name": "Malamar"
+    },
+    {
+      "DexNum": 688,
+      "name": "Binacle"
+    },
+    {
+      "DexNum": 689,
+      "name": "Barbaracle"
+    },
+    {
+      "DexNum": 690,
+      "name": "Skrelp"
+    },
+    {
+      "DexNum": 691,
+      "name": "Dragalge"
+    },
+    {
+      "DexNum": 692,
+      "name": "Clauncher"
+    },
+    {
+      "DexNum": 693,
+      "name": "Clawitzer"
+    },
+    {
+      "DexNum": 694,
+      "name": "Helioptile"
+    },
+    {
+      "DexNum": 695,
+      "name": "Heliolisk"
+    },
+    {
+      "DexNum": 696,
+      "name": "Tyrunt"
+    },
+    {
+      "DexNum": 697,
+      "name": "Tyrantrum"
+    },
+    {
+      "DexNum": 698,
+      "name": "Amaura"
+    },
+    {
+      "DexNum": 699,
+      "name": "Aurorus"
+    },
+    {
+      "DexNum": 700,
+      "name": "Sylveon"
+    },
+    {
+      "DexNum": 701,
+      "name": "Hawlucha"
+    },
+    {
+      "DexNum": 702,
+      "name": "Dedenne"
+    },
+    {
+      "DexNum": 703,
+      "name": "Carbink"
+    },
+    {
+      "DexNum": 704,
+      "name": "Goomy"
+    },
+    {
+      "DexNum": 705,
+      "name": "Sliggoo"
+    },
+    {
+      "DexNum": 706,
+      "name": "Goodra"
+    },
+    {
+      "DexNum": 707,
+      "name": "Klefki"
+    },
+    {
+      "DexNum": 708,
+      "name": "Phantump"
+    },
+    {
+      "DexNum": 709,
+      "name": "Trevenant"
+    },
+    {
+      "DexNum": 710,
+      "name": "Pumpkaboo"
+    },
+    {
+      "DexNum": 711,
+      "name": "Gourgeist"
+    },
+    {
+      "DexNum": 712,
+      "name": "Bergmite"
+    },
+    {
+      "DexNum": 713,
+      "name": "Avalugg"
+    },
+    {
+      "DexNum": 714,
+      "name": "Noibat"
+    },
+    {
+      "DexNum": 715,
+      "name": "Noivern"
+    },
+    {
+      "DexNum": 716,
+      "name": "Xerneas"
+    },
+    {
+      "DexNum": 717,
+      "name": "Yveltal"
+    },
+    {
+      "DexNum": 718,
+      "name": "Zygarde"
+    },
+    {
+      "DexNum": 719,
+      "name": "Diancie"
+    },
+    {
+      "DexNum": 720,
+      "name": "Hoopa"
+    },
+    {
+      "DexNum": 721,
+      "name": "Volcanion"
+    },
+    {
+      "DexNum": 722,
+      "name": "Rowlet"
+    },
+    {
+      "DexNum": 723,
+      "name": "Dartrix"
+    },
+    {
+      "DexNum": 724,
+      "name": "Decidueye"
+    },
+    {
+      "DexNum": 725,
+      "name": "Litten"
+    },
+    {
+      "DexNum": 726,
+      "name": "Torracat"
+    },
+    {
+      "DexNum": 727,
+      "name": "Incineroar"
+    },
+    {
+      "DexNum": 728,
+      "name": "Popplio"
+    },
+    {
+      "DexNum": 729,
+      "name": "Brionne"
+    },
+    {
+      "DexNum": 730,
+      "name": "Primarina"
+    },
+    {
+      "DexNum": 731,
+      "name": "Pikipek"
+    },
+    {
+      "DexNum": 732,
+      "name": "Trumbeak"
+    },
+    {
+      "DexNum": 733,
+      "name": "Toucannon"
+    },
+    {
+      "DexNum": 734,
+      "name": "Yungoos"
+    },
+    {
+      "DexNum": 735,
+      "name": "Gumshoos"
+    },
+    {
+      "DexNum": 736,
+      "name": "Grubbin"
+    },
+    {
+      "DexNum": 737,
+      "name": "Charjabug"
+    },
+    {
+      "DexNum": 738,
+      "name": "Vikavolt"
+    },
+    {
+      "DexNum": 739,
+      "name": "Crabrawler"
+    },
+    {
+      "DexNum": 740,
+      "name": "Crabominable"
+    },
+    {
+      "DexNum": 741,
+      "name": "Oricorio"
+    },
+    {
+      "DexNum": 742,
+      "name": "Cutiefly"
+    },
+    {
+      "DexNum": 743,
+      "name": "Ribombee"
+    },
+    {
+      "DexNum": 744,
+      "name": "Rockruff"
+    },
+    {
+      "DexNum": 745,
+      "name": "Lycanroc"
+    },
+    {
+      "DexNum": 746,
+      "name": "Wishiwashi"
+    },
+    {
+      "DexNum": 747,
+      "name": "Mareanie"
+    },
+    {
+      "DexNum": 748,
+      "name": "Toxapex"
+    },
+    {
+      "DexNum": 749,
+      "name": "Mudbray"
+    },
+    {
+      "DexNum": 750,
+      "name": "Mudsdale"
+    },
+    {
+      "DexNum": 751,
+      "name": "Dewpider"
+    },
+    {
+      "DexNum": 752,
+      "name": "Araquanid"
+    },
+    {
+      "DexNum": 753,
+      "name": "Fomantis"
+    },
+    {
+      "DexNum": 754,
+      "name": "Lurantis"
+    },
+    {
+      "DexNum": 755,
+      "name": "Morelull"
+    },
+    {
+      "DexNum": 756,
+      "name": "Shiinotic"
+    },
+    {
+      "DexNum": 757,
+      "name": "Salandit"
+    },
+    {
+      "DexNum": 758,
+      "name": "Salazzle"
+    },
+    {
+      "DexNum": 759,
+      "name": "Stufful"
+    },
+    {
+      "DexNum": 760,
+      "name": "Bewear"
+    },
+    {
+      "DexNum": 761,
+      "name": "Bounsweet"
+    },
+    {
+      "DexNum": 762,
+      "name": "Steenee"
+    },
+    {
+      "DexNum": 763,
+      "name": "Tsareena"
+    },
+    {
+      "DexNum": 764,
+      "name": "Comfey"
+    },
+    {
+      "DexNum": 765,
+      "name": "Oranguru"
+    },
+    {
+      "DexNum": 766,
+      "name": "Passimian"
+    },
+    {
+      "DexNum": 767,
+      "name": "Wimpod"
+    },
+    {
+      "DexNum": 768,
+      "name": "Golisopod"
+    },
+    {
+      "DexNum": 769,
+      "name": "Sandygast"
+    },
+    {
+      "DexNum": 770,
+      "name": "Palossand"
+    },
+    {
+      "DexNum": 771,
+      "name": "Pyukumuku"
+    },
+    {
+      "DexNum": 772,
+      "name": "Type: Null"
+    },
+    {
+      "DexNum": 773,
+      "name": "Silvally"
+    },
+    {
+      "DexNum": 774,
+      "name": "Minior"
+    },
+    {
+      "DexNum": 775,
+      "name": "Komala"
+    },
+    {
+      "DexNum": 776,
+      "name": "Turtonator"
+    },
+    {
+      "DexNum": 777,
+      "name": "Togedemaru"
+    },
+    {
+      "DexNum": 778,
+      "name": "Mimikyu"
+    },
+    {
+      "DexNum": 779,
+      "name": "Bruxish"
+    },
+    {
+      "DexNum": 780,
+      "name": "Drampa"
+    },
+    {
+      "DexNum": 781,
+      "name": "Dhelmise"
+    },
+    {
+      "DexNum": 782,
+      "name": "Jangmo-o"
+    },
+    {
+      "DexNum": 783,
+      "name": "Hakamo-o"
+    },
+    {
+      "DexNum": 784,
+      "name": "Kommo-o"
+    },
+    {
+      "DexNum": 785,
+      "name": "Tapu Koko"
+    },
+    {
+      "DexNum": 786,
+      "name": "Tapu Lele"
+    },
+    {
+      "DexNum": 787,
+      "name": "Tapu Bulu"
+    },
+    {
+      "DexNum": 788,
+      "name": "Tapu Fini"
+    },
+    {
+      "DexNum": 789,
+      "name": "Cosmog"
+    },
+    {
+      "DexNum": 790,
+      "name": "Cosmoem"
+    },
+    {
+      "DexNum": 791,
+      "name": "Solgaleo"
+    },
+    {
+      "DexNum": 792,
+      "name": "Lunala"
+    },
+    {
+      "DexNum": 793,
+      "name": "Nihilego"
+    },
+    {
+      "DexNum": 794,
+      "name": "Buzzwole"
+    },
+    {
+      "DexNum": 795,
+      "name": "Pheromosa"
+    },
+    {
+      "DexNum": 796,
+      "name": "Xurkitree"
+    },
+    {
+      "DexNum": 797,
+      "name": "Celesteela"
+    },
+    {
+      "DexNum": 798,
+      "name": "Kartana"
+    },
+    {
+      "DexNum": 799,
+      "name": "Guzzlord"
+    },
+    {
+      "DexNum": 800,
+      "name": "Necrozma"
+    },
+    {
+      "DexNum": 801,
+      "name": "Magearna"
+    },
+    {
+      "DexNum": 802,
+      "name": "Marshadow"
+    },
+    {
+      "DexNum": 803,
+      "name": "Poipole"
+    },
+    {
+      "DexNum": 804,
+      "name": "Naganadel"
+    },
+    {
+      "DexNum": 805,
+      "name": "Stakataka"
+    },
+    {
+      "DexNum": 806,
+      "name": "Blacephalon"
+    },
+    {
+      "DexNum": 807,
+      "name": "Zeraora"
+    },
+    {
+      "DexNum": 808,
+      "name": "Meltan"
+    },
+    {
+      "DexNum": 809,
+      "name": "Melmetal"
+    },
+    {
+      "DexNum": 810,
+      "name": "Grookey"
+    },
+    {
+      "DexNum": 811,
+      "name": "Thwackey"
+    },
+    {
+      "DexNum": 812,
+      "name": "Rillaboom"
+    },
+    {
+      "DexNum": 813,
+      "name": "Scorbunny"
+    },
+    {
+      "DexNum": 814,
+      "name": "Raboot"
+    },
+    {
+      "DexNum": 815,
+      "name": "Cinderace"
+    },
+    {
+      "DexNum": 816,
+      "name": "Sobble"
+    },
+    {
+      "DexNum": 817,
+      "name": "Drizzile"
+    },
+    {
+      "DexNum": 818,
+      "name": "Inteleon"
+    },
+    {
+      "DexNum": 819,
+      "name": "Skwovet"
+    },
+    {
+      "DexNum": 820,
+      "name": "Greedent"
+    },
+    {
+      "DexNum": 821,
+      "name": "Rookidee"
+    },
+    {
+      "DexNum": 822,
+      "name": "Corvisquire"
+    },
+    {
+      "DexNum": 823,
+      "name": "Corviknight"
+    },
+    {
+      "DexNum": 824,
+      "name": "Blipbug"
+    },
+    {
+      "DexNum": 825,
+      "name": "Dottler"
+    },
+    {
+      "DexNum": 826,
+      "name": "Orbeetle"
+    },
+    {
+      "DexNum": 827,
+      "name": "Nickit"
+    },
+    {
+      "DexNum": 828,
+      "name": "Thievul"
+    },
+    {
+      "DexNum": 829,
+      "name": "Gossifleur"
+    },
+    {
+      "DexNum": 830,
+      "name": "Eldegoss"
+    },
+    {
+      "DexNum": 831,
+      "name": "Wooloo"
+    },
+    {
+      "DexNum": 832,
+      "name": "Dubwool"
+    },
+    {
+      "DexNum": 833,
+      "name": "Chewtle"
+    },
+    {
+      "DexNum": 834,
+      "name": "Drednaw"
+    },
+    {
+      "DexNum": 835,
+      "name": "Yamper"
+    },
+    {
+      "DexNum": 836,
+      "name": "Boltund"
+    },
+    {
+      "DexNum": 837,
+      "name": "Rolycoly"
+    },
+    {
+      "DexNum": 838,
+      "name": "Carkol"
+    },
+    {
+      "DexNum": 839,
+      "name": "Coalossal"
+    },
+    {
+      "DexNum": 840,
+      "name": "Applin"
+    },
+    {
+      "DexNum": 841,
+      "name": "Flapple"
+    },
+    {
+      "DexNum": 842,
+      "name": "Appletun"
+    },
+    {
+      "DexNum": 843,
+      "name": "Silicobra"
+    },
+    {
+      "DexNum": 844,
+      "name": "Sandaconda"
+    },
+    {
+      "DexNum": 845,
+      "name": "Cramorant"
+    },
+    {
+      "DexNum": 846,
+      "name": "Arrokuda"
+    },
+    {
+      "DexNum": 847,
+      "name": "Barraskewda"
+    },
+    {
+      "DexNum": 848,
+      "name": "Toxel"
+    },
+    {
+      "DexNum": 849,
+      "name": "Toxtricity"
+    },
+    {
+      "DexNum": 850,
+      "name": "Sizzlipede"
+    },
+    {
+      "DexNum": 851,
+      "name": "Centiskorch"
+    },
+    {
+      "DexNum": 852,
+      "name": "Clobbopus"
+    },
+    {
+      "DexNum": 853,
+      "name": "Grapploct"
+    },
+    {
+      "DexNum": 854,
+      "name": "Sinistea"
+    },
+    {
+      "DexNum": 855,
+      "name": "Polteageist"
+    },
+    {
+      "DexNum": 856,
+      "name": "Hatenna"
+    },
+    {
+      "DexNum": 857,
+      "name": "Hattrem"
+    },
+    {
+      "DexNum": 858,
+      "name": "Hatterene"
+    },
+    {
+      "DexNum": 859,
+      "name": "Impidimp"
+    },
+    {
+      "DexNum": 860,
+      "name": "Morgrem"
+    },
+    {
+      "DexNum": 861,
+      "name": "Grimmsnarl"
+    },
+    {
+      "DexNum": 862,
+      "name": "Obstagoon"
+    },
+    {
+      "DexNum": 863,
+      "name": "Perrserker"
+    },
+    {
+      "DexNum": 864,
+      "name": "Cursola"
+    },
+    {
+      "DexNum": 865,
+      "name": "Sirfetch'd"
+    },
+    {
+      "DexNum": 866,
+      "name": "Mr. Rime"
+    },
+    {
+      "DexNum": 867,
+      "name": "Runerigus"
+    },
+    {
+      "DexNum": 868,
+      "name": "Milcery"
+    },
+    {
+      "DexNum": 869,
+      "name": "Alcremie"
+    },
+    {
+      "DexNum": 870,
+      "name": "Falinks"
+    },
+    {
+      "DexNum": 871,
+      "name": "Pincurchin"
+    },
+    {
+      "DexNum": 872,
+      "name": "Snom"
+    },
+    {
+      "DexNum": 873,
+      "name": "Frosmoth"
+    },
+    {
+      "DexNum": 874,
+      "name": "Stonjourner"
+    },
+    {
+      "DexNum": 875,
+      "name": "Eiscue"
+    },
+    {
+      "DexNum": 876,
+      "name": "Indeedee"
+    },
+    {
+      "DexNum": 877,
+      "name": "Morpeko"
+    },
+    {
+      "DexNum": 878,
+      "name": "Cufant"
+    },
+    {
+      "DexNum": 879,
+      "name": "Copperajah"
+    },
+    {
+      "DexNum": 880,
+      "name": "Dracozolt"
+    },
+    {
+      "DexNum": 881,
+      "name": "Arctozolt"
+    },
+    {
+      "DexNum": 882,
+      "name": "Dracovish"
+    },
+    {
+      "DexNum": 883,
+      "name": "Arctovish"
+    },
+    {
+      "DexNum": 884,
+      "name": "Duraludon"
+    },
+    {
+      "DexNum": 885,
+      "name": "Dreepy"
+    },
+    {
+      "DexNum": 886,
+      "name": "Drakloak"
+    },
+    {
+      "DexNum": 887,
+      "name": "Dragapult"
+    },
+    {
+      "DexNum": 888,
+      "name": "Zacian"
+    },
+    {
+      "DexNum": 889,
+      "name": "Zamazenta"
+    },
+    {
+      "DexNum": 890,
+      "name": "Eternatus"
+    },
+    {
+      "DexNum": 891,
+      "name": "Kubfu"
+    },
+    {
+      "DexNum": 892,
+      "name": "Urshifu"
+    },
+    {
+      "DexNum": 893,
+      "name": "Zarude"
+    }
+  ]
+}

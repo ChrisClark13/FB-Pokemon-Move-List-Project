@@ -1,0 +1,3671 @@
+{
+ "Pokemon": [
+  {
+   "link": "https://veekun.com/dex/pokemon/rattata?form=alola",
+   "DexNum": "19",
+   "LevelUpMoves": [
+    {
+     "name": "Tackle",
+     "level12": "—"
+    },
+    {
+     "name": "Tail Whip",
+     "level12": "—"
+    },
+    {
+     "name": "Quick Attack",
+     "level12": "4"
+    },
+    {
+     "name": "Focus Energy",
+     "level12": "7"
+    },
+    {
+     "name": "Bite",
+     "level12": "10"
+    },
+    {
+     "name": "Pursuit",
+     "level12": "13"
+    },
+    {
+     "name": "Hyper Fang",
+     "level12": "16"
+    },
+    {
+     "name": "Assurance",
+     "level12": "19"
+    },
+    {
+     "name": "Crunch",
+     "level12": "22"
+    },
+    {
+     "name": "Sucker Punch",
+     "level12": "25"
+    },
+    {
+     "name": "Super Fang",
+     "level12": "28"
+    },
+    {
+     "name": "Double-Edge",
+     "level12": "31"
+    },
+    {
+     "name": "Endeavor",
+     "level12": "34"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Torment"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Quash"
+    },
+    {
+     "name": "Embargo"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/raticate?form=alola",
+   "DexNum": "20",
+   "LevelUpMoves": [
+    {
+     "name": "Scary Face",
+     "level12": "0"
+    },
+    {
+     "name": "Scary Face",
+     "level12": "—"
+    },
+    {
+     "name": "Swords Dance",
+     "level12": "—"
+    },
+    {
+     "name": "Tackle",
+     "level12": "—"
+    },
+    {
+     "name": "Tail Whip",
+     "level12": "—"
+    },
+    {
+     "name": "Quick Attack",
+     "level12": "—"
+    },
+    {
+     "name": "Focus Energy",
+     "level12": "—"
+    },
+    {
+     "name": "Quick Attack",
+     "level12": "4"
+    },
+    {
+     "name": "Focus Energy",
+     "level12": "7"
+    },
+    {
+     "name": "Bite",
+     "level12": "10"
+    },
+    {
+     "name": "Pursuit",
+     "level12": "13"
+    },
+    {
+     "name": "Hyper Fang",
+     "level12": "16"
+    },
+    {
+     "name": "Assurance",
+     "level12": "19"
+    },
+    {
+     "name": "Crunch",
+     "level12": "24"
+    },
+    {
+     "name": "Sucker Punch",
+     "level12": "29"
+    },
+    {
+     "name": "Super Fang",
+     "level12": "34"
+    },
+    {
+     "name": "Double-Edge",
+     "level12": "39"
+    },
+    {
+     "name": "Endeavor",
+     "level12": "44"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Bite"
+    },
+    {
+     "name": "Counter"
+    },
+    {
+     "name": "Final Gambit"
+    },
+    {
+     "name": "Flame Wheel"
+    },
+    {
+     "name": "Fury Swipes"
+    },
+    {
+     "name": "Last Resort"
+    },
+    {
+     "name": "Me First"
+    },
+    {
+     "name": "Revenge"
+    },
+    {
+     "name": "Reversal"
+    },
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Uproar"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Roar"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Bulk Up"
+    },
+    {
+     "name": "Venoshock"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Sludge Wave"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Torment"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Quash"
+    },
+    {
+     "name": "Embargo"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/raichu?form=alola",
+   "DexNum": "26",
+   "LevelUpMoves": [
+    {
+     "name": "Psychic",
+     "level11": "0",
+     "level12": "0"
+    },
+    {
+     "name": "Psychic",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Speed Swap",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Thunder Shock",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Tail Whip",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Quick Attack",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Thunderbolt",
+     "level11": "—",
+     "level12": "—"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Bestow"
+    },
+    {
+     "name": "Bide"
+    },
+    {
+     "name": "Charge"
+    },
+    {
+     "name": "Disarming Voice"
+    },
+    {
+     "name": "Double Slap"
+    },
+    {
+     "name": "Electric Terrain"
+    },
+    {
+     "name": "Encore"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Fake Out"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Lucky Chant"
+    },
+    {
+     "name": "Present"
+    },
+    {
+     "name": "Reversal"
+    },
+    {
+     "name": "Thunder Punch"
+    },
+    {
+     "name": "Tickle"
+    },
+    {
+     "name": "Wish"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Calm Mind"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Focus Blast"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Charge Beam"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Volt Switch"
+    },
+    {
+     "name": "Thunder Wave"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Wild Charge"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/sandshrew?form=alola",
+   "DexNum": "27",
+   "LevelUpMoves": [
+    {
+     "name": "Scratch",
+     "level12": "—"
+    },
+    {
+     "name": "Defense Curl",
+     "level12": "—"
+    },
+    {
+     "name": "Bide",
+     "level12": "3"
+    },
+    {
+     "name": "Powder Snow",
+     "level12": "5"
+    },
+    {
+     "name": "Ice Ball",
+     "level12": "7"
+    },
+    {
+     "name": "Rapid Spin",
+     "level12": "9"
+    },
+    {
+     "name": "Fury Cutter",
+     "level12": "11"
+    },
+    {
+     "name": "Metal Claw",
+     "level12": "14"
+    },
+    {
+     "name": "Swift",
+     "level12": "17"
+    },
+    {
+     "name": "Fury Swipes",
+     "level12": "20"
+    },
+    {
+     "name": "Iron Defense",
+     "level12": "23"
+    },
+    {
+     "name": "Slash",
+     "level12": "26"
+    },
+    {
+     "name": "Iron Head",
+     "level12": "30"
+    },
+    {
+     "name": "Gyro Ball",
+     "level12": "34"
+    },
+    {
+     "name": "Swords Dance",
+     "level12": "38"
+    },
+    {
+     "name": "Hail",
+     "level12": "42"
+    },
+    {
+     "name": "Blizzard",
+     "level12": "46"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Work Up"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Leech Life"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Aurora Veil"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Frost Breath"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "X-Scissor"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/sandslash?form=alola",
+   "DexNum": "28",
+   "LevelUpMoves": [
+    {
+     "name": "Icicle Spear",
+     "level11": "0",
+     "level12": "0"
+    },
+    {
+     "name": "Icicle Spear",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Metal Burst",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Icicle Crash",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Slash",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Defense Curl",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Ice Ball",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Metal Claw",
+     "level11": "—",
+     "level12": "—"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Chip Away"
+    },
+    {
+     "name": "Counter"
+    },
+    {
+     "name": "Crush Claw"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Hone Claws"
+    },
+    {
+     "name": "Metal Claw"
+    },
+    {
+     "name": "Mud Shot"
+    },
+    {
+     "name": "Night Slash"
+    },
+    {
+     "name": "Rapid Spin"
+    },
+    {
+     "name": "Rock Climb"
+    },
+    {
+     "name": "Rototiller"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Work Up"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Leech Life"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Focus Blast"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Aurora Veil"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Frost Breath"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "X-Scissor"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/vulpix?form=alola",
+   "DexNum": "37",
+   "LevelUpMoves": [
+    {
+     "name": "Powder Snow",
+     "level12": "—"
+    },
+    {
+     "name": "Tail Whip",
+     "level12": "4"
+    },
+    {
+     "name": "Roar",
+     "level12": "7"
+    },
+    {
+     "name": "Baby-Doll Eyes",
+     "level12": "9"
+    },
+    {
+     "name": "Ice Shard",
+     "level12": "10"
+    },
+    {
+     "name": "Confuse Ray",
+     "level12": "12"
+    },
+    {
+     "name": "Icy Wind",
+     "level12": "15"
+    },
+    {
+     "name": "Payback",
+     "level12": "18"
+    },
+    {
+     "name": "Mist",
+     "level12": "20"
+    },
+    {
+     "name": "Feint Attack",
+     "level12": "23"
+    },
+    {
+     "name": "Hex",
+     "level12": "26"
+    },
+    {
+     "name": "Aurora Beam",
+     "level12": "28"
+    },
+    {
+     "name": "Extrasensory",
+     "level12": "31"
+    },
+    {
+     "name": "Safeguard",
+     "level12": "34"
+    },
+    {
+     "name": "Ice Beam",
+     "level12": "36"
+    },
+    {
+     "name": "Imprison",
+     "level12": "39"
+    },
+    {
+     "name": "Blizzard",
+     "level12": "42"
+    },
+    {
+     "name": "Grudge",
+     "level12": "44"
+    },
+    {
+     "name": "Captivate",
+     "level12": "47"
+    },
+    {
+     "name": "Sheer Cold",
+     "level12": "50"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Roar"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hail"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Safeguard"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Aurora Veil"
+    },
+    {
+     "name": "Psych Up"
+    },
+    {
+     "name": "Frost Breath"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+    "link": "https://veekun.com/dex/pokemon/ninetales?form=alola",
+    "DexNum": "38",
+    "LevelUpMoves": [
+     {
+      "name": "Dazzling Gleam",
+      "level12": "0"
+     },
+     {
+      "name": "Dazzling Gleam",
+      "level12": "—"
+     },
+     {
+      "name": "Imprison",
+      "level12": "—"
+     },
+     {
+      "name": "Nasty Plot",
+      "level12": "—"
+     },
+     {
+      "name": "Ice Beam",
+      "level12": "—"
+     },
+     {
+      "name": "Ice Shard",
+      "level12": "—"
+     },
+     {
+      "name": "Confuse Ray",
+      "level12": "—"
+     },
+     {
+      "name": "Safeguard",
+      "level12": "—"
+     }
+    ],
+    "EggMoves": [
+     {
+      "name": "Captivate"
+     },
+     {
+      "name": "Disable"
+     },
+     {
+      "name": "Extrasensory"
+     },
+     {
+      "name": "Feint Attack"
+     },
+     {
+      "name": "Flail"
+     },
+     {
+      "name": "Flare Blitz"
+     },
+     {
+      "name": "Heat Wave"
+     },
+     {
+      "name": "Hex"
+     },
+     {
+      "name": "Howl"
+     },
+     {
+      "name": "Hypnosis"
+     },
+     {
+      "name": "Power Swap"
+     },
+     {
+      "name": "Secret Power"
+     },
+     {
+      "name": "Spite"
+     },
+     {
+      "name": "Tail Slap"
+     }
+    ],
+    "MachineMoves": [
+     {
+      "name": "Psyshock"
+     },
+     {
+      "name": "Calm Mind"
+     },
+     {
+      "name": "Roar"
+     },
+     {
+      "name": "Toxic"
+     },
+     {
+      "name": "Hail"
+     },
+     {
+      "name": "Hidden Power"
+     },
+     {
+      "name": "Ice Beam"
+     },
+     {
+      "name": "Blizzard"
+     },
+     {
+      "name": "Hyper Beam"
+     },
+     {
+      "name": "Protect"
+     },
+     {
+      "name": "Rain Dance"
+     },
+     {
+      "name": "Safeguard"
+     },
+     {
+      "name": "Frustration"
+     },
+     {
+      "name": "Return"
+     },
+     {
+      "name": "Double Team"
+     },
+     {
+      "name": "Facade"
+     },
+     {
+      "name": "Rest"
+     },
+     {
+      "name": "Attract"
+     },
+     {
+      "name": "Round"
+     },
+     {
+      "name": "Payback"
+     },
+     {
+      "name": "Giga Impact"
+     },
+     {
+      "name": "Aurora Veil"
+     },
+     {
+      "name": "Psych Up"
+     },
+     {
+      "name": "Frost Breath"
+     },
+     {
+      "name": "Dream Eater"
+     },
+     {
+      "name": "Swagger"
+     },
+     {
+      "name": "Sleep Talk"
+     },
+     {
+      "name": "Substitute"
+     },
+     {
+      "name": "Dark Pulse"
+     },
+     {
+      "name": "Dazzling Gleam"
+     },
+     {
+      "name": "Confide"
+     }
+    ]
+   },
+  {
+   "link": "https://veekun.com/dex/pokemon/diglett?form=alola",
+   "DexNum": "50",
+   "LevelUpMoves": [
+    {
+     "name": "Sand Attack",
+     "level12": "—"
+    },
+    {
+     "name": "Metal Claw",
+     "level12": "—"
+    },
+    {
+     "name": "Growl",
+     "level12": "4"
+    },
+    {
+     "name": "Astonish",
+     "level12": "7"
+    },
+    {
+     "name": "Mud-Slap",
+     "level12": "10"
+    },
+    {
+     "name": "Magnitude",
+     "level12": "14"
+    },
+    {
+     "name": "Bulldoze",
+     "level12": "18"
+    },
+    {
+     "name": "Sucker Punch",
+     "level12": "22"
+    },
+    {
+     "name": "Mud Bomb",
+     "level12": "25"
+    },
+    {
+     "name": "Earth Power",
+     "level12": "28"
+    },
+    {
+     "name": "Dig",
+     "level12": "31"
+    },
+    {
+     "name": "Iron Head",
+     "level12": "35"
+    },
+    {
+     "name": "Earthquake",
+     "level12": "39"
+    },
+    {
+     "name": "Fissure",
+     "level12": "43"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Work Up"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Flash Cannon"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/dugtrio?form=alola",
+   "DexNum": "51",
+   "LevelUpMoves": [
+    {
+     "name": "Sand Tomb",
+     "level12": "0"
+    },
+    {
+     "name": "Sand Tomb",
+     "level12": "—"
+    },
+    {
+     "name": "Rototiller",
+     "level12": "—"
+    },
+    {
+     "name": "Night Slash",
+     "level12": "—"
+    },
+    {
+     "name": "Tri Attack",
+     "level12": "—"
+    },
+    {
+     "name": "Sand Attack",
+     "level12": "—"
+    },
+    {
+     "name": "Metal Claw",
+     "level12": "—"
+    },
+    {
+     "name": "Growl",
+     "level12": "—"
+    },
+    {
+     "name": "Growl",
+     "level12": "4"
+    },
+    {
+     "name": "Astonish",
+     "level12": "7"
+    },
+    {
+     "name": "Mud-Slap",
+     "level12": "10"
+    },
+    {
+     "name": "Magnitude",
+     "level12": "14"
+    },
+    {
+     "name": "Bulldoze",
+     "level12": "18"
+    },
+    {
+     "name": "Sucker Punch",
+     "level12": "22"
+    },
+    {
+     "name": "Mud Bomb",
+     "level12": "25"
+    },
+    {
+     "name": "Earth Power",
+     "level12": "30"
+    },
+    {
+     "name": "Dig",
+     "level12": "35"
+    },
+    {
+     "name": "Iron Head",
+     "level12": "41"
+    },
+    {
+     "name": "Earthquake",
+     "level12": "47"
+    },
+    {
+     "name": "Fissure",
+     "level12": "53"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Astonish"
+    },
+    {
+     "name": "Beat Up"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Feint Attack"
+    },
+    {
+     "name": "Final Gambit"
+    },
+    {
+     "name": "Headbutt"
+    },
+    {
+     "name": "Memento"
+    },
+    {
+     "name": "Mud Bomb"
+    },
+    {
+     "name": "Pursuit"
+    },
+    {
+     "name": "Reversal"
+    },
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Uproar"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Work Up"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Sludge Wave"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Flash Cannon"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/meowth?form=alola",
+   "DexNum": "52",
+   "LevelUpMoves": [
+    {
+     "name": "Scratch",
+     "level12": "—"
+    },
+    {
+     "name": "Growl",
+     "level12": "—"
+    },
+    {
+     "name": "Bite",
+     "level12": "6"
+    },
+    {
+     "name": "Fake Out",
+     "level12": "9"
+    },
+    {
+     "name": "Fury Swipes",
+     "level12": "14"
+    },
+    {
+     "name": "Screech",
+     "level12": "17"
+    },
+    {
+     "name": "Feint Attack",
+     "level12": "22"
+    },
+    {
+     "name": "Taunt",
+     "level12": "25"
+    },
+    {
+     "name": "Pay Day",
+     "level12": "30"
+    },
+    {
+     "name": "Slash",
+     "level12": "33"
+    },
+    {
+     "name": "Nasty Plot",
+     "level12": "38"
+    },
+    {
+     "name": "Assurance",
+     "level12": "41"
+    },
+    {
+     "name": "Captivate",
+     "level12": "46"
+    },
+    {
+     "name": "Night Slash",
+     "level12": "49"
+    },
+    {
+     "name": "Feint",
+     "level12": "50"
+    },
+    {
+     "name": "Dark Pulse",
+     "level12": "55"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Work Up"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Torment"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Quash"
+    },
+    {
+     "name": "Embargo"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Psych Up"
+    },
+    {
+     "name": "Dream Eater"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/persian?form=alola",
+   "DexNum": "53",
+   "LevelUpMoves": [
+    {
+     "name": "Swift",
+     "level12": "0"
+    },
+    {
+     "name": "Swift",
+     "level12": "—"
+    },
+    {
+     "name": "Quash",
+     "level12": "—"
+    },
+    {
+     "name": "Play Rough",
+     "level12": "—"
+    },
+    {
+     "name": "Switcheroo",
+     "level12": "—"
+    },
+    {
+     "name": "Scratch",
+     "level12": "—"
+    },
+    {
+     "name": "Growl",
+     "level12": "—"
+    },
+    {
+     "name": "Bite",
+     "level12": "—"
+    },
+    {
+     "name": "Fake Out",
+     "level12": "—"
+    },
+    {
+     "name": "Bite",
+     "level12": "6"
+    },
+    {
+     "name": "Fake Out",
+     "level12": "9"
+    },
+    {
+     "name": "Fury Swipes",
+     "level12": "14"
+    },
+    {
+     "name": "Screech",
+     "level12": "17"
+    },
+    {
+     "name": "Feint Attack",
+     "level12": "22"
+    },
+    {
+     "name": "Taunt",
+     "level12": "25"
+    },
+    {
+     "name": "Power Gem",
+     "level12": "32"
+    },
+    {
+     "name": "Slash",
+     "level12": "37"
+    },
+    {
+     "name": "Nasty Plot",
+     "level12": "44"
+    },
+    {
+     "name": "Assurance",
+     "level12": "49"
+    },
+    {
+     "name": "Captivate",
+     "level12": "56"
+    },
+    {
+     "name": "Night Slash",
+     "level12": "61"
+    },
+    {
+     "name": "Feint",
+     "level12": "65"
+    },
+    {
+     "name": "Dark Pulse",
+     "level12": "69"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Amnesia"
+    },
+    {
+     "name": "Assist"
+    },
+    {
+     "name": "Charm"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Foul Play"
+    },
+    {
+     "name": "Hypnosis"
+    },
+    {
+     "name": "Iron Tail"
+    },
+    {
+     "name": "Last Resort"
+    },
+    {
+     "name": "Odor Sleuth"
+    },
+    {
+     "name": "Punishment"
+    },
+    {
+     "name": "Snatch"
+    },
+    {
+     "name": "Spite"
+    },
+    {
+     "name": "Tail Whip"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Work Up"
+    },
+    {
+     "name": "Roar"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Torment"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Quash"
+    },
+    {
+     "name": "Embargo"
+    },
+    {
+     "name": "Shadow Claw"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Psych Up"
+    },
+    {
+     "name": "Dream Eater"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "U-turn"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/geodude?form=alola",
+   "DexNum": "74",
+   "LevelUpMoves": [
+    {
+     "name": "Tackle",
+     "level12": "—"
+    },
+    {
+     "name": "Defense Curl",
+     "level12": "—"
+    },
+    {
+     "name": "Charge",
+     "level12": "4"
+    },
+    {
+     "name": "Rock Polish",
+     "level12": "6"
+    },
+    {
+     "name": "Rollout",
+     "level12": "10"
+    },
+    {
+     "name": "Spark",
+     "level12": "12"
+    },
+    {
+     "name": "Rock Throw",
+     "level12": "16"
+    },
+    {
+     "name": "Smack Down",
+     "level12": "18"
+    },
+    {
+     "name": "Thunder Punch",
+     "level12": "22"
+    },
+    {
+     "name": "Self-Destruct",
+     "level12": "24"
+    },
+    {
+     "name": "Stealth Rock",
+     "level12": "28"
+    },
+    {
+     "name": "Rock Blast",
+     "level12": "30"
+    },
+    {
+     "name": "Discharge",
+     "level12": "34"
+    },
+    {
+     "name": "Explosion",
+     "level12": "36"
+    },
+    {
+     "name": "Double-Edge",
+     "level12": "40"
+    },
+    {
+     "name": "Stone Edge",
+     "level12": "42"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Smack Down"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Charge Beam"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Explosion"
+    },
+    {
+     "name": "Rock Polish"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Volt Switch"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Nature Power"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/graveler?form=alola",
+   "DexNum": "75",
+   "LevelUpMoves": [
+    {
+     "name": "Tackle",
+     "level12": "—"
+    },
+    {
+     "name": "Defense Curl",
+     "level12": "—"
+    },
+    {
+     "name": "Charge",
+     "level12": "—"
+    },
+    {
+     "name": "Rock Polish",
+     "level12": "—"
+    },
+    {
+     "name": "Charge",
+     "level12": "4"
+    },
+    {
+     "name": "Rock Polish",
+     "level12": "6"
+    },
+    {
+     "name": "Rollout",
+     "level12": "10"
+    },
+    {
+     "name": "Spark",
+     "level12": "12"
+    },
+    {
+     "name": "Rock Throw",
+     "level12": "16"
+    },
+    {
+     "name": "Smack Down",
+     "level12": "18"
+    },
+    {
+     "name": "Thunder Punch",
+     "level12": "22"
+    },
+    {
+     "name": "Self-Destruct",
+     "level12": "24"
+    },
+    {
+     "name": "Stealth Rock",
+     "level12": "30"
+    },
+    {
+     "name": "Rock Blast",
+     "level12": "34"
+    },
+    {
+     "name": "Discharge",
+     "level12": "40"
+    },
+    {
+     "name": "Explosion",
+     "level12": "44"
+    },
+    {
+     "name": "Double-Edge",
+     "level12": "50"
+    },
+    {
+     "name": "Stone Edge",
+     "level12": "54"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Autotomize"
+    },
+    {
+     "name": "Block"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Focus Punch"
+    },
+    {
+     "name": "Hammer Arm"
+    },
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Rock Climb"
+    },
+    {
+     "name": "Wide Guard"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Smack Down"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Charge Beam"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Explosion"
+    },
+    {
+     "name": "Rock Polish"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Volt Switch"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Nature Power"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/golem?form=alola",
+   "DexNum": "76",
+   "LevelUpMoves": [
+    {
+     "name": "Heavy Slam",
+     "level12": "—"
+    },
+    {
+     "name": "Tackle",
+     "level12": "—"
+    },
+    {
+     "name": "Defense Curl",
+     "level12": "—"
+    },
+    {
+     "name": "Charge",
+     "level12": "—"
+    },
+    {
+     "name": "Rock Polish",
+     "level12": "—"
+    },
+    {
+     "name": "Charge",
+     "level12": "4"
+    },
+    {
+     "name": "Rock Polish",
+     "level12": "6"
+    },
+    {
+     "name": "Steamroller",
+     "level12": "10"
+    },
+    {
+     "name": "Spark",
+     "level12": "12"
+    },
+    {
+     "name": "Rock Throw",
+     "level12": "16"
+    },
+    {
+     "name": "Smack Down",
+     "level12": "18"
+    },
+    {
+     "name": "Thunder Punch",
+     "level12": "22"
+    },
+    {
+     "name": "Self-Destruct",
+     "level12": "24"
+    },
+    {
+     "name": "Stealth Rock",
+     "level12": "30"
+    },
+    {
+     "name": "Rock Blast",
+     "level12": "34"
+    },
+    {
+     "name": "Discharge",
+     "level12": "40"
+    },
+    {
+     "name": "Explosion",
+     "level12": "44"
+    },
+    {
+     "name": "Double-Edge",
+     "level12": "50"
+    },
+    {
+     "name": "Stone Edge",
+     "level12": "54"
+    },
+    {
+     "name": "Heavy Slam",
+     "level12": "60"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Autotomize"
+    },
+    {
+     "name": "Block"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Flail"
+    },
+    {
+     "name": "Focus Punch"
+    },
+    {
+     "name": "Hammer Arm"
+    },
+    {
+     "name": "Mega Punch"
+    },
+    {
+     "name": "Rock Climb"
+    },
+    {
+     "name": "Wide Guard"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Roar"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Smack Down"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Focus Blast"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Charge Beam"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Explosion"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Rock Polish"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Volt Switch"
+    },
+    {
+     "name": "Gyro Ball"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Wild Charge"
+    },
+    {
+     "name": "Nature Power"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/grimer?form=alola",
+   "DexNum": "88",
+   "LevelUpMoves": [
+    {
+     "name": "Pound",
+     "level12": "—"
+    },
+    {
+     "name": "Poison Gas",
+     "level12": "—"
+    },
+    {
+     "name": "Harden",
+     "level12": "4"
+    },
+    {
+     "name": "Bite",
+     "level12": "7"
+    },
+    {
+     "name": "Disable",
+     "level12": "12"
+    },
+    {
+     "name": "Acid Spray",
+     "level12": "15"
+    },
+    {
+     "name": "Poison Fang",
+     "level12": "18"
+    },
+    {
+     "name": "Minimize",
+     "level12": "21"
+    },
+    {
+     "name": "Fling",
+     "level12": "26"
+    },
+    {
+     "name": "Knock Off",
+     "level12": "29"
+    },
+    {
+     "name": "Crunch",
+     "level12": "32"
+    },
+    {
+     "name": "Screech",
+     "level12": "37"
+    },
+    {
+     "name": "Gunk Shot",
+     "level12": "40"
+    },
+    {
+     "name": "Acid Armor",
+     "level12": "43"
+    },
+    {
+     "name": "Belch",
+     "level12": "46"
+    },
+    {
+     "name": "Memento",
+     "level12": "48"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Venoshock"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Sludge Wave"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Torment"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Quash"
+    },
+    {
+     "name": "Embargo"
+    },
+    {
+     "name": "Explosion"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Rock Polish"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Infestation"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/muk?form=alola",
+   "DexNum": "89",
+   "LevelUpMoves": [
+    {
+     "name": "Venom Drench",
+     "level11": "0",
+     "level12": "0"
+    },
+    {
+     "name": "Venom Drench",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Pound",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Poison Gas",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Harden",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Bite",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Harden",
+     "level11": "4",
+     "level12": "4"
+    },
+    {
+     "name": "Bite",
+     "level11": "7",
+     "level12": "7"
+    },
+    {
+     "name": "Disable",
+     "level11": "12",
+     "level12": "12"
+    },
+    {
+     "name": "Acid Spray",
+     "level11": "15",
+     "level12": "15"
+    },
+    {
+     "name": "Poison Fang",
+     "level11": "18",
+     "level12": "18"
+    },
+    {
+     "name": "Minimize",
+     "level11": "21",
+     "level12": "21"
+    },
+    {
+     "name": "Fling",
+     "level11": "26",
+     "level12": "26"
+    },
+    {
+     "name": "Knock Off",
+     "level11": "29",
+     "level12": "29"
+    },
+    {
+     "name": "Crunch",
+     "level11": "32",
+     "level12": "32"
+    },
+    {
+     "name": "Screech",
+     "level11": "37",
+     "level12": "37"
+    },
+    {
+     "name": "Gunk Shot",
+     "level11": "40",
+     "level12": "40"
+    },
+    {
+     "name": "Acid Armor",
+     "level11": "46",
+     "level12": "46"
+    },
+    {
+     "name": "Belch",
+     "level11": "52",
+     "level12": "52"
+    },
+    {
+     "name": "Memento",
+     "level11": "57",
+     "level12": "57"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Acid Spray"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Haze"
+    },
+    {
+     "name": "Imprison"
+    },
+    {
+     "name": "Lick"
+    },
+    {
+     "name": "Mean Look"
+    },
+    {
+     "name": "Power-Up Punch"
+    },
+    {
+     "name": "Scary Face"
+    },
+    {
+     "name": "Shadow Punch"
+    },
+    {
+     "name": "Shadow Sneak"
+    },
+    {
+     "name": "Spit Up"
+    },
+    {
+     "name": "Stockpile"
+    },
+    {
+     "name": "Swallow"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Venoshock"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Taunt"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Sludge Wave"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Torment"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Focus Blast"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Quash"
+    },
+    {
+     "name": "Embargo"
+    },
+    {
+     "name": "Explosion"
+    },
+    {
+     "name": "Payback"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Rock Polish"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Infestation"
+    },
+    {
+     "name": "Poison Jab"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Snarl"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/exeggutor?form=alola",
+   "DexNum": "103",
+   "LevelUpMoves": [
+    {
+     "name": "Dragon Hammer",
+     "level12": "0"
+    },
+    {
+     "name": "Dragon Hammer",
+     "level12": "—"
+    },
+    {
+     "name": "Seed Bomb",
+     "level12": "—"
+    },
+    {
+     "name": "Barrage",
+     "level12": "—"
+    },
+    {
+     "name": "Hypnosis",
+     "level12": "—"
+    },
+    {
+     "name": "Confusion",
+     "level12": "—"
+    },
+    {
+     "name": "Psyshock",
+     "level12": "17"
+    },
+    {
+     "name": "Egg Bomb",
+     "level12": "27"
+    },
+    {
+     "name": "Wood Hammer",
+     "level12": "37"
+    },
+    {
+     "name": "Leaf Storm",
+     "level12": "47"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Block"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Giga Drain"
+    },
+    {
+     "name": "Grassy Terrain"
+    },
+    {
+     "name": "Ingrain"
+    },
+    {
+     "name": "Leaf Storm"
+    },
+    {
+     "name": "Lucky Chant"
+    },
+    {
+     "name": "Moonlight"
+    },
+    {
+     "name": "Natural Gift"
+    },
+    {
+     "name": "Nature Power"
+    },
+    {
+     "name": "Power Swap"
+    },
+    {
+     "name": "Skill Swap"
+    },
+    {
+     "name": "Synthesis"
+    }
+   ],
+   "TutorMoves": [
+    {
+     "name": "Draco Meteor"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Psyshock"
+    },
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Light Screen"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Solar Beam"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Psychic"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Reflect"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sludge Bomb"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Energy Ball"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Explosion"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Psych Up"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Dragon Tail"
+    },
+    {
+     "name": "Infestation"
+    },
+    {
+     "name": "Dream Eater"
+    },
+    {
+     "name": "Grass Knot"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Trick Room"
+    },
+    {
+     "name": "Nature Power"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  },
+  {
+   "link": "https://veekun.com/dex/pokemon/marowak?form=alola",
+   "DexNum": "105",
+   "LevelUpMoves": [
+    {
+     "name": "Growl",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Tail Whip",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Bone Club",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Flame Wheel",
+     "level11": "—",
+     "level12": "—"
+    },
+    {
+     "name": "Tail Whip",
+     "level11": "3",
+     "level12": "3"
+    },
+    {
+     "name": "Bone Club",
+     "level11": "7",
+     "level12": "7"
+    },
+    {
+     "name": "Flame Wheel",
+     "level11": "11",
+     "level12": "11"
+    },
+    {
+     "name": "Leer",
+     "level11": "13",
+     "level12": "13"
+    },
+    {
+     "name": "Hex",
+     "level11": "17",
+     "level12": "17"
+    },
+    {
+     "name": "Bonemerang",
+     "level11": "21",
+     "level12": "21"
+    },
+    {
+     "name": "Will-O-Wisp",
+     "level11": "23",
+     "level12": "23"
+    },
+    {
+     "name": "Shadow Bone",
+     "level11": "27",
+     "level12": "27"
+    },
+    {
+     "name": "Thrash",
+     "level11": "33",
+     "level12": "33"
+    },
+    {
+     "name": "Fling",
+     "level11": "37",
+     "level12": "37"
+    },
+    {
+     "name": "Stomping Tantrum",
+     "level11": "43",
+     "level12": "43"
+    },
+    {
+     "name": "Endeavor",
+     "level11": "49",
+     "level12": "49"
+    },
+    {
+     "name": "Flare Blitz",
+     "level11": "53",
+     "level12": "53"
+    },
+    {
+     "name": "Retaliate",
+     "level11": "59",
+     "level12": "59"
+    },
+    {
+     "name": "Bone Rush",
+     "level11": "65",
+     "level12": "65"
+    }
+   ],
+   "EggMoves": [
+    {
+     "name": "Ancient Power"
+    },
+    {
+     "name": "Belly Drum"
+    },
+    {
+     "name": "Chip Away"
+    },
+    {
+     "name": "Curse"
+    },
+    {
+     "name": "Detect"
+    },
+    {
+     "name": "Double Kick"
+    },
+    {
+     "name": "Endure"
+    },
+    {
+     "name": "Iron Head"
+    },
+    {
+     "name": "Perish Song"
+    },
+    {
+     "name": "Screech"
+    },
+    {
+     "name": "Skull Bash"
+    }
+   ],
+   "MachineMoves": [
+    {
+     "name": "Toxic"
+    },
+    {
+     "name": "Hidden Power"
+    },
+    {
+     "name": "Sunny Day"
+    },
+    {
+     "name": "Ice Beam"
+    },
+    {
+     "name": "Blizzard"
+    },
+    {
+     "name": "Hyper Beam"
+    },
+    {
+     "name": "Protect"
+    },
+    {
+     "name": "Rain Dance"
+    },
+    {
+     "name": "Frustration"
+    },
+    {
+     "name": "Smack Down"
+    },
+    {
+     "name": "Thunderbolt"
+    },
+    {
+     "name": "Thunder"
+    },
+    {
+     "name": "Earthquake"
+    },
+    {
+     "name": "Return"
+    },
+    {
+     "name": "Shadow Ball"
+    },
+    {
+     "name": "Brick Break"
+    },
+    {
+     "name": "Double Team"
+    },
+    {
+     "name": "Flamethrower"
+    },
+    {
+     "name": "Sandstorm"
+    },
+    {
+     "name": "Fire Blast"
+    },
+    {
+     "name": "Rock Tomb"
+    },
+    {
+     "name": "Aerial Ace"
+    },
+    {
+     "name": "Facade"
+    },
+    {
+     "name": "Flame Charge"
+    },
+    {
+     "name": "Rest"
+    },
+    {
+     "name": "Attract"
+    },
+    {
+     "name": "Thief"
+    },
+    {
+     "name": "Round"
+    },
+    {
+     "name": "Echoed Voice"
+    },
+    {
+     "name": "Focus Blast"
+    },
+    {
+     "name": "False Swipe"
+    },
+    {
+     "name": "Fling"
+    },
+    {
+     "name": "Brutal Swing"
+    },
+    {
+     "name": "Will-O-Wisp"
+    },
+    {
+     "name": "Giga Impact"
+    },
+    {
+     "name": "Stone Edge"
+    },
+    {
+     "name": "Swords Dance"
+    },
+    {
+     "name": "Bulldoze"
+    },
+    {
+     "name": "Rock Slide"
+    },
+    {
+     "name": "Dream Eater"
+    },
+    {
+     "name": "Swagger"
+    },
+    {
+     "name": "Sleep Talk"
+    },
+    {
+     "name": "Substitute"
+    },
+    {
+     "name": "Dark Pulse"
+    },
+    {
+     "name": "Confide"
+    }
+   ]
+  }
+ ]
+}

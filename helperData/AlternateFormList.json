@@ -1,0 +1,281 @@
+{
+    "AlolaForms": [
+        {
+            "name": "Rattata",
+            "DexNum": 19
+        },
+        {
+            "name": "Raticate",
+            "DexNum": 20
+        },
+        {
+            "name": "Raichu",
+            "DexNum": 26
+        },
+        {
+            "name": "Sandshrew",
+            "DexNum": 27
+        },
+        {
+            "name": "Sandslash",
+            "DexNum": 28
+        },
+        {
+            "name": "Vulpix",
+            "DexNum": 37
+        },
+        {
+            "name": "Ninetales",
+            "DexNum": 38
+        },
+        {
+            "name": "Diglett",
+            "DexNum": 50
+        },
+        {
+            "name": "Dugtrio",
+            "DexNum": 51
+        },
+        {
+            "name": "Meowth",
+            "DexNum": 52
+        },
+        {
+            "name": "Persian",
+            "DexNum": 53
+        },
+        {
+            "name": "Geodude",
+            "DexNum": 74
+        },
+        {
+            "name": "Graveler",
+            "DexNum": 75
+        },
+        {
+            "name": "Golem",
+            "DexNum": 76
+        },
+        {
+            "name": "Grimer",
+            "DexNum": 88
+        },
+        {
+            "name": "Muk",
+            "DexNum": 89
+        },
+        {
+            "name": "Exeggutor",
+            "DexNum": 103
+        },
+        {
+            "name": "Marowak",
+            "DexNum": 105
+        }
+    ],
+    "GalarianForms": [
+        {
+            "name": "Meowth",
+            "DexNum": 52
+        },
+        {
+            "name": "Ponyta",
+            "DexNum": 77
+        },
+        {
+            "name": "Rapidash",
+            "DexNum": 78
+        },
+        {
+            "name": "Slowpoke",
+            "DexNum": 79
+        },
+        {
+            "name": "Slowbro",
+            "DexNum": 80
+        },
+        {
+            "name": "Farfetch'd",
+            "DexNum": 83
+        },
+        {
+            "name": "Weezing",
+            "DexNum": 110
+        },
+        {
+            "name": "Mr. Mime",
+            "DexNum": 122
+        },
+        {
+            "name": "Corsola",
+            "DexNum": 222
+        },
+        {
+            "name": "Zigzagoon",
+            "DexNum": 263
+        },
+        {
+            "name": "Linoone",
+            "DexNum": 264
+        },
+        {
+            "name": "Darumaka",
+            "DexNum": 554
+        },
+        {
+            "name": "Darmanitan",
+            "DexNum": 555
+        },
+        {
+            "name": "Yamask",
+            "DexNum": 562
+        },
+        {
+            "name": "Stunfisk",
+            "DexNum": 618
+        }
+    ],
+    "AltForms": [
+        {
+            "name": "Deoxys",
+            "DexNum": 386,
+            "DefaultForm": "Normal",
+            "AltForms": [
+                "Attack",
+                "Defense",
+                "Speed"
+            ]
+        },
+        {
+            "name": "Wormadam",
+            "DexNum": 413,
+            "DefaultForm": "Plant",
+            "AltForms": [
+                "Sandy",
+                "Trash"
+            ]
+        },
+        {
+            "name": "Shaymin",
+            "DexNum": 492,
+            "DefaultForm": "Land",
+            "AltForms": [
+                "Sky"
+            ]
+        },
+        {
+            "name": "Kyurem",
+            "DexNum": 646,
+            "DefaultForm": "Normal",
+            "AltForms": [
+                "White",
+                "Black"
+            ]
+        },
+        {
+            "name": "Hoopa",
+            "DexNum": 720,
+            "DefaultForm": "Confined",
+            "AltForms": [
+                "Unbound"
+            ]
+        },
+        {
+            "name": "Lycanroc",
+            "DexNum": 745,
+            "DefaultForm": "Midday",
+            "AltForms": [
+                "Midnight",
+                "Dusk"
+            ]
+        },
+        {
+            "name": "Toxtricity",
+            "DexNum": 849,
+            "DefaultForm": "Amped",
+            "AltForms": [
+                "Low Key"
+            ]
+        },
+        {
+            "name": "Urshifu",
+            "DexNum": 892,
+            "DefaultForm": "Single Strike Style",
+            "AltForms": [
+                "Rapid Strike Style"
+            ]
+        },
+        {
+            "Name": "Indeedee",
+            "DexNum": 876,
+            "DefaultForm": "Male",
+            "AltForms": [
+                "Female"
+            ]
+        },
+        {
+            "Name": "Meowstic",
+            "DexNum": 678,
+            "DefaultForm": "Male",
+            "AltForms": [
+                "Female"
+            ]
+        }
+    ],
+    "AltFormsWithSingleAdditionalMove" : [
+        {
+            "Name": "Rotom",
+            "DexNum": 479,
+            "DefaultForm": "Normal",
+            "Forms": [
+                {
+                    "Form": "Heat",
+                    "Move": "Overheat"
+                },
+                {
+                    "Form": "Wash",
+                    "Move": "Hydro Pump"
+                },
+                {
+                    "Form": "Frost",
+                    "Move": "Blizzard"
+                },
+                {
+                    "Form": "Fan",
+                    "Move": "Air Slash"
+                },
+                {
+                    "Form": "Mow",
+                    "Move": "Leaf Storm"
+                }
+            ]
+        },
+        {
+            "Name": "Pikachu",
+            "DexNum": 25,
+            "DefaultForm": "Normal",
+            "Forms": [
+                {
+                    "Form": "Rock Star",
+                    "Move": "Meteor Mash"
+                },
+                {
+                    "Form": "Belle",
+                    "Move": "Icicle Crash"
+                },
+                {
+                    "Form": "Pop Star",
+                    "Move": "Draining Kiss"
+                },
+                {
+                    "Form": "Ph. D",
+                    "Move": "Electric Terrain"
+                },
+                {
+                    "Form": "Libre",
+                    "Move": "Flying Press"
+                }
+            ]
+        }
+    ]
+}
