@@ -82,9 +82,12 @@ namespace MoveListConsolidator.ConsolidatedData
         {
             Console.WriteLine($"Processing Serebii Pokemon: {Name}");
 
-            //Handle default form
-            var levelUpMoveList = FindOrCreateFormLevelUpMoveList(DefaultForm);
-            serebiiPokemon.LevelUpMoves.ForEach(sm => levelUpMoveList.AddMove(sm.Name, sm.LevelValue));
+            if (serebiiPokemon.LevelUpMoves != null)
+            {
+                //Handle default form
+                var levelUpMoveList = FindOrCreateFormLevelUpMoveList(DefaultForm);
+                serebiiPokemon.LevelUpMoves.ForEach(sm => levelUpMoveList.AddMove(sm.Name, sm.LevelValue));
+            }
 
             //Handle alt forms
             foreach (var form in AltForms)
@@ -93,7 +96,7 @@ namespace MoveListConsolidator.ConsolidatedData
                 {
                     if (serebiiPokemon.AlolanFormLevelUpMoves != null)
                     {
-                        var list = FindOrCreateFormLevelUpMoveList(form);
+                        var list = FindOrCreateFormLevelUpMoveList("Alola");
                         serebiiPokemon.AlolanFormLevelUpMoves.ForEach(alolaMove => list.AddMove(alolaMove.Name, alolaMove.LevelValue));
                     }
                 }
@@ -101,11 +104,11 @@ namespace MoveListConsolidator.ConsolidatedData
                 {
                     if (serebiiPokemon.GalarianFormLevelUpMoves != null)
                     {
-                        var list = FindOrCreateFormLevelUpMoveList(form);
+                        var list = FindOrCreateFormLevelUpMoveList("Galarian");
                         serebiiPokemon.GalarianFormLevelUpMoves.ForEach(galarianMove => list.AddMove(galarianMove.Name, galarianMove.LevelValue));
                     }
                 }
-                else
+                else if (serebiiPokemon.AltForms != null)
                 {
                     var altForm = serebiiPokemon.AltForms.Find(altForm => altForm.Form.Equals(form, StringComparison.InvariantCultureIgnoreCase));
                     var list = FindOrCreateFormLevelUpMoveList(form);

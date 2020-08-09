@@ -1,0 +1,8 @@
+{
+    "MoveFixes": [
+        {
+            "OldName": "Vice Grip",
+            "NewName": "Vise Grip"
+        }
+    ]
+}
