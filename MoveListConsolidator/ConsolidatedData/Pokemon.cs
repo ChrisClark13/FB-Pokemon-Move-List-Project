@@ -10,9 +10,7 @@ namespace MoveListConsolidator.ConsolidatedData
 {
     public class Pokemon : BasePokemon
     {
-        [JsonProperty(Order = -3)]
         public string DefaultForm = "Normal";
-        [JsonProperty(Order = -2)]
         public List<string> AltForms = new List<string>();
         public List<LevelUpMoveList> LevelUpMoveLists = new List<LevelUpMoveList>();
         public List<Move> EggMoves = new List<Move>();
@@ -92,7 +90,7 @@ namespace MoveListConsolidator.ConsolidatedData
             //Handle alt forms
             foreach (var form in AltForms)
             {
-                if (form.Equals("Alola", StringComparison.InvariantCultureIgnoreCase))
+                if (form.Equals("Alola", StringComparison.InvariantCultureIgnoreCase) || form.Equals("Alolan", StringComparison.InvariantCultureIgnoreCase))
                 {
                     if (serebiiPokemon.AlolanFormLevelUpMoves != null)
                     {
@@ -139,13 +137,13 @@ namespace MoveListConsolidator.ConsolidatedData
                 .Select(sm => new Move
                 {
                     Name = sm.Name,
-                    Forms = (sm.Forms != null) ? sm.Forms.Select(f => f.Form).ToList() : new List<string> { DefaultForm }.Concat(AltForms).ToList()
+                    Forms = (sm.Forms != null) ? sm.Forms.Select(f => f.Form).ToList() : new List<string> { DefaultForm }
                 })
             );
 
             //For all moves that are already in the list, update their corresponding move.
             foreach ((var forms, var m) in source.Join(dest, sm => sm.Name, m => m.Name, (sm, m) =>
-                Tuple.Create((sm.Forms != null) ? sm.Forms.Select(f => f.Form).ToList() : new List<string> { DefaultForm }.Concat(AltForms).ToList(), m)))
+                Tuple.Create((sm.Forms != null) ? sm.Forms.Select(f => f.Form).ToList() : new List<string> { DefaultForm }, m)))
             {
                 m.Forms.AddRange(forms.Where(form => !m.Forms.Contains(form)));
             }

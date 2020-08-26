@@ -13,7 +13,8 @@ namespace MoveListConsolidator.ConsolidatedData
             var existingEntry = LevelUpMoves.Find(move => move.Name == name);
             if (existingEntry == null)
             {
-                LevelUpMoves.Add(new LevelUpMove {
+                LevelUpMoves.Add(new LevelUpMove
+                {
                     Name = name,
                     Level = level
                 });
@@ -26,7 +27,14 @@ namespace MoveListConsolidator.ConsolidatedData
 
         public void SortMoves()
         {
-            LevelUpMoves.Sort((a,b) => a.Level.CompareTo(b.Level));
+            LevelUpMoves.Sort((a, b) =>
+            {
+                var diff = a.Level.CompareTo(b.Level);
+                if (diff != 0)
+                    return diff;
+                else
+                    return a.Name.CompareTo(b.Name);
+            });
         }
     }
 }

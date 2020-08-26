@@ -1,8 +1,155 @@
 {
-    "MoveFixes": [
+    "MoveFixes": [{
+        "OldName": "Vice Grip",
+        "NewName": "Vise Grip"
+    },
+    {
+        "OldName": "King’s Shield",
+        "NewName": "King's Shield"
+    },
+    {
+        "OldName": "Forest’s Curse",
+        "NewName": "Forest's Curse"
+    },
+    {
+        "OldName": "Land’s Wrath",
+        "NewName": "Land's Wrath"
+    },
+    {
+        "OldName": "Nature’s Madness",
+        "NewName": "Nature's Madness"
+    }],
+    "FormFixes": [{
+            "OldName": "Alola",
+            "NewName": "Alolan"
+        },
         {
-            "OldName": "Vice Grip",
-            "NewName": "Vise Grip"
+            "OldName": "Plant",
+            "NewName": "Plant Cloak"
+        },
+        {
+            "OldName": "Sandy",
+            "NewName": "Sandy Cloak"
+        },
+        {
+            "OldName": "Trash",
+            "NewName": "Trash Cloak"
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Red Flower",
+            "DexNum": 669
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Red Flower",
+            "DexNum": 670
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Red Flower",
+            "DexNum": 671
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Normal Forme",
+            "DexNum": 386
+        },
+        {
+            "OldName": "Attack",
+            "NewName": "Attack Forme",
+            "DexNum": 386
+        },
+        {
+            "OldName": "Defense",
+            "NewName": "Defense Forme",
+            "DexNum": 386
+        },
+        {
+            "OldName": "Speed",
+            "NewName": "Speed Forme",
+            "DexNum": 386
+        },
+        {
+            "OldName": "Sky",
+            "NewName": "Sky Forme",
+            "DexNum": 492
+        },
+        {
+            "OldName": "Land",
+            "NewName": "Land Forme",
+            "DexNum": 492
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Vanilla Cream",
+            "DexNum": 869
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Natural",
+            "DexNum": 676
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Average Size",
+            "DexNum": 710
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Average Size",
+            "DexNum": 711
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Spring",
+            "DexNum": 585
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Spring",
+            "DexNum": 586
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Baile Style",
+            "DexNum": 741
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Disguised",
+            "DexNum": 778
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "West Sea",
+            "DexNum": 422
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "West Sea",
+            "DexNum": 423
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "A",
+            "DexNum": 201
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Meadow",
+            "DexNum": 666
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Hero of Many Battles",
+            "DexNum": 888
+        },
+        {
+            "OldName": "Normal",
+            "NewName": "Hero of Many Battles",
+            "DexNum": 889
         }
+        
     ]
 }

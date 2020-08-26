@@ -5,9 +5,10 @@ namespace MoveListConsolidator.ConsolidatedData
 {
     public class SpellingFixes
     {
-        public class MoveFix {
+        public class SpellingFix {
             public string OldName;
             public string NewName;
+            public uint DexNum = 0;
         }
         public static SpellingFixes ParseJson(string json)
         {
@@ -15,6 +16,7 @@ namespace MoveListConsolidator.ConsolidatedData
             return result;
         }
 
-        public List<MoveFix> MoveFixes;
+        public List<SpellingFix> MoveFixes;
+        public List<SpellingFix> FormFixes;
     }
 }

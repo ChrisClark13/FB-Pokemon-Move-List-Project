@@ -96,10 +96,10 @@
         {
             "Name": "Rattata",
             "DexNum": 19,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Raticate",
             "EvolvesIntoDexNum": 20,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Spearow",
@@ -130,7 +130,7 @@
             "DexNum": 25,
             "EvolvesIntoName": "Raichu",
             "EvolvesIntoDexNum": 26,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Sandshrew",
@@ -141,10 +141,10 @@
         {
             "Name": "Sandshrew",
             "DexNum": 27,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Sandslash",
             "EvolvesIntoDexNum": 28,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Nidoran♀",
@@ -191,10 +191,10 @@
         {
             "Name": "Vulpix",
             "DexNum": 37,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Ninetales",
             "EvolvesIntoDexNum": 38,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Igglybuff",
@@ -259,10 +259,10 @@
         {
             "Name": "Diglett",
             "DexNum": 50,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Dugtrio",
             "EvolvesIntoDexNum": 51,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Meowth",
@@ -273,10 +273,10 @@
         {
             "Name": "Meowth",
             "DexNum": 52,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Persian",
             "EvolvesIntoDexNum": 53,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Meowth",
@@ -378,18 +378,18 @@
         {
             "Name": "Geodude",
             "DexNum": 74,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Graveler",
             "EvolvesIntoDexNum": 75,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Graveler",
             "DexNum": 75,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Golem",
             "EvolvesIntoDexNum": 76,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Ponyta",
@@ -458,10 +458,10 @@
         {
             "Name": "Grimer",
             "DexNum": 88,
-            "Form": "Alola",
+            "Form": "Alolan",
             "EvolvesIntoName": "Muk",
             "EvolvesIntoDexNum": 89,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Shellder",
@@ -516,7 +516,7 @@
             "DexNum": 102,
             "EvolvesIntoName": "Exeggutor",
             "EvolvesIntoDexNum": 103,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Cubone",
@@ -529,7 +529,7 @@
             "DexNum": 104,
             "EvolvesIntoName": "Marowak",
             "EvolvesIntoDexNum": 105,
-            "EvolvesIntoForm": "Alola"
+            "EvolvesIntoForm": "Alolan"
         },
         {
             "Name": "Tyrogue",
@@ -1532,21 +1532,21 @@
             "DexNum": 412,
             "EvolvesIntoName": "Wormadam",
             "EvolvesIntoDexNum": 413,
-            "EvolvesIntoForm": "Plant"
+            "EvolvesIntoForm": "Plant Cloak"
         },
         {
             "Name": "Burmy",
             "DexNum": 412,
             "EvolvesIntoName": "Wormadam",
             "EvolvesIntoDexNum": 413,
-            "EvolvesIntoForm": "Sandy"
+            "EvolvesIntoForm": "Sandy Cloak"
         },
         {
             "Name": "Burmy",
             "DexNum": 412,
             "EvolvesIntoName": "Wormadam",
             "EvolvesIntoDexNum": 413,
-            "EvolvesIntoForm": "Trash"
+            "EvolvesIntoForm": "Trash Cloak"
         },
         {
             "Name": "Burmy",
