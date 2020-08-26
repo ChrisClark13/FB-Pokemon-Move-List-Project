@@ -19,13 +19,12 @@ namespace MoveListConsolidator
         static void Main(string[] args)
         {
             Console.WriteLine($"Hewwo Fizztopia, FILES ARE AT {System.IO.Path.GetFullPath(PathToFiles)}");
-            var logPath = $@"{PathToFiles}\output\log.txt";
-            Console.WriteLine($@"Outputting log to {logPath}");
 
-            FileStream logStream = new FileStream(logPath, FileMode.OpenOrCreate, FileAccess.Write);
-            StreamWriter logWriter = new StreamWriter(logStream);
-
-            Console.SetOut(logWriter);
+            // var logPath = $@"{PathToFiles}\output\log.txt";
+            // Console.WriteLine($@"Outputting log to {logPath}");
+            // FileStream logStream = new FileStream(logPath, FileMode.OpenOrCreate, FileAccess.Write);
+            // StreamWriter logWriter = new StreamWriter(logStream);
+            // Console.SetOut(logWriter);
 
             var pokemonList = new PokemonList();
 
@@ -72,7 +71,7 @@ namespace MoveListConsolidator
                                 ).ToList().ForEach(m => { Console.WriteLine($"{p.DexNum}: Fixing {m.Name} to {moveFix.NewName}"); m.Name = moveFix.NewName; });
                     });
                 }
-                pokemonList.ParseVeekunPokemonList(veekunPokemon);
+                pokemonList.ParseVeekunPokemonList(veekunPokemon, filePath);
             }
 
             Console.WriteLine("Processing Serebii Files...");
@@ -123,7 +122,9 @@ namespace MoveListConsolidator
                                 ).ToList().ForEach(m => { Console.WriteLine($"{p.DexNum}: Fixing {m.Name} to {moveFix.NewName}"); m.Name = moveFix.NewName; });
                     });
                 }
-                pokemonList.ParseSerebiiPokemonList(serebiiPokemon);
+
+                var isSwSh = filePath.Contains("swsh");
+                pokemonList.ParseSerebiiPokemonList(serebiiPokemon, isSwSh, filePath);
             }
 
             Console.WriteLine("Processing Form Name Fixes");

@@ -10646,404 +10646,626 @@
    ]
   },
   {
-   "link": "https://www.serebii.net/pokedex-swsh/meowstic",
-   "DexNum": "678",
-   "LevelUpMoves": [
-    {
-     "name": "Mean Look",
-     "level": "—"
-    },
-    {
-     "name": "Scratch",
-     "level": "—"
-    },
-    {
-     "name": "Leer",
-     "level": "—"
-    },
-    {
-     "name": "Fake Out",
-     "level": "—"
-    },
-    {
-     "name": "Disarming Voice",
-     "level": "—"
-    },
-    {
-     "name": "Confusion",
-     "level": "9"
-    },
-    {
-     "name": "Helping Hand",
-     "level": "12"
-    },
-    {
-     "name": "Charm",
-     "level": "15"
-    },
-    {
-     "name": "Covet",
-     "level": "18"
-    },
-    {
-     "name": "Psybeam",
-     "level": "21"
-    },
-    {
-     "name": "Sucker Punch",
-     "level": "24"
-    },
-    {
-     "name": "Role Play",
-     "level": "29"
-    },
-    {
-     "name": "Light Screen",
-     "level": "34"
-    },
-    {
-     "name": "Reflect",
-     "level": "34"
-    },
-    {
-     "name": "Psyshock",
-     "level": "39"
-    },
-    {
-     "name": "Imprison",
-     "level": "44"
-    },
-    {
-     "name": "Quick Guard",
-     "level": "49"
-    },
-    {
-     "name": "Psychic",
-     "level": "54"
-    },
-    {
-     "name": "Misty Terrain",
-     "level": "59"
-    }
-   ],
-   "EggMoves": [
-    {
-     "name": "Yawn"
-    },
-    {
-     "name": "Tickle"
-    }
-   ],
-   "TutorMoves": [
-    {
-     "name": "Expanding Force"
-    }
-   ],
-   "MachineMoves": [
-    {
-     "name": "Pay Day"
-    },
-    {
-     "name": "Hyper Beam"
-    },
-    {
-     "name": "Giga Impact"
-    },
-    {
-     "name": "Thunder Wave"
-    },
-    {
-     "name": "Dig"
-    },
-    {
-     "name": "Light Screen"
-    },
-    {
-     "name": "Reflect"
-    },
-    {
-     "name": "Safeguard"
-    },
-    {
-     "name": "Rest"
-    },
-    {
-     "name": "Snore"
-    },
-    {
-     "name": "Protect"
-    },
-    {
-     "name": "Charm"
-    },
-    {
-     "name": "Attract"
-    },
-    {
-     "name": "Rain Dance"
-    },
-    {
-     "name": "Sunny Day"
-    },
-    {
-     "name": "Facade"
-    },
-    {
-     "name": "Swift"
-    },
-    {
-     "name": "Helping Hand"
-    },
-    {
-     "name": "Imprison"
-    },
-    {
-     "name": "Fake Tears"
-    },
-    {
-     "name": "Payback"
-    },
-    {
-     "name": "Trick Room"
-    },
-    {
-     "name": "Wonder Room"
-    },
-    {
-     "name": "Magic Room"
-    },
-    {
-     "name": "Round"
-    },
-    {
-     "name": "Tail Slap"
-    },
-    {
-     "name": "Misty Terrain"
-    },
-    {
-     "name": "Psychic Terrain"
-    },
-    {
-     "name": "Thunderbolt"
-    },
-    {
-     "name": "Psychic"
-    },
-    {
-     "name": "Substitute"
-    },
-    {
-     "name": "Psyshock"
-    },
-    {
-     "name": "Endure"
-    },
-    {
-     "name": "Sleep Talk"
-    },
-    {
-     "name": "Iron Tail"
-    },
-    {
-     "name": "Shadow Ball"
-    },
-    {
-     "name": "Trick"
-    },
-    {
-     "name": "Skill Swap"
-    },
-    {
-     "name": "Calm Mind"
-    },
-    {
-     "name": "Dark Pulse"
-    },
-    {
-     "name": "Energy Ball"
-    },
-    {
-     "name": "Nasty Plot"
-    },
-    {
-     "name": "Zen Headbutt"
-    },
-    {
-     "name": "Ally Switch"
-    },
-    {
-     "name": "Work Up"
-    },
-    {
-     "name": "Play Rough"
-    }
-   ],
-   "AltForms": [
-    {
-     "form": "Male",
-     "LevelUpMoves": [
-      {
-       "name": "Mean Look",
-       "level": "—"
-      },
-      {
-       "name": "Scratch",
-       "level": "—"
-      },
-      {
-       "name": "Leer",
-       "level": "—"
-      },
-      {
-       "name": "Fake Out",
-       "level": "—"
-      },
-      {
-       "name": "Disarming Voice",
-       "level": "—"
-      },
-      {
-       "name": "Confusion",
-       "level": "9"
-      },
-      {
-       "name": "Helping Hand",
-       "level": "12"
-      },
-      {
-       "name": "Charm",
-       "level": "15"
-      },
-      {
-       "name": "Covet",
-       "level": "18"
-      },
-      {
-       "name": "Psybeam",
-       "level": "21"
-      },
-      {
-       "name": "Sucker Punch",
-       "level": "24"
-      },
-      {
-       "name": "Role Play",
-       "level": "29"
-      },
-      {
-       "name": "Light Screen",
-       "level": "34"
-      },
-      {
-       "name": "Reflect",
-       "level": "34"
-      },
-      {
-       "name": "Psyshock",
-       "level": "39"
-      },
-      {
-       "name": "Imprison",
-       "level": "44"
-      },
-      {
-       "name": "Quick Guard",
-       "level": "49"
-      },
-      {
-       "name": "Psychic",
-       "level": "54"
-      },
-      {
-       "name": "Misty Terrain",
-       "level": "59"
-      }
-     ]
-    },
-    {
-     "form": "Female",
-     "LevelUpMoves": [
-      {
-       "name": "Magical Leaf",
-       "level": "—"
-      },
-      {
-       "name": "Scratch",
-       "level": "—"
-      },
-      {
-       "name": "Leer",
-       "level": "—"
-      },
-      {
-       "name": "Fake Out",
-       "level": "—"
-      },
-      {
-       "name": "Disarming Voice",
-       "level": "—"
-      },
-      {
-       "name": "Confusion",
-       "level": "9"
-      },
-      {
-       "name": "Stored Power",
-       "level": "12"
-      },
-      {
-       "name": "Charge Beam",
-       "level": "15"
-      },
-      {
-       "name": "Covet",
-       "level": "18"
-      },
-      {
-       "name": "Psybeam",
-       "level": "21"
-      },
-      {
-       "name": "Sucker Punch",
-       "level": "24"
-      },
-      {
-       "name": "Role Play",
-       "level": "29"
-      },
-      {
-       "name": "Light Screen",
-       "level": "34"
-      },
-      {
-       "name": "Reflect",
-       "level": "34"
-      },
-      {
-       "name": "Psyshock",
-       "level": "39"
-      },
-      {
-       "name": "Extrasensory",
-       "level": "44"
-      },
-      {
-       "name": "Shadow Ball",
-       "level": "49"
-      },
-      {
-       "name": "Psychic",
-       "level": "54"
-      },
-      {
-       "name": "Future Sight",
-       "level": "59"
-      }
-     ]
-    }
-   ]
-  },
+    "link": "https://www.serebii.net/pokedex-swsh/meowstic",
+    "DexNum": "678",
+    "LevelUpMoves": [
+     {
+      "name": "Mean Look",
+      "level": "—"
+     },
+     {
+      "name": "Scratch",
+      "level": "—"
+     },
+     {
+      "name": "Leer",
+      "level": "—"
+     },
+     {
+      "name": "Fake Out",
+      "level": "—"
+     },
+     {
+      "name": "Disarming Voice",
+      "level": "—"
+     },
+     {
+      "name": "Confusion",
+      "level": "9"
+     },
+     {
+      "name": "Helping Hand",
+      "level": "12"
+     },
+     {
+      "name": "Charm",
+      "level": "15"
+     },
+     {
+      "name": "Covet",
+      "level": "18"
+     },
+     {
+      "name": "Psybeam",
+      "level": "21"
+     },
+     {
+      "name": "Sucker Punch",
+      "level": "24"
+     },
+     {
+      "name": "Role Play",
+      "level": "29"
+     },
+     {
+      "name": "Light Screen",
+      "level": "34"
+     },
+     {
+      "name": "Reflect",
+      "level": "34"
+     },
+     {
+      "name": "Psyshock",
+      "level": "39"
+     },
+     {
+      "name": "Imprison",
+      "level": "44"
+     },
+     {
+      "name": "Quick Guard",
+      "level": "49"
+     },
+     {
+      "name": "Psychic",
+      "level": "54"
+     },
+     {
+      "name": "Misty Terrain",
+      "level": "59"
+     }
+    ],
+    "EggMoves": [
+     {
+      "name": "Yawn"
+     },
+     {
+      "name": "Tickle"
+     }
+    ],
+    "TutorMoves": [
+     {
+      "name": "Expanding Force"
+     }
+    ],
+    "MachineMoves": [
+     {
+      "name": "Pay Day",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Hyper Beam",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Giga Impact",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Magical Leaf",
+      "forms": [
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Thunder Wave",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Dig",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Light Screen",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Reflect",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Safeguard",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Rest",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Snore",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Protect",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Charm",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Attract",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Rain Dance",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Sunny Day",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Facade",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Swift",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Helping Hand",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Imprison",
+      "forms": [
+       {
+        "form": "Male"
+       }
+      ]
+     },
+     {
+      "name": "Fake Tears",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Payback",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Trick Room",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Wonder Room",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Magic Room",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Round",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Tail Slap",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Misty Terrain",
+      "forms": [
+       {
+        "form": "Male"
+       }
+      ]
+     },
+     {
+      "name": "Psychic Terrain",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Thunderbolt",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Psychic",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Substitute",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Psyshock",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Endure",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Sleep Talk",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Iron Tail",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Shadow Ball",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Future Sight",
+      "forms": [
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Trick",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Skill Swap",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Calm Mind",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Dark Pulse",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Energy Ball",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Nasty Plot",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Zen Headbutt",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Stored Power",
+      "forms": [
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Ally Switch",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Work Up",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     },
+     {
+      "name": "Play Rough",
+      "forms": [
+       {
+        "form": "Male"
+       },
+       {
+        "form": "Female"
+       }
+      ]
+     }
+    ]
+   },
   {
    "link": "https://www.serebii.net/pokedex-swsh/honedge",
    "DexNum": "679",

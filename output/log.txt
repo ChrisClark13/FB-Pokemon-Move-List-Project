@@ -893,1519 +893,1519 @@ Processing Spelling Fixes
 99: Fixing Vice Grip to Vise Grip
 99: Fixing Vice Grip to Vise Grip
 127: Fixing Vice Grip to Vise Grip
-Processing Serebii Pokemon: Bulbasaur
-Processing Serebii Pokemon: Ivysaur
-Processing Serebii Pokemon: Venusaur
-Processing Serebii Pokemon: Charmander
-Processing Serebii Pokemon: Charmeleon
-Processing Serebii Pokemon: Charizard
-Processing Serebii Pokemon: Squirtle
-Processing Serebii Pokemon: Wartortle
-Processing Serebii Pokemon: Blastoise
-Processing Serebii Pokemon: Caterpie
-Processing Serebii Pokemon: Metapod
-Processing Serebii Pokemon: Butterfree
-Processing Serebii Pokemon: Weedle
-Processing Serebii Pokemon: Kakuna
-Processing Serebii Pokemon: Beedrill
-Processing Serebii Pokemon: Pidgey
-Processing Serebii Pokemon: Pidgeotto
-Processing Serebii Pokemon: Pidgeot
-Processing Serebii Pokemon: Rattata
-Processing Serebii Pokemon: Raticate
-Processing Serebii Pokemon: Spearow
-Processing Serebii Pokemon: Fearow
-Processing Serebii Pokemon: Ekans
-Processing Serebii Pokemon: Arbok
-Processing Serebii Pokemon: Pikachu
-Processing Serebii Pokemon: Raichu
-Processing Serebii Pokemon: Sandshrew
-Processing Serebii Pokemon: Sandslash
-Processing Serebii Pokemon: Nidoran♀
-Processing Serebii Pokemon: Nidorina
-Processing Serebii Pokemon: Nidoqueen
-Processing Serebii Pokemon: Nidoran♂
-Processing Serebii Pokemon: Nidorino
-Processing Serebii Pokemon: Nidoking
-Processing Serebii Pokemon: Clefairy
-Processing Serebii Pokemon: Clefable
-Processing Serebii Pokemon: Vulpix
-Processing Serebii Pokemon: Ninetales
-Processing Serebii Pokemon: Jigglypuff
-Processing Serebii Pokemon: Wigglytuff
-Processing Serebii Pokemon: Zubat
-Processing Serebii Pokemon: Golbat
-Processing Serebii Pokemon: Oddish
-Processing Serebii Pokemon: Gloom
-Processing Serebii Pokemon: Vileplume
-Processing Serebii Pokemon: Paras
-Processing Serebii Pokemon: Parasect
-Processing Serebii Pokemon: Venonat
-Processing Serebii Pokemon: Venomoth
-Processing Serebii Pokemon: Diglett
-Processing Serebii Pokemon: Dugtrio
-Processing Serebii Pokemon: Meowth
-Processing Serebii Pokemon: Persian
-Processing Serebii Pokemon: Psyduck
-Processing Serebii Pokemon: Golduck
-Processing Serebii Pokemon: Mankey
-Processing Serebii Pokemon: Primeape
-Processing Serebii Pokemon: Growlithe
-Processing Serebii Pokemon: Arcanine
-Processing Serebii Pokemon: Poliwag
-Processing Serebii Pokemon: Poliwhirl
-Processing Serebii Pokemon: Poliwrath
-Processing Serebii Pokemon: Abra
-Processing Serebii Pokemon: Kadabra
-Processing Serebii Pokemon: Alakazam
-Processing Serebii Pokemon: Machop
-Processing Serebii Pokemon: Machoke
-Processing Serebii Pokemon: Machamp
-Processing Serebii Pokemon: Bellsprout
-Processing Serebii Pokemon: Weepinbell
-Processing Serebii Pokemon: Victreebel
-Processing Serebii Pokemon: Tentacool
-Processing Serebii Pokemon: Tentacruel
-Processing Serebii Pokemon: Geodude
-Processing Serebii Pokemon: Graveler
-Processing Serebii Pokemon: Golem
-Processing Serebii Pokemon: Ponyta
-Processing Serebii Pokemon: Rapidash
-Processing Serebii Pokemon: Slowpoke
-Processing Serebii Pokemon: Slowbro
-Processing Serebii Pokemon: Magnemite
-Processing Serebii Pokemon: Magneton
-Processing Serebii Pokemon: Farfetch'd
-Processing Serebii Pokemon: Doduo
-Processing Serebii Pokemon: Dodrio
-Processing Serebii Pokemon: Seel
-Processing Serebii Pokemon: Dewgong
-Processing Serebii Pokemon: Grimer
-Processing Serebii Pokemon: Muk
-Processing Serebii Pokemon: Shellder
-Processing Serebii Pokemon: Cloyster
-Processing Serebii Pokemon: Gastly
-Processing Serebii Pokemon: Haunter
-Processing Serebii Pokemon: Gengar
-Processing Serebii Pokemon: Onix
-Processing Serebii Pokemon: Drowzee
-Processing Serebii Pokemon: Hypno
-Processing Serebii Pokemon: Krabby
-Processing Serebii Pokemon: Kingler
-Processing Serebii Pokemon: Voltorb
-Processing Serebii Pokemon: Electrode
-Processing Serebii Pokemon: Exeggcute
-Processing Serebii Pokemon: Exeggutor
-Processing Serebii Pokemon: Cubone
-Processing Serebii Pokemon: Marowak
-Processing Serebii Pokemon: Hitmonlee
-Processing Serebii Pokemon: Hitmonchan
-Processing Serebii Pokemon: Lickitung
-Processing Serebii Pokemon: Koffing
-Processing Serebii Pokemon: Weezing
-Processing Serebii Pokemon: Rhyhorn
-Processing Serebii Pokemon: Rhydon
-Processing Serebii Pokemon: Chansey
-Processing Serebii Pokemon: Tangela
-Processing Serebii Pokemon: Kangaskhan
-Processing Serebii Pokemon: Horsea
-Processing Serebii Pokemon: Seadra
-Processing Serebii Pokemon: Goldeen
-Processing Serebii Pokemon: Seaking
-Processing Serebii Pokemon: Staryu
-Processing Serebii Pokemon: Starmie
-Processing Serebii Pokemon: Mr. Mime
-Processing Serebii Pokemon: Scyther
-Processing Serebii Pokemon: Jynx
-Processing Serebii Pokemon: Electabuzz
-Processing Serebii Pokemon: Magmar
-Processing Serebii Pokemon: Pinsir
-Processing Serebii Pokemon: Tauros
-Processing Serebii Pokemon: Magikarp
-Processing Serebii Pokemon: Gyarados
-Processing Serebii Pokemon: Lapras
-Processing Serebii Pokemon: Ditto
-Processing Serebii Pokemon: Eevee
-Processing Serebii Pokemon: Vaporeon
-Processing Serebii Pokemon: Jolteon
-Processing Serebii Pokemon: Flareon
-Processing Serebii Pokemon: Porygon
-Processing Serebii Pokemon: Omanyte
-Processing Serebii Pokemon: Omastar
-Processing Serebii Pokemon: Kabuto
-Processing Serebii Pokemon: Kabutops
-Processing Serebii Pokemon: Aerodactyl
-Processing Serebii Pokemon: Snorlax
-Processing Serebii Pokemon: Articuno
-Processing Serebii Pokemon: Zapdos
-Processing Serebii Pokemon: Moltres
-Processing Serebii Pokemon: Dratini
-Processing Serebii Pokemon: Dragonair
-Processing Serebii Pokemon: Dragonite
-Processing Serebii Pokemon: Mewtwo
-Processing Serebii Pokemon: Mew
-Processing Serebii Pokemon: Meltan
-Processing Serebii Pokemon: Melmetal
+Processing Serebii Pokemon: Bulbasaur isSwSh: False
+Processing Serebii Pokemon: Ivysaur isSwSh: False
+Processing Serebii Pokemon: Venusaur isSwSh: False
+Processing Serebii Pokemon: Charmander isSwSh: False
+Processing Serebii Pokemon: Charmeleon isSwSh: False
+Processing Serebii Pokemon: Charizard isSwSh: False
+Processing Serebii Pokemon: Squirtle isSwSh: False
+Processing Serebii Pokemon: Wartortle isSwSh: False
+Processing Serebii Pokemon: Blastoise isSwSh: False
+Processing Serebii Pokemon: Caterpie isSwSh: False
+Processing Serebii Pokemon: Metapod isSwSh: False
+Processing Serebii Pokemon: Butterfree isSwSh: False
+Processing Serebii Pokemon: Weedle isSwSh: False
+Processing Serebii Pokemon: Kakuna isSwSh: False
+Processing Serebii Pokemon: Beedrill isSwSh: False
+Processing Serebii Pokemon: Pidgey isSwSh: False
+Processing Serebii Pokemon: Pidgeotto isSwSh: False
+Processing Serebii Pokemon: Pidgeot isSwSh: False
+Processing Serebii Pokemon: Rattata isSwSh: False
+Processing Serebii Pokemon: Raticate isSwSh: False
+Processing Serebii Pokemon: Spearow isSwSh: False
+Processing Serebii Pokemon: Fearow isSwSh: False
+Processing Serebii Pokemon: Ekans isSwSh: False
+Processing Serebii Pokemon: Arbok isSwSh: False
+Processing Serebii Pokemon: Pikachu isSwSh: False
+Processing Serebii Pokemon: Raichu isSwSh: False
+Processing Serebii Pokemon: Sandshrew isSwSh: False
+Processing Serebii Pokemon: Sandslash isSwSh: False
+Processing Serebii Pokemon: Nidoran♀ isSwSh: False
+Processing Serebii Pokemon: Nidorina isSwSh: False
+Processing Serebii Pokemon: Nidoqueen isSwSh: False
+Processing Serebii Pokemon: Nidoran♂ isSwSh: False
+Processing Serebii Pokemon: Nidorino isSwSh: False
+Processing Serebii Pokemon: Nidoking isSwSh: False
+Processing Serebii Pokemon: Clefairy isSwSh: False
+Processing Serebii Pokemon: Clefable isSwSh: False
+Processing Serebii Pokemon: Vulpix isSwSh: False
+Processing Serebii Pokemon: Ninetales isSwSh: False
+Processing Serebii Pokemon: Jigglypuff isSwSh: False
+Processing Serebii Pokemon: Wigglytuff isSwSh: False
+Processing Serebii Pokemon: Zubat isSwSh: False
+Processing Serebii Pokemon: Golbat isSwSh: False
+Processing Serebii Pokemon: Oddish isSwSh: False
+Processing Serebii Pokemon: Gloom isSwSh: False
+Processing Serebii Pokemon: Vileplume isSwSh: False
+Processing Serebii Pokemon: Paras isSwSh: False
+Processing Serebii Pokemon: Parasect isSwSh: False
+Processing Serebii Pokemon: Venonat isSwSh: False
+Processing Serebii Pokemon: Venomoth isSwSh: False
+Processing Serebii Pokemon: Diglett isSwSh: False
+Processing Serebii Pokemon: Dugtrio isSwSh: False
+Processing Serebii Pokemon: Meowth isSwSh: False
+Processing Serebii Pokemon: Persian isSwSh: False
+Processing Serebii Pokemon: Psyduck isSwSh: False
+Processing Serebii Pokemon: Golduck isSwSh: False
+Processing Serebii Pokemon: Mankey isSwSh: False
+Processing Serebii Pokemon: Primeape isSwSh: False
+Processing Serebii Pokemon: Growlithe isSwSh: False
+Processing Serebii Pokemon: Arcanine isSwSh: False
+Processing Serebii Pokemon: Poliwag isSwSh: False
+Processing Serebii Pokemon: Poliwhirl isSwSh: False
+Processing Serebii Pokemon: Poliwrath isSwSh: False
+Processing Serebii Pokemon: Abra isSwSh: False
+Processing Serebii Pokemon: Kadabra isSwSh: False
+Processing Serebii Pokemon: Alakazam isSwSh: False
+Processing Serebii Pokemon: Machop isSwSh: False
+Processing Serebii Pokemon: Machoke isSwSh: False
+Processing Serebii Pokemon: Machamp isSwSh: False
+Processing Serebii Pokemon: Bellsprout isSwSh: False
+Processing Serebii Pokemon: Weepinbell isSwSh: False
+Processing Serebii Pokemon: Victreebel isSwSh: False
+Processing Serebii Pokemon: Tentacool isSwSh: False
+Processing Serebii Pokemon: Tentacruel isSwSh: False
+Processing Serebii Pokemon: Geodude isSwSh: False
+Processing Serebii Pokemon: Graveler isSwSh: False
+Processing Serebii Pokemon: Golem isSwSh: False
+Processing Serebii Pokemon: Ponyta isSwSh: False
+Processing Serebii Pokemon: Rapidash isSwSh: False
+Processing Serebii Pokemon: Slowpoke isSwSh: False
+Processing Serebii Pokemon: Slowbro isSwSh: False
+Processing Serebii Pokemon: Magnemite isSwSh: False
+Processing Serebii Pokemon: Magneton isSwSh: False
+Processing Serebii Pokemon: Farfetch'd isSwSh: False
+Processing Serebii Pokemon: Doduo isSwSh: False
+Processing Serebii Pokemon: Dodrio isSwSh: False
+Processing Serebii Pokemon: Seel isSwSh: False
+Processing Serebii Pokemon: Dewgong isSwSh: False
+Processing Serebii Pokemon: Grimer isSwSh: False
+Processing Serebii Pokemon: Muk isSwSh: False
+Processing Serebii Pokemon: Shellder isSwSh: False
+Processing Serebii Pokemon: Cloyster isSwSh: False
+Processing Serebii Pokemon: Gastly isSwSh: False
+Processing Serebii Pokemon: Haunter isSwSh: False
+Processing Serebii Pokemon: Gengar isSwSh: False
+Processing Serebii Pokemon: Onix isSwSh: False
+Processing Serebii Pokemon: Drowzee isSwSh: False
+Processing Serebii Pokemon: Hypno isSwSh: False
+Processing Serebii Pokemon: Krabby isSwSh: False
+Processing Serebii Pokemon: Kingler isSwSh: False
+Processing Serebii Pokemon: Voltorb isSwSh: False
+Processing Serebii Pokemon: Electrode isSwSh: False
+Processing Serebii Pokemon: Exeggcute isSwSh: False
+Processing Serebii Pokemon: Exeggutor isSwSh: False
+Processing Serebii Pokemon: Cubone isSwSh: False
+Processing Serebii Pokemon: Marowak isSwSh: False
+Processing Serebii Pokemon: Hitmonlee isSwSh: False
+Processing Serebii Pokemon: Hitmonchan isSwSh: False
+Processing Serebii Pokemon: Lickitung isSwSh: False
+Processing Serebii Pokemon: Koffing isSwSh: False
+Processing Serebii Pokemon: Weezing isSwSh: False
+Processing Serebii Pokemon: Rhyhorn isSwSh: False
+Processing Serebii Pokemon: Rhydon isSwSh: False
+Processing Serebii Pokemon: Chansey isSwSh: False
+Processing Serebii Pokemon: Tangela isSwSh: False
+Processing Serebii Pokemon: Kangaskhan isSwSh: False
+Processing Serebii Pokemon: Horsea isSwSh: False
+Processing Serebii Pokemon: Seadra isSwSh: False
+Processing Serebii Pokemon: Goldeen isSwSh: False
+Processing Serebii Pokemon: Seaking isSwSh: False
+Processing Serebii Pokemon: Staryu isSwSh: False
+Processing Serebii Pokemon: Starmie isSwSh: False
+Processing Serebii Pokemon: Mr. Mime isSwSh: False
+Processing Serebii Pokemon: Scyther isSwSh: False
+Processing Serebii Pokemon: Jynx isSwSh: False
+Processing Serebii Pokemon: Electabuzz isSwSh: False
+Processing Serebii Pokemon: Magmar isSwSh: False
+Processing Serebii Pokemon: Pinsir isSwSh: False
+Processing Serebii Pokemon: Tauros isSwSh: False
+Processing Serebii Pokemon: Magikarp isSwSh: False
+Processing Serebii Pokemon: Gyarados isSwSh: False
+Processing Serebii Pokemon: Lapras isSwSh: False
+Processing Serebii Pokemon: Ditto isSwSh: False
+Processing Serebii Pokemon: Eevee isSwSh: False
+Processing Serebii Pokemon: Vaporeon isSwSh: False
+Processing Serebii Pokemon: Jolteon isSwSh: False
+Processing Serebii Pokemon: Flareon isSwSh: False
+Processing Serebii Pokemon: Porygon isSwSh: False
+Processing Serebii Pokemon: Omanyte isSwSh: False
+Processing Serebii Pokemon: Omastar isSwSh: False
+Processing Serebii Pokemon: Kabuto isSwSh: False
+Processing Serebii Pokemon: Kabutops isSwSh: False
+Processing Serebii Pokemon: Aerodactyl isSwSh: False
+Processing Serebii Pokemon: Snorlax isSwSh: False
+Processing Serebii Pokemon: Articuno isSwSh: False
+Processing Serebii Pokemon: Zapdos isSwSh: False
+Processing Serebii Pokemon: Moltres isSwSh: False
+Processing Serebii Pokemon: Dratini isSwSh: False
+Processing Serebii Pokemon: Dragonair isSwSh: False
+Processing Serebii Pokemon: Dragonite isSwSh: False
+Processing Serebii Pokemon: Mewtwo isSwSh: False
+Processing Serebii Pokemon: Mew isSwSh: False
+Processing Serebii Pokemon: Meltan isSwSh: False
+Processing Serebii Pokemon: Melmetal isSwSh: False
 .\rawData\serebii_swsh_101_200.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Exeggcute
-Processing Serebii Pokemon: Exeggutor
-Processing Serebii Pokemon: Cubone
-Processing Serebii Pokemon: Marowak
-Processing Serebii Pokemon: Hitmonlee
-Processing Serebii Pokemon: Hitmonchan
-Processing Serebii Pokemon: Lickitung
-Processing Serebii Pokemon: Koffing
-Processing Serebii Pokemon: Weezing
-Processing Serebii Pokemon: Rhyhorn
-Processing Serebii Pokemon: Rhydon
-Processing Serebii Pokemon: Chansey
-Processing Serebii Pokemon: Tangela
-Processing Serebii Pokemon: Kangaskhan
-Processing Serebii Pokemon: Horsea
-Processing Serebii Pokemon: Seadra
-Processing Serebii Pokemon: Goldeen
-Processing Serebii Pokemon: Seaking
-Processing Serebii Pokemon: Staryu
-Processing Serebii Pokemon: Starmie
-Processing Serebii Pokemon: Mr. Mime
-Processing Serebii Pokemon: Scyther
-Processing Serebii Pokemon: Pinsir
-Processing Serebii Pokemon: Tauros
-Processing Serebii Pokemon: Magikarp
-Processing Serebii Pokemon: Gyarados
-Processing Serebii Pokemon: Lapras
-Processing Serebii Pokemon: Ditto
-Processing Serebii Pokemon: Eevee
-Processing Serebii Pokemon: Vaporeon
-Processing Serebii Pokemon: Jolteon
-Processing Serebii Pokemon: Flareon
-Processing Serebii Pokemon: Porygon
-Processing Serebii Pokemon: Snorlax
-Processing Serebii Pokemon: Mewtwo
-Processing Serebii Pokemon: Mew
-Processing Serebii Pokemon: Hoothoot
-Processing Serebii Pokemon: Noctowl
-Processing Serebii Pokemon: Chinchou
-Processing Serebii Pokemon: Lanturn
-Processing Serebii Pokemon: Pichu
-Processing Serebii Pokemon: Cleffa
-Processing Serebii Pokemon: Igglybuff
-Processing Serebii Pokemon: Togepi
-Processing Serebii Pokemon: Togetic
-Processing Serebii Pokemon: Natu
-Processing Serebii Pokemon: Xatu
-Processing Serebii Pokemon: Bellossom
-Processing Serebii Pokemon: Marill
-Processing Serebii Pokemon: Azumarill
-Processing Serebii Pokemon: Sudowoodo
-Processing Serebii Pokemon: Politoed
-Processing Serebii Pokemon: Wooper
-Processing Serebii Pokemon: Quagsire
-Processing Serebii Pokemon: Espeon
-Processing Serebii Pokemon: Umbreon
-Processing Serebii Pokemon: Slowking
+Processing Serebii Pokemon: Exeggcute isSwSh: True
+Processing Serebii Pokemon: Exeggutor isSwSh: True
+Processing Serebii Pokemon: Cubone isSwSh: True
+Processing Serebii Pokemon: Marowak isSwSh: True
+Processing Serebii Pokemon: Hitmonlee isSwSh: True
+Processing Serebii Pokemon: Hitmonchan isSwSh: True
+Processing Serebii Pokemon: Lickitung isSwSh: True
+Processing Serebii Pokemon: Koffing isSwSh: True
+Processing Serebii Pokemon: Weezing isSwSh: True
+Processing Serebii Pokemon: Rhyhorn isSwSh: True
+Processing Serebii Pokemon: Rhydon isSwSh: True
+Processing Serebii Pokemon: Chansey isSwSh: True
+Processing Serebii Pokemon: Tangela isSwSh: True
+Processing Serebii Pokemon: Kangaskhan isSwSh: True
+Processing Serebii Pokemon: Horsea isSwSh: True
+Processing Serebii Pokemon: Seadra isSwSh: True
+Processing Serebii Pokemon: Goldeen isSwSh: True
+Processing Serebii Pokemon: Seaking isSwSh: True
+Processing Serebii Pokemon: Staryu isSwSh: True
+Processing Serebii Pokemon: Starmie isSwSh: True
+Processing Serebii Pokemon: Mr. Mime isSwSh: True
+Processing Serebii Pokemon: Scyther isSwSh: True
+Processing Serebii Pokemon: Pinsir isSwSh: True
+Processing Serebii Pokemon: Tauros isSwSh: True
+Processing Serebii Pokemon: Magikarp isSwSh: True
+Processing Serebii Pokemon: Gyarados isSwSh: True
+Processing Serebii Pokemon: Lapras isSwSh: True
+Processing Serebii Pokemon: Ditto isSwSh: True
+Processing Serebii Pokemon: Eevee isSwSh: True
+Processing Serebii Pokemon: Vaporeon isSwSh: True
+Processing Serebii Pokemon: Jolteon isSwSh: True
+Processing Serebii Pokemon: Flareon isSwSh: True
+Processing Serebii Pokemon: Porygon isSwSh: True
+Processing Serebii Pokemon: Snorlax isSwSh: True
+Processing Serebii Pokemon: Mewtwo isSwSh: True
+Processing Serebii Pokemon: Mew isSwSh: True
+Processing Serebii Pokemon: Hoothoot isSwSh: True
+Processing Serebii Pokemon: Noctowl isSwSh: True
+Processing Serebii Pokemon: Chinchou isSwSh: True
+Processing Serebii Pokemon: Lanturn isSwSh: True
+Processing Serebii Pokemon: Pichu isSwSh: True
+Processing Serebii Pokemon: Cleffa isSwSh: True
+Processing Serebii Pokemon: Igglybuff isSwSh: True
+Processing Serebii Pokemon: Togepi isSwSh: True
+Processing Serebii Pokemon: Togetic isSwSh: True
+Processing Serebii Pokemon: Natu isSwSh: True
+Processing Serebii Pokemon: Xatu isSwSh: True
+Processing Serebii Pokemon: Bellossom isSwSh: True
+Processing Serebii Pokemon: Marill isSwSh: True
+Processing Serebii Pokemon: Azumarill isSwSh: True
+Processing Serebii Pokemon: Sudowoodo isSwSh: True
+Processing Serebii Pokemon: Politoed isSwSh: True
+Processing Serebii Pokemon: Wooper isSwSh: True
+Processing Serebii Pokemon: Quagsire isSwSh: True
+Processing Serebii Pokemon: Espeon isSwSh: True
+Processing Serebii Pokemon: Umbreon isSwSh: True
+Processing Serebii Pokemon: Slowking isSwSh: True
 .\rawData\serebii_swsh_1_100.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Bulbasaur
-Processing Serebii Pokemon: Ivysaur
-Processing Serebii Pokemon: Venusaur
-Processing Serebii Pokemon: Charmander
-Processing Serebii Pokemon: Charmeleon
-Processing Serebii Pokemon: Charizard
-Processing Serebii Pokemon: Squirtle
-Processing Serebii Pokemon: Wartortle
-Processing Serebii Pokemon: Blastoise
-Processing Serebii Pokemon: Caterpie
-Processing Serebii Pokemon: Metapod
-Processing Serebii Pokemon: Butterfree
-Processing Serebii Pokemon: Pikachu
-Processing Serebii Pokemon: Raichu
-Processing Serebii Pokemon: Sandshrew
-Processing Serebii Pokemon: Sandslash
-Processing Serebii Pokemon: Clefairy
-Processing Serebii Pokemon: Clefable
-Processing Serebii Pokemon: Vulpix
-Processing Serebii Pokemon: Ninetales
-Processing Serebii Pokemon: Jigglypuff
-Processing Serebii Pokemon: Wigglytuff
-Processing Serebii Pokemon: Oddish
-Processing Serebii Pokemon: Gloom
-Processing Serebii Pokemon: Vileplume
-Processing Serebii Pokemon: Diglett
-Processing Serebii Pokemon: Dugtrio
-Processing Serebii Pokemon: Meowth
-Processing Serebii Pokemon: Persian
-Processing Serebii Pokemon: Psyduck
-Processing Serebii Pokemon: Golduck
-Processing Serebii Pokemon: Growlithe
-Processing Serebii Pokemon: Arcanine
-Processing Serebii Pokemon: Poliwag
-Processing Serebii Pokemon: Poliwhirl
-Processing Serebii Pokemon: Poliwrath
-Processing Serebii Pokemon: Abra
-Processing Serebii Pokemon: Kadabra
-Processing Serebii Pokemon: Alakazam
-Processing Serebii Pokemon: Machop
-Processing Serebii Pokemon: Machoke
-Processing Serebii Pokemon: Machamp
-Processing Serebii Pokemon: Tentacool
-Processing Serebii Pokemon: Tentacruel
-Processing Serebii Pokemon: Ponyta
-Processing Serebii Pokemon: Rapidash
-Processing Serebii Pokemon: Slowpoke
-Processing Serebii Pokemon: Slowbro
-Processing Serebii Pokemon: Magnemite
-Processing Serebii Pokemon: Magneton
-Processing Serebii Pokemon: Farfetch'd
-Processing Serebii Pokemon: Shellder
-Processing Serebii Pokemon: Cloyster
-Processing Serebii Pokemon: Gastly
-Processing Serebii Pokemon: Haunter
-Processing Serebii Pokemon: Gengar
-Processing Serebii Pokemon: Onix
-Processing Serebii Pokemon: Krabby
-Processing Serebii Pokemon: Kingler
+Processing Serebii Pokemon: Bulbasaur isSwSh: True
+Processing Serebii Pokemon: Ivysaur isSwSh: True
+Processing Serebii Pokemon: Venusaur isSwSh: True
+Processing Serebii Pokemon: Charmander isSwSh: True
+Processing Serebii Pokemon: Charmeleon isSwSh: True
+Processing Serebii Pokemon: Charizard isSwSh: True
+Processing Serebii Pokemon: Squirtle isSwSh: True
+Processing Serebii Pokemon: Wartortle isSwSh: True
+Processing Serebii Pokemon: Blastoise isSwSh: True
+Processing Serebii Pokemon: Caterpie isSwSh: True
+Processing Serebii Pokemon: Metapod isSwSh: True
+Processing Serebii Pokemon: Butterfree isSwSh: True
+Processing Serebii Pokemon: Pikachu isSwSh: True
+Processing Serebii Pokemon: Raichu isSwSh: True
+Processing Serebii Pokemon: Sandshrew isSwSh: True
+Processing Serebii Pokemon: Sandslash isSwSh: True
+Processing Serebii Pokemon: Clefairy isSwSh: True
+Processing Serebii Pokemon: Clefable isSwSh: True
+Processing Serebii Pokemon: Vulpix isSwSh: True
+Processing Serebii Pokemon: Ninetales isSwSh: True
+Processing Serebii Pokemon: Jigglypuff isSwSh: True
+Processing Serebii Pokemon: Wigglytuff isSwSh: True
+Processing Serebii Pokemon: Oddish isSwSh: True
+Processing Serebii Pokemon: Gloom isSwSh: True
+Processing Serebii Pokemon: Vileplume isSwSh: True
+Processing Serebii Pokemon: Diglett isSwSh: True
+Processing Serebii Pokemon: Dugtrio isSwSh: True
+Processing Serebii Pokemon: Meowth isSwSh: True
+Processing Serebii Pokemon: Persian isSwSh: True
+Processing Serebii Pokemon: Psyduck isSwSh: True
+Processing Serebii Pokemon: Golduck isSwSh: True
+Processing Serebii Pokemon: Growlithe isSwSh: True
+Processing Serebii Pokemon: Arcanine isSwSh: True
+Processing Serebii Pokemon: Poliwag isSwSh: True
+Processing Serebii Pokemon: Poliwhirl isSwSh: True
+Processing Serebii Pokemon: Poliwrath isSwSh: True
+Processing Serebii Pokemon: Abra isSwSh: True
+Processing Serebii Pokemon: Kadabra isSwSh: True
+Processing Serebii Pokemon: Alakazam isSwSh: True
+Processing Serebii Pokemon: Machop isSwSh: True
+Processing Serebii Pokemon: Machoke isSwSh: True
+Processing Serebii Pokemon: Machamp isSwSh: True
+Processing Serebii Pokemon: Tentacool isSwSh: True
+Processing Serebii Pokemon: Tentacruel isSwSh: True
+Processing Serebii Pokemon: Ponyta isSwSh: True
+Processing Serebii Pokemon: Rapidash isSwSh: True
+Processing Serebii Pokemon: Slowpoke isSwSh: True
+Processing Serebii Pokemon: Slowbro isSwSh: True
+Processing Serebii Pokemon: Magnemite isSwSh: True
+Processing Serebii Pokemon: Magneton isSwSh: True
+Processing Serebii Pokemon: Farfetch'd isSwSh: True
+Processing Serebii Pokemon: Shellder isSwSh: True
+Processing Serebii Pokemon: Cloyster isSwSh: True
+Processing Serebii Pokemon: Gastly isSwSh: True
+Processing Serebii Pokemon: Haunter isSwSh: True
+Processing Serebii Pokemon: Gengar isSwSh: True
+Processing Serebii Pokemon: Onix isSwSh: True
+Processing Serebii Pokemon: Krabby isSwSh: True
+Processing Serebii Pokemon: Kingler isSwSh: True
 .\rawData\serebii_swsh_201_300.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Wobbuffet
-Processing Serebii Pokemon: Dunsparce
-Processing Serebii Pokemon: Steelix
-Processing Serebii Pokemon: Qwilfish
-Processing Serebii Pokemon: Scizor
-Processing Serebii Pokemon: Shuckle
-Processing Serebii Pokemon: Heracross
-Processing Serebii Pokemon: Sneasel
-Processing Serebii Pokemon: Swinub
-Processing Serebii Pokemon: Piloswine
-Processing Serebii Pokemon: Corsola
-Processing Serebii Pokemon: Remoraid
-Processing Serebii Pokemon: Octillery
-Processing Serebii Pokemon: Delibird
-Processing Serebii Pokemon: Mantine
-Processing Serebii Pokemon: Skarmory
-Processing Serebii Pokemon: Kingdra
-Processing Serebii Pokemon: Porygon2
-Processing Serebii Pokemon: Tyrogue
-Processing Serebii Pokemon: Hitmontop
-Processing Serebii Pokemon: Miltank
-Processing Serebii Pokemon: Blissey
-Processing Serebii Pokemon: Larvitar
-Processing Serebii Pokemon: Pupitar
-Processing Serebii Pokemon: Tyranitar
-Processing Serebii Pokemon: Celebi
-Processing Serebii Pokemon: Zigzagoon
-Processing Serebii Pokemon: Linoone
-Processing Serebii Pokemon: Lotad
-Processing Serebii Pokemon: Lombre
-Processing Serebii Pokemon: Ludicolo
-Processing Serebii Pokemon: Seedot
-Processing Serebii Pokemon: Nuzleaf
-Processing Serebii Pokemon: Shiftry
-Processing Serebii Pokemon: Wingull
-Processing Serebii Pokemon: Pelipper
-Processing Serebii Pokemon: Ralts
-Processing Serebii Pokemon: Kirlia
-Processing Serebii Pokemon: Gardevoir
-Processing Serebii Pokemon: Nincada
-Processing Serebii Pokemon: Ninjask
-Processing Serebii Pokemon: Shedinja
-Processing Serebii Pokemon: Whismur
-Processing Serebii Pokemon: Loudred
-Processing Serebii Pokemon: Exploud
-Processing Serebii Pokemon: Azurill
+Processing Serebii Pokemon: Wobbuffet isSwSh: True
+Processing Serebii Pokemon: Dunsparce isSwSh: True
+Processing Serebii Pokemon: Steelix isSwSh: True
+Processing Serebii Pokemon: Qwilfish isSwSh: True
+Processing Serebii Pokemon: Scizor isSwSh: True
+Processing Serebii Pokemon: Shuckle isSwSh: True
+Processing Serebii Pokemon: Heracross isSwSh: True
+Processing Serebii Pokemon: Sneasel isSwSh: True
+Processing Serebii Pokemon: Swinub isSwSh: True
+Processing Serebii Pokemon: Piloswine isSwSh: True
+Processing Serebii Pokemon: Corsola isSwSh: True
+Processing Serebii Pokemon: Remoraid isSwSh: True
+Processing Serebii Pokemon: Octillery isSwSh: True
+Processing Serebii Pokemon: Delibird isSwSh: True
+Processing Serebii Pokemon: Mantine isSwSh: True
+Processing Serebii Pokemon: Skarmory isSwSh: True
+Processing Serebii Pokemon: Kingdra isSwSh: True
+Processing Serebii Pokemon: Porygon2 isSwSh: True
+Processing Serebii Pokemon: Tyrogue isSwSh: True
+Processing Serebii Pokemon: Hitmontop isSwSh: True
+Processing Serebii Pokemon: Miltank isSwSh: True
+Processing Serebii Pokemon: Blissey isSwSh: True
+Processing Serebii Pokemon: Larvitar isSwSh: True
+Processing Serebii Pokemon: Pupitar isSwSh: True
+Processing Serebii Pokemon: Tyranitar isSwSh: True
+Processing Serebii Pokemon: Celebi isSwSh: True
+Processing Serebii Pokemon: Zigzagoon isSwSh: True
+Processing Serebii Pokemon: Linoone isSwSh: True
+Processing Serebii Pokemon: Lotad isSwSh: True
+Processing Serebii Pokemon: Lombre isSwSh: True
+Processing Serebii Pokemon: Ludicolo isSwSh: True
+Processing Serebii Pokemon: Seedot isSwSh: True
+Processing Serebii Pokemon: Nuzleaf isSwSh: True
+Processing Serebii Pokemon: Shiftry isSwSh: True
+Processing Serebii Pokemon: Wingull isSwSh: True
+Processing Serebii Pokemon: Pelipper isSwSh: True
+Processing Serebii Pokemon: Ralts isSwSh: True
+Processing Serebii Pokemon: Kirlia isSwSh: True
+Processing Serebii Pokemon: Gardevoir isSwSh: True
+Processing Serebii Pokemon: Nincada isSwSh: True
+Processing Serebii Pokemon: Ninjask isSwSh: True
+Processing Serebii Pokemon: Shedinja isSwSh: True
+Processing Serebii Pokemon: Whismur isSwSh: True
+Processing Serebii Pokemon: Loudred isSwSh: True
+Processing Serebii Pokemon: Exploud isSwSh: True
+Processing Serebii Pokemon: Azurill isSwSh: True
 .\rawData\serebii_swsh_301_400.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Sableye
-Processing Serebii Pokemon: Mawile
-Processing Serebii Pokemon: Electrike
-Processing Serebii Pokemon: Manectric
-Processing Serebii Pokemon: Roselia
-Processing Serebii Pokemon: Carvanha
-Processing Serebii Pokemon: Sharpedo
-Processing Serebii Pokemon: Wailmer
-Processing Serebii Pokemon: Wailord
-Processing Serebii Pokemon: Torkoal
-Processing Serebii Pokemon: Trapinch
-Processing Serebii Pokemon: Vibrava
-Processing Serebii Pokemon: Flygon
-Processing Serebii Pokemon: Lunatone
-Processing Serebii Pokemon: Solrock
-Processing Serebii Pokemon: Barboach
-Processing Serebii Pokemon: Whiscash
-Processing Serebii Pokemon: Corphish
-Processing Serebii Pokemon: Crawdaunt
-Processing Serebii Pokemon: Baltoy
-Processing Serebii Pokemon: Claydol
-Processing Serebii Pokemon: Feebas
-Processing Serebii Pokemon: Milotic
-Processing Serebii Pokemon: Duskull
-Processing Serebii Pokemon: Dusclops
-Processing Serebii Pokemon: Wynaut
-Processing Serebii Pokemon: Snorunt
-Processing Serebii Pokemon: Glalie
-Processing Serebii Pokemon: Jirachi
+Processing Serebii Pokemon: Sableye isSwSh: True
+Processing Serebii Pokemon: Mawile isSwSh: True
+Processing Serebii Pokemon: Electrike isSwSh: True
+Processing Serebii Pokemon: Manectric isSwSh: True
+Processing Serebii Pokemon: Roselia isSwSh: True
+Processing Serebii Pokemon: Carvanha isSwSh: True
+Processing Serebii Pokemon: Sharpedo isSwSh: True
+Processing Serebii Pokemon: Wailmer isSwSh: True
+Processing Serebii Pokemon: Wailord isSwSh: True
+Processing Serebii Pokemon: Torkoal isSwSh: True
+Processing Serebii Pokemon: Trapinch isSwSh: True
+Processing Serebii Pokemon: Vibrava isSwSh: True
+Processing Serebii Pokemon: Flygon isSwSh: True
+Processing Serebii Pokemon: Lunatone isSwSh: True
+Processing Serebii Pokemon: Solrock isSwSh: True
+Processing Serebii Pokemon: Barboach isSwSh: True
+Processing Serebii Pokemon: Whiscash isSwSh: True
+Processing Serebii Pokemon: Corphish isSwSh: True
+Processing Serebii Pokemon: Crawdaunt isSwSh: True
+Processing Serebii Pokemon: Baltoy isSwSh: True
+Processing Serebii Pokemon: Claydol isSwSh: True
+Processing Serebii Pokemon: Feebas isSwSh: True
+Processing Serebii Pokemon: Milotic isSwSh: True
+Processing Serebii Pokemon: Duskull isSwSh: True
+Processing Serebii Pokemon: Dusclops isSwSh: True
+Processing Serebii Pokemon: Wynaut isSwSh: True
+Processing Serebii Pokemon: Snorunt isSwSh: True
+Processing Serebii Pokemon: Glalie isSwSh: True
+Processing Serebii Pokemon: Jirachi isSwSh: True
 .\rawData\serebii_swsh_401_500.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Shinx
-Processing Serebii Pokemon: Luxio
-Processing Serebii Pokemon: Luxray
-Processing Serebii Pokemon: Budew
-Processing Serebii Pokemon: Roserade
-Processing Serebii Pokemon: Combee
-Processing Serebii Pokemon: Vespiquen
-Processing Serebii Pokemon: Cherubi
-Processing Serebii Pokemon: Cherrim
-Processing Serebii Pokemon: Shellos
-Processing Serebii Pokemon: Gastrodon
-Processing Serebii Pokemon: Drifloon
-Processing Serebii Pokemon: Drifblim
-Processing Serebii Pokemon: Buneary
-Processing Serebii Pokemon: Lopunny
-Processing Serebii Pokemon: Stunky
-Processing Serebii Pokemon: Skuntank
-Processing Serebii Pokemon: Bronzor
-Processing Serebii Pokemon: Bronzong
-Processing Serebii Pokemon: Bonsly
-Processing Serebii Pokemon: Mime Jr.
-Processing Serebii Pokemon: Happiny
-Processing Serebii Pokemon: Munchlax
-Processing Serebii Pokemon: Riolu
-Processing Serebii Pokemon: Lucario
-Processing Serebii Pokemon: Hippopotas
-Processing Serebii Pokemon: Hippowdon
-Processing Serebii Pokemon: Skorupi
-Processing Serebii Pokemon: Drapion
-Processing Serebii Pokemon: Croagunk
-Processing Serebii Pokemon: Toxicroak
-Processing Serebii Pokemon: Mantyke
-Processing Serebii Pokemon: Snover
-Processing Serebii Pokemon: Abomasnow
-Processing Serebii Pokemon: Weavile
-Processing Serebii Pokemon: Magnezone
-Processing Serebii Pokemon: Lickilicky
-Processing Serebii Pokemon: Rhyperior
-Processing Serebii Pokemon: Tangrowth
-Processing Serebii Pokemon: Togekiss
-Processing Serebii Pokemon: Leafeon
-Processing Serebii Pokemon: Glaceon
-Processing Serebii Pokemon: Mamoswine
-Processing Serebii Pokemon: Porygon-Z
-Processing Serebii Pokemon: Gallade
-Processing Serebii Pokemon: Dusknoir
-Processing Serebii Pokemon: Froslass
-Processing Serebii Pokemon: Rotom
+Processing Serebii Pokemon: Shinx isSwSh: True
+Processing Serebii Pokemon: Luxio isSwSh: True
+Processing Serebii Pokemon: Luxray isSwSh: True
+Processing Serebii Pokemon: Budew isSwSh: True
+Processing Serebii Pokemon: Roserade isSwSh: True
+Processing Serebii Pokemon: Combee isSwSh: True
+Processing Serebii Pokemon: Vespiquen isSwSh: True
+Processing Serebii Pokemon: Cherubi isSwSh: True
+Processing Serebii Pokemon: Cherrim isSwSh: True
+Processing Serebii Pokemon: Shellos isSwSh: True
+Processing Serebii Pokemon: Gastrodon isSwSh: True
+Processing Serebii Pokemon: Drifloon isSwSh: True
+Processing Serebii Pokemon: Drifblim isSwSh: True
+Processing Serebii Pokemon: Buneary isSwSh: True
+Processing Serebii Pokemon: Lopunny isSwSh: True
+Processing Serebii Pokemon: Stunky isSwSh: True
+Processing Serebii Pokemon: Skuntank isSwSh: True
+Processing Serebii Pokemon: Bronzor isSwSh: True
+Processing Serebii Pokemon: Bronzong isSwSh: True
+Processing Serebii Pokemon: Bonsly isSwSh: True
+Processing Serebii Pokemon: Mime Jr. isSwSh: True
+Processing Serebii Pokemon: Happiny isSwSh: True
+Processing Serebii Pokemon: Munchlax isSwSh: True
+Processing Serebii Pokemon: Riolu isSwSh: True
+Processing Serebii Pokemon: Lucario isSwSh: True
+Processing Serebii Pokemon: Hippopotas isSwSh: True
+Processing Serebii Pokemon: Hippowdon isSwSh: True
+Processing Serebii Pokemon: Skorupi isSwSh: True
+Processing Serebii Pokemon: Drapion isSwSh: True
+Processing Serebii Pokemon: Croagunk isSwSh: True
+Processing Serebii Pokemon: Toxicroak isSwSh: True
+Processing Serebii Pokemon: Mantyke isSwSh: True
+Processing Serebii Pokemon: Snover isSwSh: True
+Processing Serebii Pokemon: Abomasnow isSwSh: True
+Processing Serebii Pokemon: Weavile isSwSh: True
+Processing Serebii Pokemon: Magnezone isSwSh: True
+Processing Serebii Pokemon: Lickilicky isSwSh: True
+Processing Serebii Pokemon: Rhyperior isSwSh: True
+Processing Serebii Pokemon: Tangrowth isSwSh: True
+Processing Serebii Pokemon: Togekiss isSwSh: True
+Processing Serebii Pokemon: Leafeon isSwSh: True
+Processing Serebii Pokemon: Glaceon isSwSh: True
+Processing Serebii Pokemon: Mamoswine isSwSh: True
+Processing Serebii Pokemon: Porygon-Z isSwSh: True
+Processing Serebii Pokemon: Gallade isSwSh: True
+Processing Serebii Pokemon: Dusknoir isSwSh: True
+Processing Serebii Pokemon: Froslass isSwSh: True
+Processing Serebii Pokemon: Rotom isSwSh: True
 .\rawData\serebii_swsh_501_600.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Lillipup
-Processing Serebii Pokemon: Herdier
-Processing Serebii Pokemon: Stoutland
-Processing Serebii Pokemon: Purrloin
-Processing Serebii Pokemon: Liepard
-Processing Serebii Pokemon: Munna
-Processing Serebii Pokemon: Musharna
-Processing Serebii Pokemon: Pidove
-Processing Serebii Pokemon: Tranquill
-Processing Serebii Pokemon: Unfezant
-Processing Serebii Pokemon: Roggenrola
-Processing Serebii Pokemon: Boldore
-Processing Serebii Pokemon: Gigalith
-Processing Serebii Pokemon: Woobat
-Processing Serebii Pokemon: Swoobat
-Processing Serebii Pokemon: Drilbur
-Processing Serebii Pokemon: Excadrill
-Processing Serebii Pokemon: Timburr
-Processing Serebii Pokemon: Gurdurr
-Processing Serebii Pokemon: Conkeldurr
-Processing Serebii Pokemon: Tympole
-Processing Serebii Pokemon: Palpitoad
-Processing Serebii Pokemon: Seismitoad
-Processing Serebii Pokemon: Throh
-Processing Serebii Pokemon: Sawk
-Processing Serebii Pokemon: Venipede
-Processing Serebii Pokemon: Whirlipede
-Processing Serebii Pokemon: Scolipede
-Processing Serebii Pokemon: Cottonee
-Processing Serebii Pokemon: Whimsicott
-Processing Serebii Pokemon: Petilil
-Processing Serebii Pokemon: Lilligant
-Processing Serebii Pokemon: Basculin
-Processing Serebii Pokemon: Sandile
-Processing Serebii Pokemon: Krokorok
-Processing Serebii Pokemon: Krookodile
-Processing Serebii Pokemon: Darumaka
-Processing Serebii Pokemon: Darmanitan
-Processing Serebii Pokemon: Maractus
-Processing Serebii Pokemon: Dwebble
-Processing Serebii Pokemon: Crustle
-Processing Serebii Pokemon: Scraggy
-Processing Serebii Pokemon: Scrafty
-Processing Serebii Pokemon: Sigilyph
-Processing Serebii Pokemon: Yamask
-Processing Serebii Pokemon: Cofagrigus
-Processing Serebii Pokemon: Trubbish
-Processing Serebii Pokemon: Garbodor
-Processing Serebii Pokemon: Zorua
-Processing Serebii Pokemon: Zoroark
-Processing Serebii Pokemon: Minccino
-Processing Serebii Pokemon: Cinccino
-Processing Serebii Pokemon: Gothita
-Processing Serebii Pokemon: Gothorita
-Processing Serebii Pokemon: Gothitelle
-Processing Serebii Pokemon: Solosis
-Processing Serebii Pokemon: Duosion
-Processing Serebii Pokemon: Reuniclus
-Processing Serebii Pokemon: Vanillite
-Processing Serebii Pokemon: Vanillish
-Processing Serebii Pokemon: Vanilluxe
-Processing Serebii Pokemon: Emolga
-Processing Serebii Pokemon: Karrablast
-Processing Serebii Pokemon: Escavalier
-Processing Serebii Pokemon: Foongus
-Processing Serebii Pokemon: Amoonguss
-Processing Serebii Pokemon: Frillish
-Processing Serebii Pokemon: Jellicent
-Processing Serebii Pokemon: Joltik
-Processing Serebii Pokemon: Galvantula
-Processing Serebii Pokemon: Ferroseed
-Processing Serebii Pokemon: Ferrothorn
-Processing Serebii Pokemon: Klink
-Processing Serebii Pokemon: Klang
+Processing Serebii Pokemon: Lillipup isSwSh: True
+Processing Serebii Pokemon: Herdier isSwSh: True
+Processing Serebii Pokemon: Stoutland isSwSh: True
+Processing Serebii Pokemon: Purrloin isSwSh: True
+Processing Serebii Pokemon: Liepard isSwSh: True
+Processing Serebii Pokemon: Munna isSwSh: True
+Processing Serebii Pokemon: Musharna isSwSh: True
+Processing Serebii Pokemon: Pidove isSwSh: True
+Processing Serebii Pokemon: Tranquill isSwSh: True
+Processing Serebii Pokemon: Unfezant isSwSh: True
+Processing Serebii Pokemon: Roggenrola isSwSh: True
+Processing Serebii Pokemon: Boldore isSwSh: True
+Processing Serebii Pokemon: Gigalith isSwSh: True
+Processing Serebii Pokemon: Woobat isSwSh: True
+Processing Serebii Pokemon: Swoobat isSwSh: True
+Processing Serebii Pokemon: Drilbur isSwSh: True
+Processing Serebii Pokemon: Excadrill isSwSh: True
+Processing Serebii Pokemon: Timburr isSwSh: True
+Processing Serebii Pokemon: Gurdurr isSwSh: True
+Processing Serebii Pokemon: Conkeldurr isSwSh: True
+Processing Serebii Pokemon: Tympole isSwSh: True
+Processing Serebii Pokemon: Palpitoad isSwSh: True
+Processing Serebii Pokemon: Seismitoad isSwSh: True
+Processing Serebii Pokemon: Throh isSwSh: True
+Processing Serebii Pokemon: Sawk isSwSh: True
+Processing Serebii Pokemon: Venipede isSwSh: True
+Processing Serebii Pokemon: Whirlipede isSwSh: True
+Processing Serebii Pokemon: Scolipede isSwSh: True
+Processing Serebii Pokemon: Cottonee isSwSh: True
+Processing Serebii Pokemon: Whimsicott isSwSh: True
+Processing Serebii Pokemon: Petilil isSwSh: True
+Processing Serebii Pokemon: Lilligant isSwSh: True
+Processing Serebii Pokemon: Basculin isSwSh: True
+Processing Serebii Pokemon: Sandile isSwSh: True
+Processing Serebii Pokemon: Krokorok isSwSh: True
+Processing Serebii Pokemon: Krookodile isSwSh: True
+Processing Serebii Pokemon: Darumaka isSwSh: True
+Processing Serebii Pokemon: Darmanitan isSwSh: True
+Processing Serebii Pokemon: Maractus isSwSh: True
+Processing Serebii Pokemon: Dwebble isSwSh: True
+Processing Serebii Pokemon: Crustle isSwSh: True
+Processing Serebii Pokemon: Scraggy isSwSh: True
+Processing Serebii Pokemon: Scrafty isSwSh: True
+Processing Serebii Pokemon: Sigilyph isSwSh: True
+Processing Serebii Pokemon: Yamask isSwSh: True
+Processing Serebii Pokemon: Cofagrigus isSwSh: True
+Processing Serebii Pokemon: Trubbish isSwSh: True
+Processing Serebii Pokemon: Garbodor isSwSh: True
+Processing Serebii Pokemon: Zorua isSwSh: True
+Processing Serebii Pokemon: Zoroark isSwSh: True
+Processing Serebii Pokemon: Minccino isSwSh: True
+Processing Serebii Pokemon: Cinccino isSwSh: True
+Processing Serebii Pokemon: Gothita isSwSh: True
+Processing Serebii Pokemon: Gothorita isSwSh: True
+Processing Serebii Pokemon: Gothitelle isSwSh: True
+Processing Serebii Pokemon: Solosis isSwSh: True
+Processing Serebii Pokemon: Duosion isSwSh: True
+Processing Serebii Pokemon: Reuniclus isSwSh: True
+Processing Serebii Pokemon: Vanillite isSwSh: True
+Processing Serebii Pokemon: Vanillish isSwSh: True
+Processing Serebii Pokemon: Vanilluxe isSwSh: True
+Processing Serebii Pokemon: Emolga isSwSh: True
+Processing Serebii Pokemon: Karrablast isSwSh: True
+Processing Serebii Pokemon: Escavalier isSwSh: True
+Processing Serebii Pokemon: Foongus isSwSh: True
+Processing Serebii Pokemon: Amoonguss isSwSh: True
+Processing Serebii Pokemon: Frillish isSwSh: True
+Processing Serebii Pokemon: Jellicent isSwSh: True
+Processing Serebii Pokemon: Joltik isSwSh: True
+Processing Serebii Pokemon: Galvantula isSwSh: True
+Processing Serebii Pokemon: Ferroseed isSwSh: True
+Processing Serebii Pokemon: Ferrothorn isSwSh: True
+Processing Serebii Pokemon: Klink isSwSh: True
+Processing Serebii Pokemon: Klang isSwSh: True
 .\rawData\serebii_swsh_601_700.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Klinklang
-Processing Serebii Pokemon: Elgyem
-Processing Serebii Pokemon: Beheeyem
-Processing Serebii Pokemon: Litwick
-Processing Serebii Pokemon: Lampent
-Processing Serebii Pokemon: Chandelure
-Processing Serebii Pokemon: Axew
-Processing Serebii Pokemon: Fraxure
-Processing Serebii Pokemon: Haxorus
-Processing Serebii Pokemon: Cubchoo
-Processing Serebii Pokemon: Beartic
-Processing Serebii Pokemon: Shelmet
-Processing Serebii Pokemon: Accelgor
-Processing Serebii Pokemon: Stunfisk
-Processing Serebii Pokemon: Mienfoo
-Processing Serebii Pokemon: Mienshao
-Processing Serebii Pokemon: Druddigon
-Processing Serebii Pokemon: Golett
-Processing Serebii Pokemon: Golurk
-Processing Serebii Pokemon: Pawniard
-Processing Serebii Pokemon: Bisharp
-Processing Serebii Pokemon: Bouffalant
-Processing Serebii Pokemon: Rufflet
-Processing Serebii Pokemon: Braviary
-Processing Serebii Pokemon: Vullaby
-Processing Serebii Pokemon: Mandibuzz
-Processing Serebii Pokemon: Heatmor
-Processing Serebii Pokemon: Durant
-Processing Serebii Pokemon: Deino
-Processing Serebii Pokemon: Zweilous
-Processing Serebii Pokemon: Hydreigon
-Processing Serebii Pokemon: Larvesta
-Processing Serebii Pokemon: Volcarona
-Processing Serebii Pokemon: Cobalion
-Processing Serebii Pokemon: Terrakion
-Processing Serebii Pokemon: Virizion
-Processing Serebii Pokemon: Reshiram
-Processing Serebii Pokemon: Zekrom
-Processing Serebii Pokemon: Kyurem
-Processing Serebii Pokemon: Keldeo
-Processing Serebii Pokemon: Bunnelby
-Processing Serebii Pokemon: Diggersby
-Processing Serebii Pokemon: Fletchling
-Processing Serebii Pokemon: Fletchinder
-Processing Serebii Pokemon: Talonflame
-Processing Serebii Pokemon: Pancham
-Processing Serebii Pokemon: Pangoro
-Processing Serebii Pokemon: Espurr
-Processing Serebii Pokemon: Meowstic
-Processing Serebii Pokemon: Honedge
-Processing Serebii Pokemon: Doublade
-Processing Serebii Pokemon: Aegislash
-Processing Serebii Pokemon: Spritzee
-Processing Serebii Pokemon: Aromatisse
-Processing Serebii Pokemon: Swirlix
-Processing Serebii Pokemon: Slurpuff
-Processing Serebii Pokemon: Inkay
-Processing Serebii Pokemon: Malamar
-Processing Serebii Pokemon: Binacle
-Processing Serebii Pokemon: Barbaracle
-Processing Serebii Pokemon: Skrelp
-Processing Serebii Pokemon: Dragalge
-Processing Serebii Pokemon: Clauncher
-Processing Serebii Pokemon: Clawitzer
-Processing Serebii Pokemon: Helioptile
-Processing Serebii Pokemon: Heliolisk
-Processing Serebii Pokemon: Sylveon
+Processing Serebii Pokemon: Klinklang isSwSh: True
+Processing Serebii Pokemon: Elgyem isSwSh: True
+Processing Serebii Pokemon: Beheeyem isSwSh: True
+Processing Serebii Pokemon: Litwick isSwSh: True
+Processing Serebii Pokemon: Lampent isSwSh: True
+Processing Serebii Pokemon: Chandelure isSwSh: True
+Processing Serebii Pokemon: Axew isSwSh: True
+Processing Serebii Pokemon: Fraxure isSwSh: True
+Processing Serebii Pokemon: Haxorus isSwSh: True
+Processing Serebii Pokemon: Cubchoo isSwSh: True
+Processing Serebii Pokemon: Beartic isSwSh: True
+Processing Serebii Pokemon: Shelmet isSwSh: True
+Processing Serebii Pokemon: Accelgor isSwSh: True
+Processing Serebii Pokemon: Stunfisk isSwSh: True
+Processing Serebii Pokemon: Mienfoo isSwSh: True
+Processing Serebii Pokemon: Mienshao isSwSh: True
+Processing Serebii Pokemon: Druddigon isSwSh: True
+Processing Serebii Pokemon: Golett isSwSh: True
+Processing Serebii Pokemon: Golurk isSwSh: True
+Processing Serebii Pokemon: Pawniard isSwSh: True
+Processing Serebii Pokemon: Bisharp isSwSh: True
+Processing Serebii Pokemon: Bouffalant isSwSh: True
+Processing Serebii Pokemon: Rufflet isSwSh: True
+Processing Serebii Pokemon: Braviary isSwSh: True
+Processing Serebii Pokemon: Vullaby isSwSh: True
+Processing Serebii Pokemon: Mandibuzz isSwSh: True
+Processing Serebii Pokemon: Heatmor isSwSh: True
+Processing Serebii Pokemon: Durant isSwSh: True
+Processing Serebii Pokemon: Deino isSwSh: True
+Processing Serebii Pokemon: Zweilous isSwSh: True
+Processing Serebii Pokemon: Hydreigon isSwSh: True
+Processing Serebii Pokemon: Larvesta isSwSh: True
+Processing Serebii Pokemon: Volcarona isSwSh: True
+Processing Serebii Pokemon: Cobalion isSwSh: True
+Processing Serebii Pokemon: Terrakion isSwSh: True
+Processing Serebii Pokemon: Virizion isSwSh: True
+Processing Serebii Pokemon: Reshiram isSwSh: True
+Processing Serebii Pokemon: Zekrom isSwSh: True
+Processing Serebii Pokemon: Kyurem isSwSh: True
+Processing Serebii Pokemon: Keldeo isSwSh: True
+Processing Serebii Pokemon: Bunnelby isSwSh: True
+Processing Serebii Pokemon: Diggersby isSwSh: True
+Processing Serebii Pokemon: Fletchling isSwSh: True
+Processing Serebii Pokemon: Fletchinder isSwSh: True
+Processing Serebii Pokemon: Talonflame isSwSh: True
+Processing Serebii Pokemon: Pancham isSwSh: True
+Processing Serebii Pokemon: Pangoro isSwSh: True
+Processing Serebii Pokemon: Espurr isSwSh: True
+Processing Serebii Pokemon: Meowstic isSwSh: True
+Processing Serebii Pokemon: Honedge isSwSh: True
+Processing Serebii Pokemon: Doublade isSwSh: True
+Processing Serebii Pokemon: Aegislash isSwSh: True
+Processing Serebii Pokemon: Spritzee isSwSh: True
+Processing Serebii Pokemon: Aromatisse isSwSh: True
+Processing Serebii Pokemon: Swirlix isSwSh: True
+Processing Serebii Pokemon: Slurpuff isSwSh: True
+Processing Serebii Pokemon: Inkay isSwSh: True
+Processing Serebii Pokemon: Malamar isSwSh: True
+Processing Serebii Pokemon: Binacle isSwSh: True
+Processing Serebii Pokemon: Barbaracle isSwSh: True
+Processing Serebii Pokemon: Skrelp isSwSh: True
+Processing Serebii Pokemon: Dragalge isSwSh: True
+Processing Serebii Pokemon: Clauncher isSwSh: True
+Processing Serebii Pokemon: Clawitzer isSwSh: True
+Processing Serebii Pokemon: Helioptile isSwSh: True
+Processing Serebii Pokemon: Heliolisk isSwSh: True
+Processing Serebii Pokemon: Sylveon isSwSh: True
 .\rawData\serebii_swsh_701_807.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Hawlucha
-Processing Serebii Pokemon: Dedenne
-Processing Serebii Pokemon: Goomy
-Processing Serebii Pokemon: Sliggoo
-Processing Serebii Pokemon: Goodra
-Processing Serebii Pokemon: Klefki
-Processing Serebii Pokemon: Phantump
-Processing Serebii Pokemon: Trevenant
-Processing Serebii Pokemon: Pumpkaboo
-Processing Serebii Pokemon: Gourgeist
-Processing Serebii Pokemon: Bergmite
-Processing Serebii Pokemon: Avalugg
-Processing Serebii Pokemon: Noibat
-Processing Serebii Pokemon: Noivern
-Processing Serebii Pokemon: Rowlet
-Processing Serebii Pokemon: Dartrix
-Processing Serebii Pokemon: Decidueye
-Processing Serebii Pokemon: Litten
-Processing Serebii Pokemon: Torracat
-Processing Serebii Pokemon: Incineroar
-Processing Serebii Pokemon: Popplio
-Processing Serebii Pokemon: Brionne
-Processing Serebii Pokemon: Primarina
-Processing Serebii Pokemon: Grubbin
-Processing Serebii Pokemon: Charjabug
-Processing Serebii Pokemon: Vikavolt
-Processing Serebii Pokemon: Cutiefly
-Processing Serebii Pokemon: Ribombee
-Processing Serebii Pokemon: Rockruff
-Processing Serebii Pokemon: Lycanroc
-Processing Serebii Pokemon: Wishiwashi
-Processing Serebii Pokemon: Mareanie
-Processing Serebii Pokemon: Toxapex
-Processing Serebii Pokemon: Mudbray
-Processing Serebii Pokemon: Mudsdale
-Processing Serebii Pokemon: Dewpider
-Processing Serebii Pokemon: Araquanid
-Processing Serebii Pokemon: Fomantis
-Processing Serebii Pokemon: Lurantis
-Processing Serebii Pokemon: Morelull
-Processing Serebii Pokemon: Shiinotic
-Processing Serebii Pokemon: Salandit
-Processing Serebii Pokemon: Salazzle
-Processing Serebii Pokemon: Stufful
-Processing Serebii Pokemon: Bewear
-Processing Serebii Pokemon: Bounsweet
-Processing Serebii Pokemon: Steenee
-Processing Serebii Pokemon: Tsareena
-Processing Serebii Pokemon: Comfey
-Processing Serebii Pokemon: Oranguru
-Processing Serebii Pokemon: Passimian
-Processing Serebii Pokemon: Wimpod
-Processing Serebii Pokemon: Golisopod
-Processing Serebii Pokemon: Sandygast
-Processing Serebii Pokemon: Palossand
-Processing Serebii Pokemon: Pyukumuku
-Processing Serebii Pokemon: Type: Null
-Processing Serebii Pokemon: Silvally
-Processing Serebii Pokemon: Turtonator
-Processing Serebii Pokemon: Togedemaru
-Processing Serebii Pokemon: Mimikyu
-Processing Serebii Pokemon: Drampa
-Processing Serebii Pokemon: Dhelmise
-Processing Serebii Pokemon: Jangmo-o
-Processing Serebii Pokemon: Hakamo-o
-Processing Serebii Pokemon: Kommo-o
-Processing Serebii Pokemon: Cosmog
-Processing Serebii Pokemon: Cosmoem
-Processing Serebii Pokemon: Solgaleo
-Processing Serebii Pokemon: Lunala
-Processing Serebii Pokemon: Necrozma
-Processing Serebii Pokemon: Magearna
-Processing Serebii Pokemon: Marshadow
-Processing Serebii Pokemon: Zeraora
+Processing Serebii Pokemon: Hawlucha isSwSh: True
+Processing Serebii Pokemon: Dedenne isSwSh: True
+Processing Serebii Pokemon: Goomy isSwSh: True
+Processing Serebii Pokemon: Sliggoo isSwSh: True
+Processing Serebii Pokemon: Goodra isSwSh: True
+Processing Serebii Pokemon: Klefki isSwSh: True
+Processing Serebii Pokemon: Phantump isSwSh: True
+Processing Serebii Pokemon: Trevenant isSwSh: True
+Processing Serebii Pokemon: Pumpkaboo isSwSh: True
+Processing Serebii Pokemon: Gourgeist isSwSh: True
+Processing Serebii Pokemon: Bergmite isSwSh: True
+Processing Serebii Pokemon: Avalugg isSwSh: True
+Processing Serebii Pokemon: Noibat isSwSh: True
+Processing Serebii Pokemon: Noivern isSwSh: True
+Processing Serebii Pokemon: Rowlet isSwSh: True
+Processing Serebii Pokemon: Dartrix isSwSh: True
+Processing Serebii Pokemon: Decidueye isSwSh: True
+Processing Serebii Pokemon: Litten isSwSh: True
+Processing Serebii Pokemon: Torracat isSwSh: True
+Processing Serebii Pokemon: Incineroar isSwSh: True
+Processing Serebii Pokemon: Popplio isSwSh: True
+Processing Serebii Pokemon: Brionne isSwSh: True
+Processing Serebii Pokemon: Primarina isSwSh: True
+Processing Serebii Pokemon: Grubbin isSwSh: True
+Processing Serebii Pokemon: Charjabug isSwSh: True
+Processing Serebii Pokemon: Vikavolt isSwSh: True
+Processing Serebii Pokemon: Cutiefly isSwSh: True
+Processing Serebii Pokemon: Ribombee isSwSh: True
+Processing Serebii Pokemon: Rockruff isSwSh: True
+Processing Serebii Pokemon: Lycanroc isSwSh: True
+Processing Serebii Pokemon: Wishiwashi isSwSh: True
+Processing Serebii Pokemon: Mareanie isSwSh: True
+Processing Serebii Pokemon: Toxapex isSwSh: True
+Processing Serebii Pokemon: Mudbray isSwSh: True
+Processing Serebii Pokemon: Mudsdale isSwSh: True
+Processing Serebii Pokemon: Dewpider isSwSh: True
+Processing Serebii Pokemon: Araquanid isSwSh: True
+Processing Serebii Pokemon: Fomantis isSwSh: True
+Processing Serebii Pokemon: Lurantis isSwSh: True
+Processing Serebii Pokemon: Morelull isSwSh: True
+Processing Serebii Pokemon: Shiinotic isSwSh: True
+Processing Serebii Pokemon: Salandit isSwSh: True
+Processing Serebii Pokemon: Salazzle isSwSh: True
+Processing Serebii Pokemon: Stufful isSwSh: True
+Processing Serebii Pokemon: Bewear isSwSh: True
+Processing Serebii Pokemon: Bounsweet isSwSh: True
+Processing Serebii Pokemon: Steenee isSwSh: True
+Processing Serebii Pokemon: Tsareena isSwSh: True
+Processing Serebii Pokemon: Comfey isSwSh: True
+Processing Serebii Pokemon: Oranguru isSwSh: True
+Processing Serebii Pokemon: Passimian isSwSh: True
+Processing Serebii Pokemon: Wimpod isSwSh: True
+Processing Serebii Pokemon: Golisopod isSwSh: True
+Processing Serebii Pokemon: Sandygast isSwSh: True
+Processing Serebii Pokemon: Palossand isSwSh: True
+Processing Serebii Pokemon: Pyukumuku isSwSh: True
+Processing Serebii Pokemon: Type: Null isSwSh: True
+Processing Serebii Pokemon: Silvally isSwSh: True
+Processing Serebii Pokemon: Turtonator isSwSh: True
+Processing Serebii Pokemon: Togedemaru isSwSh: True
+Processing Serebii Pokemon: Mimikyu isSwSh: True
+Processing Serebii Pokemon: Drampa isSwSh: True
+Processing Serebii Pokemon: Dhelmise isSwSh: True
+Processing Serebii Pokemon: Jangmo-o isSwSh: True
+Processing Serebii Pokemon: Hakamo-o isSwSh: True
+Processing Serebii Pokemon: Kommo-o isSwSh: True
+Processing Serebii Pokemon: Cosmog isSwSh: True
+Processing Serebii Pokemon: Cosmoem isSwSh: True
+Processing Serebii Pokemon: Solgaleo isSwSh: True
+Processing Serebii Pokemon: Lunala isSwSh: True
+Processing Serebii Pokemon: Necrozma isSwSh: True
+Processing Serebii Pokemon: Magearna isSwSh: True
+Processing Serebii Pokemon: Marshadow isSwSh: True
+Processing Serebii Pokemon: Zeraora isSwSh: True
 .\rawData\serebii_swsh_808_893.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Meltan
-Processing Serebii Pokemon: Melmetal
-Processing Serebii Pokemon: Grookey
-Processing Serebii Pokemon: Thwackey
-Processing Serebii Pokemon: Rillaboom
-Processing Serebii Pokemon: Scorbunny
-Processing Serebii Pokemon: Raboot
-Processing Serebii Pokemon: Cinderace
-Processing Serebii Pokemon: Sobble
-Processing Serebii Pokemon: Drizzile
-Processing Serebii Pokemon: Inteleon
-Processing Serebii Pokemon: Skwovet
-Processing Serebii Pokemon: Greedent
-Processing Serebii Pokemon: Rookidee
-Processing Serebii Pokemon: Corvisquire
-Processing Serebii Pokemon: Corviknight
-Processing Serebii Pokemon: Blipbug
-Processing Serebii Pokemon: Dottler
-Processing Serebii Pokemon: Orbeetle
-Processing Serebii Pokemon: Nickit
-Processing Serebii Pokemon: Thievul
-Processing Serebii Pokemon: Gossifleur
-Processing Serebii Pokemon: Eldegoss
-Processing Serebii Pokemon: Wooloo
-Processing Serebii Pokemon: Dubwool
-Processing Serebii Pokemon: Chewtle
-Processing Serebii Pokemon: Drednaw
-Processing Serebii Pokemon: Yamper
-Processing Serebii Pokemon: Boltund
-Processing Serebii Pokemon: Rolycoly
-Processing Serebii Pokemon: Carkol
-Processing Serebii Pokemon: Coalossal
-Processing Serebii Pokemon: Applin
-Processing Serebii Pokemon: Flapple
-Processing Serebii Pokemon: Appletun
-Processing Serebii Pokemon: Silicobra
-Processing Serebii Pokemon: Sandaconda
-Processing Serebii Pokemon: Cramorant
-Processing Serebii Pokemon: Arrokuda
-Processing Serebii Pokemon: Barraskewda
-Processing Serebii Pokemon: Toxel
-Processing Serebii Pokemon: Toxtricity
-Processing Serebii Pokemon: Sizzlipede
-Processing Serebii Pokemon: Centiskorch
-Processing Serebii Pokemon: Clobbopus
-Processing Serebii Pokemon: Grapploct
-Processing Serebii Pokemon: Sinistea
-Processing Serebii Pokemon: Polteageist
-Processing Serebii Pokemon: Hatenna
-Processing Serebii Pokemon: Hattrem
-Processing Serebii Pokemon: Hatterene
-Processing Serebii Pokemon: Impidimp
-Processing Serebii Pokemon: Morgrem
-Processing Serebii Pokemon: Grimmsnarl
-Processing Serebii Pokemon: Obstagoon
-Processing Serebii Pokemon: Perrserker
-Processing Serebii Pokemon: Cursola
-Processing Serebii Pokemon: Sirfetch'd
-Processing Serebii Pokemon: Mr. Rime
-Processing Serebii Pokemon: Runerigus
-Processing Serebii Pokemon: Milcery
-Processing Serebii Pokemon: Alcremie
-Processing Serebii Pokemon: Falinks
-Processing Serebii Pokemon: Pincurchin
-Processing Serebii Pokemon: Snom
-Processing Serebii Pokemon: Frosmoth
-Processing Serebii Pokemon: Stonjourner
-Processing Serebii Pokemon: Eiscue
-Processing Serebii Pokemon: Indeedee
-Processing Serebii Pokemon: Morpeko
-Processing Serebii Pokemon: Cufant
-Processing Serebii Pokemon: Copperajah
-Processing Serebii Pokemon: Dracozolt
-Processing Serebii Pokemon: Arctozolt
-Processing Serebii Pokemon: Dracovish
-Processing Serebii Pokemon: Arctovish
-Processing Serebii Pokemon: Duraludon
-Processing Serebii Pokemon: Dreepy
-Processing Serebii Pokemon: Drakloak
-Processing Serebii Pokemon: Dragapult
-Processing Serebii Pokemon: Zacian
-Processing Serebii Pokemon: Zamazenta
-Processing Serebii Pokemon: Eternatus
-Processing Serebii Pokemon: Kubfu
-Processing Serebii Pokemon: Urshifu
-Processing Serebii Pokemon: Zarude
+Processing Serebii Pokemon: Meltan isSwSh: True
+Processing Serebii Pokemon: Melmetal isSwSh: True
+Processing Serebii Pokemon: Grookey isSwSh: True
+Processing Serebii Pokemon: Thwackey isSwSh: True
+Processing Serebii Pokemon: Rillaboom isSwSh: True
+Processing Serebii Pokemon: Scorbunny isSwSh: True
+Processing Serebii Pokemon: Raboot isSwSh: True
+Processing Serebii Pokemon: Cinderace isSwSh: True
+Processing Serebii Pokemon: Sobble isSwSh: True
+Processing Serebii Pokemon: Drizzile isSwSh: True
+Processing Serebii Pokemon: Inteleon isSwSh: True
+Processing Serebii Pokemon: Skwovet isSwSh: True
+Processing Serebii Pokemon: Greedent isSwSh: True
+Processing Serebii Pokemon: Rookidee isSwSh: True
+Processing Serebii Pokemon: Corvisquire isSwSh: True
+Processing Serebii Pokemon: Corviknight isSwSh: True
+Processing Serebii Pokemon: Blipbug isSwSh: True
+Processing Serebii Pokemon: Dottler isSwSh: True
+Processing Serebii Pokemon: Orbeetle isSwSh: True
+Processing Serebii Pokemon: Nickit isSwSh: True
+Processing Serebii Pokemon: Thievul isSwSh: True
+Processing Serebii Pokemon: Gossifleur isSwSh: True
+Processing Serebii Pokemon: Eldegoss isSwSh: True
+Processing Serebii Pokemon: Wooloo isSwSh: True
+Processing Serebii Pokemon: Dubwool isSwSh: True
+Processing Serebii Pokemon: Chewtle isSwSh: True
+Processing Serebii Pokemon: Drednaw isSwSh: True
+Processing Serebii Pokemon: Yamper isSwSh: True
+Processing Serebii Pokemon: Boltund isSwSh: True
+Processing Serebii Pokemon: Rolycoly isSwSh: True
+Processing Serebii Pokemon: Carkol isSwSh: True
+Processing Serebii Pokemon: Coalossal isSwSh: True
+Processing Serebii Pokemon: Applin isSwSh: True
+Processing Serebii Pokemon: Flapple isSwSh: True
+Processing Serebii Pokemon: Appletun isSwSh: True
+Processing Serebii Pokemon: Silicobra isSwSh: True
+Processing Serebii Pokemon: Sandaconda isSwSh: True
+Processing Serebii Pokemon: Cramorant isSwSh: True
+Processing Serebii Pokemon: Arrokuda isSwSh: True
+Processing Serebii Pokemon: Barraskewda isSwSh: True
+Processing Serebii Pokemon: Toxel isSwSh: True
+Processing Serebii Pokemon: Toxtricity isSwSh: True
+Processing Serebii Pokemon: Sizzlipede isSwSh: True
+Processing Serebii Pokemon: Centiskorch isSwSh: True
+Processing Serebii Pokemon: Clobbopus isSwSh: True
+Processing Serebii Pokemon: Grapploct isSwSh: True
+Processing Serebii Pokemon: Sinistea isSwSh: True
+Processing Serebii Pokemon: Polteageist isSwSh: True
+Processing Serebii Pokemon: Hatenna isSwSh: True
+Processing Serebii Pokemon: Hattrem isSwSh: True
+Processing Serebii Pokemon: Hatterene isSwSh: True
+Processing Serebii Pokemon: Impidimp isSwSh: True
+Processing Serebii Pokemon: Morgrem isSwSh: True
+Processing Serebii Pokemon: Grimmsnarl isSwSh: True
+Processing Serebii Pokemon: Obstagoon isSwSh: True
+Processing Serebii Pokemon: Perrserker isSwSh: True
+Processing Serebii Pokemon: Cursola isSwSh: True
+Processing Serebii Pokemon: Sirfetch'd isSwSh: True
+Processing Serebii Pokemon: Mr. Rime isSwSh: True
+Processing Serebii Pokemon: Runerigus isSwSh: True
+Processing Serebii Pokemon: Milcery isSwSh: True
+Processing Serebii Pokemon: Alcremie isSwSh: True
+Processing Serebii Pokemon: Falinks isSwSh: True
+Processing Serebii Pokemon: Pincurchin isSwSh: True
+Processing Serebii Pokemon: Snom isSwSh: True
+Processing Serebii Pokemon: Frosmoth isSwSh: True
+Processing Serebii Pokemon: Stonjourner isSwSh: True
+Processing Serebii Pokemon: Eiscue isSwSh: True
+Processing Serebii Pokemon: Indeedee isSwSh: True
+Processing Serebii Pokemon: Morpeko isSwSh: True
+Processing Serebii Pokemon: Cufant isSwSh: True
+Processing Serebii Pokemon: Copperajah isSwSh: True
+Processing Serebii Pokemon: Dracozolt isSwSh: True
+Processing Serebii Pokemon: Arctozolt isSwSh: True
+Processing Serebii Pokemon: Dracovish isSwSh: True
+Processing Serebii Pokemon: Arctovish isSwSh: True
+Processing Serebii Pokemon: Duraludon isSwSh: True
+Processing Serebii Pokemon: Dreepy isSwSh: True
+Processing Serebii Pokemon: Drakloak isSwSh: True
+Processing Serebii Pokemon: Dragapult isSwSh: True
+Processing Serebii Pokemon: Zacian isSwSh: True
+Processing Serebii Pokemon: Zamazenta isSwSh: True
+Processing Serebii Pokemon: Eternatus isSwSh: True
+Processing Serebii Pokemon: Kubfu isSwSh: True
+Processing Serebii Pokemon: Urshifu isSwSh: True
+Processing Serebii Pokemon: Zarude isSwSh: True
 .\rawData\serebii_usum_move_tutor.json
 Processing Spelling Fixes
-Processing Serebii Pokemon: Bulbasaur
-Processing Serebii Pokemon: Ivysaur
-Processing Serebii Pokemon: Venusaur
-Processing Serebii Pokemon: Charmander
-Processing Serebii Pokemon: Charmeleon
-Processing Serebii Pokemon: Charizard
-Processing Serebii Pokemon: Squirtle
-Processing Serebii Pokemon: Wartortle
-Processing Serebii Pokemon: Blastoise
-Processing Serebii Pokemon: Caterpie
-Processing Serebii Pokemon: Metapod
-Processing Serebii Pokemon: Butterfree
-Processing Serebii Pokemon: Weedle
-Processing Serebii Pokemon: Kakuna
-Processing Serebii Pokemon: Beedrill
-Processing Serebii Pokemon: Pidgey
-Processing Serebii Pokemon: Pidgeotto
-Processing Serebii Pokemon: Pidgeot
-Processing Serebii Pokemon: Rattata
-Processing Serebii Pokemon: Raticate
-Processing Serebii Pokemon: Spearow
-Processing Serebii Pokemon: Fearow
-Processing Serebii Pokemon: Ekans
-Processing Serebii Pokemon: Arbok
-Processing Serebii Pokemon: Pikachu
-Processing Serebii Pokemon: Raichu
-Processing Serebii Pokemon: Sandshrew
-Processing Serebii Pokemon: Sandslash
-Processing Serebii Pokemon: Nidoran♀
-Processing Serebii Pokemon: Nidorina
-Processing Serebii Pokemon: Nidoqueen
-Processing Serebii Pokemon: Nidoran♂
-Processing Serebii Pokemon: Nidorino
-Processing Serebii Pokemon: Nidoking
-Processing Serebii Pokemon: Clefairy
-Processing Serebii Pokemon: Clefable
-Processing Serebii Pokemon: Vulpix
-Processing Serebii Pokemon: Ninetales
-Processing Serebii Pokemon: Jigglypuff
-Processing Serebii Pokemon: Wigglytuff
-Processing Serebii Pokemon: Zubat
-Processing Serebii Pokemon: Golbat
-Processing Serebii Pokemon: Oddish
-Processing Serebii Pokemon: Gloom
-Processing Serebii Pokemon: Vileplume
-Processing Serebii Pokemon: Paras
-Processing Serebii Pokemon: Parasect
-Processing Serebii Pokemon: Venonat
-Processing Serebii Pokemon: Venomoth
-Processing Serebii Pokemon: Diglett
-Processing Serebii Pokemon: Dugtrio
-Processing Serebii Pokemon: Meowth
-Processing Serebii Pokemon: Persian
-Processing Serebii Pokemon: Psyduck
-Processing Serebii Pokemon: Golduck
-Processing Serebii Pokemon: Mankey
-Processing Serebii Pokemon: Primeape
-Processing Serebii Pokemon: Growlithe
-Processing Serebii Pokemon: Arcanine
-Processing Serebii Pokemon: Poliwag
-Processing Serebii Pokemon: Poliwhirl
-Processing Serebii Pokemon: Poliwrath
-Processing Serebii Pokemon: Abra
-Processing Serebii Pokemon: Kadabra
-Processing Serebii Pokemon: Alakazam
-Processing Serebii Pokemon: Machop
-Processing Serebii Pokemon: Machoke
-Processing Serebii Pokemon: Machamp
-Processing Serebii Pokemon: Bellsprout
-Processing Serebii Pokemon: Weepinbell
-Processing Serebii Pokemon: Victreebel
-Processing Serebii Pokemon: Tentacool
-Processing Serebii Pokemon: Tentacruel
-Processing Serebii Pokemon: Geodude
-Processing Serebii Pokemon: Graveler
-Processing Serebii Pokemon: Golem
-Processing Serebii Pokemon: Ponyta
-Processing Serebii Pokemon: Rapidash
-Processing Serebii Pokemon: Slowpoke
-Processing Serebii Pokemon: Slowbro
-Processing Serebii Pokemon: Magnemite
-Processing Serebii Pokemon: Magneton
-Processing Serebii Pokemon: Farfetch'd
-Processing Serebii Pokemon: Doduo
-Processing Serebii Pokemon: Dodrio
-Processing Serebii Pokemon: Seel
-Processing Serebii Pokemon: Dewgong
-Processing Serebii Pokemon: Grimer
-Processing Serebii Pokemon: Muk
-Processing Serebii Pokemon: Shellder
-Processing Serebii Pokemon: Cloyster
-Processing Serebii Pokemon: Gastly
-Processing Serebii Pokemon: Haunter
-Processing Serebii Pokemon: Gengar
-Processing Serebii Pokemon: Onix
-Processing Serebii Pokemon: Drowzee
-Processing Serebii Pokemon: Hypno
-Processing Serebii Pokemon: Krabby
-Processing Serebii Pokemon: Kingler
-Processing Serebii Pokemon: Voltorb
-Processing Serebii Pokemon: Electrode
-Processing Serebii Pokemon: Exeggcute
-Processing Serebii Pokemon: Exeggutor
-Processing Serebii Pokemon: Cubone
-Processing Serebii Pokemon: Marowak
-Processing Serebii Pokemon: Hitmonlee
-Processing Serebii Pokemon: Hitmonchan
-Processing Serebii Pokemon: Lickitung
-Processing Serebii Pokemon: Koffing
-Processing Serebii Pokemon: Weezing
-Processing Serebii Pokemon: Rhyhorn
-Processing Serebii Pokemon: Rhydon
-Processing Serebii Pokemon: Chansey
-Processing Serebii Pokemon: Tangela
-Processing Serebii Pokemon: Kangaskhan
-Processing Serebii Pokemon: Horsea
-Processing Serebii Pokemon: Seadra
-Processing Serebii Pokemon: Goldeen
-Processing Serebii Pokemon: Seaking
-Processing Serebii Pokemon: Staryu
-Processing Serebii Pokemon: Starmie
-Processing Serebii Pokemon: Mr. Mime
-Processing Serebii Pokemon: Scyther
-Processing Serebii Pokemon: Jynx
-Processing Serebii Pokemon: Electabuzz
-Processing Serebii Pokemon: Magmar
-Processing Serebii Pokemon: Pinsir
-Processing Serebii Pokemon: Tauros
-Processing Serebii Pokemon: Magikarp
-Processing Serebii Pokemon: Gyarados
-Processing Serebii Pokemon: Lapras
-Processing Serebii Pokemon: Eevee
-Processing Serebii Pokemon: Vaporeon
-Processing Serebii Pokemon: Jolteon
-Processing Serebii Pokemon: Flareon
-Processing Serebii Pokemon: Porygon
-Processing Serebii Pokemon: Omanyte
-Processing Serebii Pokemon: Omastar
-Processing Serebii Pokemon: Kabuto
-Processing Serebii Pokemon: Kabutops
-Processing Serebii Pokemon: Aerodactyl
-Processing Serebii Pokemon: Snorlax
-Processing Serebii Pokemon: Articuno
-Processing Serebii Pokemon: Zapdos
-Processing Serebii Pokemon: Moltres
-Processing Serebii Pokemon: Dratini
-Processing Serebii Pokemon: Dragonair
-Processing Serebii Pokemon: Dragonite
-Processing Serebii Pokemon: Mewtwo
-Processing Serebii Pokemon: Mew
-Processing Serebii Pokemon: Chikorita
-Processing Serebii Pokemon: Bayleef
-Processing Serebii Pokemon: Meganium
-Processing Serebii Pokemon: Cyndaquil
-Processing Serebii Pokemon: Quilava
-Processing Serebii Pokemon: Typhlosion
-Processing Serebii Pokemon: Totodile
-Processing Serebii Pokemon: Croconaw
-Processing Serebii Pokemon: Feraligatr
-Processing Serebii Pokemon: Sentret
-Processing Serebii Pokemon: Furret
-Processing Serebii Pokemon: Hoothoot
-Processing Serebii Pokemon: Noctowl
-Processing Serebii Pokemon: Ledyba
-Processing Serebii Pokemon: Ledian
-Processing Serebii Pokemon: Spinarak
-Processing Serebii Pokemon: Ariados
-Processing Serebii Pokemon: Crobat
-Processing Serebii Pokemon: Chinchou
-Processing Serebii Pokemon: Lanturn
-Processing Serebii Pokemon: Pichu
-Processing Serebii Pokemon: Cleffa
-Processing Serebii Pokemon: Igglybuff
-Processing Serebii Pokemon: Togepi
-Processing Serebii Pokemon: Togetic
-Processing Serebii Pokemon: Natu
-Processing Serebii Pokemon: Xatu
-Processing Serebii Pokemon: Mareep
-Processing Serebii Pokemon: Flaaffy
-Processing Serebii Pokemon: Ampharos
-Processing Serebii Pokemon: Bellossom
-Processing Serebii Pokemon: Marill
-Processing Serebii Pokemon: Azumarill
-Processing Serebii Pokemon: Sudowoodo
-Processing Serebii Pokemon: Politoed
-Processing Serebii Pokemon: Hoppip
-Processing Serebii Pokemon: Skiploom
-Processing Serebii Pokemon: Jumpluff
-Processing Serebii Pokemon: Aipom
-Processing Serebii Pokemon: Sunkern
-Processing Serebii Pokemon: Sunflora
-Processing Serebii Pokemon: Yanma
-Processing Serebii Pokemon: Wooper
-Processing Serebii Pokemon: Quagsire
-Processing Serebii Pokemon: Espeon
-Processing Serebii Pokemon: Umbreon
-Processing Serebii Pokemon: Murkrow
-Processing Serebii Pokemon: Slowking
-Processing Serebii Pokemon: Misdreavus
-Processing Serebii Pokemon: Girafarig
-Processing Serebii Pokemon: Pineco
-Processing Serebii Pokemon: Forretress
-Processing Serebii Pokemon: Dunsparce
-Processing Serebii Pokemon: Gligar
-Processing Serebii Pokemon: Steelix
-Processing Serebii Pokemon: Snubbull
-Processing Serebii Pokemon: Granbull
-Processing Serebii Pokemon: Qwilfish
-Processing Serebii Pokemon: Scizor
-Processing Serebii Pokemon: Shuckle
-Processing Serebii Pokemon: Heracross
-Processing Serebii Pokemon: Sneasel
-Processing Serebii Pokemon: Teddiursa
-Processing Serebii Pokemon: Ursaring
-Processing Serebii Pokemon: Slugma
-Processing Serebii Pokemon: Magcargo
-Processing Serebii Pokemon: Swinub
-Processing Serebii Pokemon: Piloswine
-Processing Serebii Pokemon: Corsola
-Processing Serebii Pokemon: Remoraid
-Processing Serebii Pokemon: Octillery
-Processing Serebii Pokemon: Delibird
-Processing Serebii Pokemon: Mantine
-Processing Serebii Pokemon: Skarmory
-Processing Serebii Pokemon: Houndour
-Processing Serebii Pokemon: Houndoom
-Processing Serebii Pokemon: Kingdra
-Processing Serebii Pokemon: Phanpy
-Processing Serebii Pokemon: Donphan
-Processing Serebii Pokemon: Porygon2
-Processing Serebii Pokemon: Stantler
-Processing Serebii Pokemon: Tyrogue
-Processing Serebii Pokemon: Hitmontop
-Processing Serebii Pokemon: Smoochum
-Processing Serebii Pokemon: Elekid
-Processing Serebii Pokemon: Magby
-Processing Serebii Pokemon: Miltank
-Processing Serebii Pokemon: Blissey
-Processing Serebii Pokemon: Raikou
-Processing Serebii Pokemon: Entei
-Processing Serebii Pokemon: Suicune
-Processing Serebii Pokemon: Larvitar
-Processing Serebii Pokemon: Pupitar
-Processing Serebii Pokemon: Tyranitar
-Processing Serebii Pokemon: Lugia
-Processing Serebii Pokemon: Ho-Oh
-Processing Serebii Pokemon: Celebi
-Processing Serebii Pokemon: Treecko
-Processing Serebii Pokemon: Grovyle
-Processing Serebii Pokemon: Sceptile
-Processing Serebii Pokemon: Torchic
-Processing Serebii Pokemon: Combusken
-Processing Serebii Pokemon: Blaziken
-Processing Serebii Pokemon: Mudkip
-Processing Serebii Pokemon: Marshtomp
-Processing Serebii Pokemon: Swampert
-Processing Serebii Pokemon: Poochyena
-Processing Serebii Pokemon: Mightyena
-Processing Serebii Pokemon: Zigzagoon
-Processing Serebii Pokemon: Linoone
-Processing Serebii Pokemon: Wurmple
-Processing Serebii Pokemon: Silcoon
-Processing Serebii Pokemon: Beautifly
-Processing Serebii Pokemon: Cascoon
-Processing Serebii Pokemon: Dustox
-Processing Serebii Pokemon: Lotad
-Processing Serebii Pokemon: Lombre
-Processing Serebii Pokemon: Ludicolo
-Processing Serebii Pokemon: Seedot
-Processing Serebii Pokemon: Nuzleaf
-Processing Serebii Pokemon: Shiftry
-Processing Serebii Pokemon: Taillow
-Processing Serebii Pokemon: Swellow
-Processing Serebii Pokemon: Wingull
-Processing Serebii Pokemon: Pelipper
-Processing Serebii Pokemon: Ralts
-Processing Serebii Pokemon: Kirlia
-Processing Serebii Pokemon: Gardevoir
-Processing Serebii Pokemon: Surskit
-Processing Serebii Pokemon: Masquerain
-Processing Serebii Pokemon: Shroomish
-Processing Serebii Pokemon: Breloom
-Processing Serebii Pokemon: Slakoth
-Processing Serebii Pokemon: Vigoroth
-Processing Serebii Pokemon: Slaking
-Processing Serebii Pokemon: Nincada
-Processing Serebii Pokemon: Ninjask
-Processing Serebii Pokemon: Shedinja
-Processing Serebii Pokemon: Whismur
-Processing Serebii Pokemon: Loudred
-Processing Serebii Pokemon: Exploud
-Processing Serebii Pokemon: Makuhita
-Processing Serebii Pokemon: Hariyama
-Processing Serebii Pokemon: Azurill
-Processing Serebii Pokemon: Nosepass
-Processing Serebii Pokemon: Skitty
-Processing Serebii Pokemon: Delcatty
-Processing Serebii Pokemon: Sableye
-Processing Serebii Pokemon: Mawile
-Processing Serebii Pokemon: Aron
-Processing Serebii Pokemon: Lairon
-Processing Serebii Pokemon: Aggron
-Processing Serebii Pokemon: Meditite
-Processing Serebii Pokemon: Medicham
-Processing Serebii Pokemon: Electrike
-Processing Serebii Pokemon: Manectric
-Processing Serebii Pokemon: Plusle
-Processing Serebii Pokemon: Minun
-Processing Serebii Pokemon: Volbeat
-Processing Serebii Pokemon: Illumise
-Processing Serebii Pokemon: Roselia
-Processing Serebii Pokemon: Gulpin
-Processing Serebii Pokemon: Swalot
-Processing Serebii Pokemon: Carvanha
-Processing Serebii Pokemon: Sharpedo
-Processing Serebii Pokemon: Wailmer
-Processing Serebii Pokemon: Wailord
-Processing Serebii Pokemon: Numel
-Processing Serebii Pokemon: Camerupt
-Processing Serebii Pokemon: Torkoal
-Processing Serebii Pokemon: Spoink
-Processing Serebii Pokemon: Grumpig
-Processing Serebii Pokemon: Spinda
-Processing Serebii Pokemon: Trapinch
-Processing Serebii Pokemon: Vibrava
-Processing Serebii Pokemon: Flygon
-Processing Serebii Pokemon: Cacnea
-Processing Serebii Pokemon: Cacturne
-Processing Serebii Pokemon: Swablu
-Processing Serebii Pokemon: Altaria
-Processing Serebii Pokemon: Zangoose
-Processing Serebii Pokemon: Seviper
-Processing Serebii Pokemon: Lunatone
-Processing Serebii Pokemon: Solrock
-Processing Serebii Pokemon: Barboach
-Processing Serebii Pokemon: Whiscash
-Processing Serebii Pokemon: Corphish
-Processing Serebii Pokemon: Crawdaunt
-Processing Serebii Pokemon: Baltoy
-Processing Serebii Pokemon: Claydol
-Processing Serebii Pokemon: Lileep
-Processing Serebii Pokemon: Cradily
-Processing Serebii Pokemon: Anorith
-Processing Serebii Pokemon: Armaldo
-Processing Serebii Pokemon: Feebas
-Processing Serebii Pokemon: Milotic
-Processing Serebii Pokemon: Castform
-Processing Serebii Pokemon: Kecleon
-Processing Serebii Pokemon: Shuppet
-Processing Serebii Pokemon: Banette
-Processing Serebii Pokemon: Duskull
-Processing Serebii Pokemon: Dusclops
-Processing Serebii Pokemon: Tropius
-Processing Serebii Pokemon: Chimecho
-Processing Serebii Pokemon: Absol
-Processing Serebii Pokemon: Snorunt
-Processing Serebii Pokemon: Glalie
-Processing Serebii Pokemon: Spheal
-Processing Serebii Pokemon: Sealeo
-Processing Serebii Pokemon: Walrein
-Processing Serebii Pokemon: Clamperl
-Processing Serebii Pokemon: Huntail
-Processing Serebii Pokemon: Gorebyss
-Processing Serebii Pokemon: Relicanth
-Processing Serebii Pokemon: Luvdisc
-Processing Serebii Pokemon: Bagon
-Processing Serebii Pokemon: Shelgon
-Processing Serebii Pokemon: Salamence
-Processing Serebii Pokemon: Beldum
-Processing Serebii Pokemon: Metang
-Processing Serebii Pokemon: Metagross
-Processing Serebii Pokemon: Regirock
-Processing Serebii Pokemon: Regice
-Processing Serebii Pokemon: Registeel
-Processing Serebii Pokemon: Latias
-Processing Serebii Pokemon: Latios
-Processing Serebii Pokemon: Kyogre
-Processing Serebii Pokemon: Groudon
-Processing Serebii Pokemon: Rayquaza
-Processing Serebii Pokemon: Jirachi
-Processing Serebii Pokemon: Deoxys
-Processing Serebii Pokemon: Turtwig
-Processing Serebii Pokemon: Grotle
-Processing Serebii Pokemon: Torterra
-Processing Serebii Pokemon: Chimchar
-Processing Serebii Pokemon: Monferno
-Processing Serebii Pokemon: Infernape
-Processing Serebii Pokemon: Piplup
-Processing Serebii Pokemon: Prinplup
-Processing Serebii Pokemon: Empoleon
-Processing Serebii Pokemon: Starly
-Processing Serebii Pokemon: Staravia
-Processing Serebii Pokemon: Staraptor
-Processing Serebii Pokemon: Bidoof
-Processing Serebii Pokemon: Bibarel
-Processing Serebii Pokemon: Kricketot
-Processing Serebii Pokemon: Kricketune
-Processing Serebii Pokemon: Shinx
-Processing Serebii Pokemon: Luxio
-Processing Serebii Pokemon: Luxray
-Processing Serebii Pokemon: Budew
-Processing Serebii Pokemon: Roserade
-Processing Serebii Pokemon: Cranidos
-Processing Serebii Pokemon: Rampardos
-Processing Serebii Pokemon: Shieldon
-Processing Serebii Pokemon: Bastiodon
-Processing Serebii Pokemon: Burmy
-Processing Serebii Pokemon: Wormadam
-Processing Serebii Pokemon: Mothim
-Processing Serebii Pokemon: Combee
-Processing Serebii Pokemon: Vespiquen
-Processing Serebii Pokemon: Pachirisu
-Processing Serebii Pokemon: Buizel
-Processing Serebii Pokemon: Floatzel
-Processing Serebii Pokemon: Cherubi
-Processing Serebii Pokemon: Cherrim
-Processing Serebii Pokemon: Shellos
-Processing Serebii Pokemon: Gastrodon
-Processing Serebii Pokemon: Ambipom
-Processing Serebii Pokemon: Drifloon
-Processing Serebii Pokemon: Drifblim
-Processing Serebii Pokemon: Buneary
-Processing Serebii Pokemon: Lopunny
-Processing Serebii Pokemon: Mismagius
-Processing Serebii Pokemon: Honchkrow
-Processing Serebii Pokemon: Glameow
-Processing Serebii Pokemon: Purugly
-Processing Serebii Pokemon: Chingling
-Processing Serebii Pokemon: Stunky
-Processing Serebii Pokemon: Skuntank
-Processing Serebii Pokemon: Bronzor
-Processing Serebii Pokemon: Bronzong
-Processing Serebii Pokemon: Bonsly
-Processing Serebii Pokemon: Mime Jr.
-Processing Serebii Pokemon: Happiny
-Processing Serebii Pokemon: Chatot
-Processing Serebii Pokemon: Spiritomb
-Processing Serebii Pokemon: Gible
-Processing Serebii Pokemon: Gabite
-Processing Serebii Pokemon: Garchomp
-Processing Serebii Pokemon: Munchlax
-Processing Serebii Pokemon: Riolu
-Processing Serebii Pokemon: Lucario
-Processing Serebii Pokemon: Hippopotas
-Processing Serebii Pokemon: Hippowdon
-Processing Serebii Pokemon: Skorupi
-Processing Serebii Pokemon: Drapion
-Processing Serebii Pokemon: Croagunk
-Processing Serebii Pokemon: Toxicroak
-Processing Serebii Pokemon: Carnivine
-Processing Serebii Pokemon: Finneon
-Processing Serebii Pokemon: Lumineon
-Processing Serebii Pokemon: Mantyke
-Processing Serebii Pokemon: Snover
-Processing Serebii Pokemon: Abomasnow
-Processing Serebii Pokemon: Weavile
-Processing Serebii Pokemon: Magnezone
-Processing Serebii Pokemon: Lickilicky
-Processing Serebii Pokemon: Rhyperior
-Processing Serebii Pokemon: Tangrowth
-Processing Serebii Pokemon: Electivire
-Processing Serebii Pokemon: Magmortar
-Processing Serebii Pokemon: Togekiss
-Processing Serebii Pokemon: Yanmega
-Processing Serebii Pokemon: Leafeon
-Processing Serebii Pokemon: Glaceon
-Processing Serebii Pokemon: Gliscor
-Processing Serebii Pokemon: Mamoswine
-Processing Serebii Pokemon: Porygon-Z
-Processing Serebii Pokemon: Gallade
-Processing Serebii Pokemon: Probopass
-Processing Serebii Pokemon: Dusknoir
-Processing Serebii Pokemon: Froslass
-Processing Serebii Pokemon: Rotom
-Processing Serebii Pokemon: Uxie
-Processing Serebii Pokemon: Mesprit
-Processing Serebii Pokemon: Azelf
-Processing Serebii Pokemon: Dialga
-Processing Serebii Pokemon: Palkia
-Processing Serebii Pokemon: Heatran
-Processing Serebii Pokemon: Regigigas
-Processing Serebii Pokemon: Giratina
-Processing Serebii Pokemon: Cresselia
-Processing Serebii Pokemon: Phione
-Processing Serebii Pokemon: Manaphy
-Processing Serebii Pokemon: Darkrai
-Processing Serebii Pokemon: Shaymin
-Processing Serebii Pokemon: Arceus
-Processing Serebii Pokemon: Victini
-Processing Serebii Pokemon: Snivy
-Processing Serebii Pokemon: Servine
-Processing Serebii Pokemon: Serperior
-Processing Serebii Pokemon: Tepig
-Processing Serebii Pokemon: Pignite
-Processing Serebii Pokemon: Emboar
-Processing Serebii Pokemon: Oshawott
-Processing Serebii Pokemon: Dewott
-Processing Serebii Pokemon: Samurott
-Processing Serebii Pokemon: Patrat
-Processing Serebii Pokemon: Watchog
-Processing Serebii Pokemon: Lillipup
-Processing Serebii Pokemon: Herdier
-Processing Serebii Pokemon: Stoutland
-Processing Serebii Pokemon: Purrloin
-Processing Serebii Pokemon: Liepard
-Processing Serebii Pokemon: Pansage
-Processing Serebii Pokemon: Simisage
-Processing Serebii Pokemon: Pansear
-Processing Serebii Pokemon: Simisear
-Processing Serebii Pokemon: Panpour
-Processing Serebii Pokemon: Simipour
-Processing Serebii Pokemon: Munna
-Processing Serebii Pokemon: Musharna
-Processing Serebii Pokemon: Pidove
-Processing Serebii Pokemon: Tranquill
-Processing Serebii Pokemon: Unfezant
-Processing Serebii Pokemon: Blitzle
-Processing Serebii Pokemon: Zebstrika
-Processing Serebii Pokemon: Roggenrola
-Processing Serebii Pokemon: Boldore
-Processing Serebii Pokemon: Gigalith
-Processing Serebii Pokemon: Woobat
-Processing Serebii Pokemon: Swoobat
-Processing Serebii Pokemon: Drilbur
-Processing Serebii Pokemon: Excadrill
-Processing Serebii Pokemon: Audino
-Processing Serebii Pokemon: Timburr
-Processing Serebii Pokemon: Gurdurr
-Processing Serebii Pokemon: Conkeldurr
-Processing Serebii Pokemon: Tympole
-Processing Serebii Pokemon: Palpitoad
-Processing Serebii Pokemon: Seismitoad
-Processing Serebii Pokemon: Throh
-Processing Serebii Pokemon: Sawk
-Processing Serebii Pokemon: Sewaddle
-Processing Serebii Pokemon: Swadloon
-Processing Serebii Pokemon: Leavanny
-Processing Serebii Pokemon: Venipede
-Processing Serebii Pokemon: Whirlipede
-Processing Serebii Pokemon: Scolipede
-Processing Serebii Pokemon: Cottonee
-Processing Serebii Pokemon: Whimsicott
-Processing Serebii Pokemon: Petilil
-Processing Serebii Pokemon: Lilligant
-Processing Serebii Pokemon: Basculin
-Processing Serebii Pokemon: Sandile
-Processing Serebii Pokemon: Krokorok
-Processing Serebii Pokemon: Krookodile
-Processing Serebii Pokemon: Darumaka
-Processing Serebii Pokemon: Darmanitan
-Processing Serebii Pokemon: Maractus
-Processing Serebii Pokemon: Dwebble
-Processing Serebii Pokemon: Crustle
-Processing Serebii Pokemon: Scraggy
-Processing Serebii Pokemon: Scrafty
-Processing Serebii Pokemon: Sigilyph
-Processing Serebii Pokemon: Yamask
-Processing Serebii Pokemon: Cofagrigus
-Processing Serebii Pokemon: Tirtouga
-Processing Serebii Pokemon: Carracosta
-Processing Serebii Pokemon: Archen
-Processing Serebii Pokemon: Archeops
-Processing Serebii Pokemon: Trubbish
-Processing Serebii Pokemon: Garbodor
-Processing Serebii Pokemon: Zorua
-Processing Serebii Pokemon: Zoroark
-Processing Serebii Pokemon: Minccino
-Processing Serebii Pokemon: Cinccino
-Processing Serebii Pokemon: Gothita
-Processing Serebii Pokemon: Gothorita
-Processing Serebii Pokemon: Gothitelle
-Processing Serebii Pokemon: Solosis
-Processing Serebii Pokemon: Duosion
-Processing Serebii Pokemon: Reuniclus
-Processing Serebii Pokemon: Ducklett
-Processing Serebii Pokemon: Swanna
-Processing Serebii Pokemon: Vanillite
-Processing Serebii Pokemon: Vanillish
-Processing Serebii Pokemon: Vanilluxe
-Processing Serebii Pokemon: Deerling
-Processing Serebii Pokemon: Sawsbuck
-Processing Serebii Pokemon: Emolga
-Processing Serebii Pokemon: Karrablast
-Processing Serebii Pokemon: Escavalier
-Processing Serebii Pokemon: Foongus
-Processing Serebii Pokemon: Amoonguss
-Processing Serebii Pokemon: Frillish
-Processing Serebii Pokemon: Jellicent
-Processing Serebii Pokemon: Alomomola
-Processing Serebii Pokemon: Joltik
-Processing Serebii Pokemon: Galvantula
-Processing Serebii Pokemon: Ferroseed
-Processing Serebii Pokemon: Ferrothorn
-Processing Serebii Pokemon: Klink
-Processing Serebii Pokemon: Klang
-Processing Serebii Pokemon: Klinklang
-Processing Serebii Pokemon: Tynamo
-Processing Serebii Pokemon: Eelektrik
-Processing Serebii Pokemon: Eelektross
-Processing Serebii Pokemon: Elgyem
-Processing Serebii Pokemon: Beheeyem
-Processing Serebii Pokemon: Litwick
-Processing Serebii Pokemon: Lampent
-Processing Serebii Pokemon: Chandelure
-Processing Serebii Pokemon: Axew
-Processing Serebii Pokemon: Fraxure
-Processing Serebii Pokemon: Haxorus
-Processing Serebii Pokemon: Cubchoo
-Processing Serebii Pokemon: Beartic
-Processing Serebii Pokemon: Cryogonal
-Processing Serebii Pokemon: Shelmet
-Processing Serebii Pokemon: Accelgor
-Processing Serebii Pokemon: Stunfisk
-Processing Serebii Pokemon: Mienfoo
-Processing Serebii Pokemon: Mienshao
-Processing Serebii Pokemon: Druddigon
-Processing Serebii Pokemon: Golett
-Processing Serebii Pokemon: Golurk
-Processing Serebii Pokemon: Pawniard
-Processing Serebii Pokemon: Bisharp
-Processing Serebii Pokemon: Bouffalant
-Processing Serebii Pokemon: Rufflet
-Processing Serebii Pokemon: Braviary
-Processing Serebii Pokemon: Vullaby
-Processing Serebii Pokemon: Mandibuzz
-Processing Serebii Pokemon: Heatmor
-Processing Serebii Pokemon: Durant
-Processing Serebii Pokemon: Deino
-Processing Serebii Pokemon: Zweilous
-Processing Serebii Pokemon: Hydreigon
-Processing Serebii Pokemon: Larvesta
-Processing Serebii Pokemon: Volcarona
-Processing Serebii Pokemon: Cobalion
-Processing Serebii Pokemon: Terrakion
-Processing Serebii Pokemon: Virizion
-Processing Serebii Pokemon: Tornadus
-Processing Serebii Pokemon: Thundurus
-Processing Serebii Pokemon: Reshiram
-Processing Serebii Pokemon: Zekrom
-Processing Serebii Pokemon: Landorus
-Processing Serebii Pokemon: Kyurem
-Processing Serebii Pokemon: Keldeo
-Processing Serebii Pokemon: Meloetta
-Processing Serebii Pokemon: Genesect
-Processing Serebii Pokemon: Chespin
-Processing Serebii Pokemon: Quilladin
-Processing Serebii Pokemon: Chesnaught
-Processing Serebii Pokemon: Fennekin
-Processing Serebii Pokemon: Braixen
-Processing Serebii Pokemon: Delphox
-Processing Serebii Pokemon: Froakie
-Processing Serebii Pokemon: Frogadier
-Processing Serebii Pokemon: Greninja
-Processing Serebii Pokemon: Bunnelby
-Processing Serebii Pokemon: Diggersby
-Processing Serebii Pokemon: Fletchling
-Processing Serebii Pokemon: Fletchinder
-Processing Serebii Pokemon: Talonflame
-Processing Serebii Pokemon: Scatterbug
-Processing Serebii Pokemon: Spewpa
-Processing Serebii Pokemon: Vivillon
-Processing Serebii Pokemon: Litleo
-Processing Serebii Pokemon: Pyroar
-Processing Serebii Pokemon: Flabébé
-Processing Serebii Pokemon: Floette
-Processing Serebii Pokemon: Florges
-Processing Serebii Pokemon: Skiddo
-Processing Serebii Pokemon: Gogoat
-Processing Serebii Pokemon: Pancham
-Processing Serebii Pokemon: Pangoro
-Processing Serebii Pokemon: Furfrou
-Processing Serebii Pokemon: Espurr
-Processing Serebii Pokemon: Meowstic
-Processing Serebii Pokemon: Honedge
-Processing Serebii Pokemon: Doublade
-Processing Serebii Pokemon: Aegislash
-Processing Serebii Pokemon: Spritzee
-Processing Serebii Pokemon: Aromatisse
-Processing Serebii Pokemon: Swirlix
-Processing Serebii Pokemon: Slurpuff
-Processing Serebii Pokemon: Inkay
-Processing Serebii Pokemon: Malamar
-Processing Serebii Pokemon: Binacle
-Processing Serebii Pokemon: Barbaracle
-Processing Serebii Pokemon: Skrelp
-Processing Serebii Pokemon: Dragalge
-Processing Serebii Pokemon: Clauncher
-Processing Serebii Pokemon: Clawitzer
-Processing Serebii Pokemon: Helioptile
-Processing Serebii Pokemon: Heliolisk
-Processing Serebii Pokemon: Tyrunt
-Processing Serebii Pokemon: Tyrantrum
-Processing Serebii Pokemon: Amaura
-Processing Serebii Pokemon: Aurorus
-Processing Serebii Pokemon: Sylveon
-Processing Serebii Pokemon: Hawlucha
-Processing Serebii Pokemon: Dedenne
-Processing Serebii Pokemon: Carbink
-Processing Serebii Pokemon: Goomy
-Processing Serebii Pokemon: Sliggoo
-Processing Serebii Pokemon: Goodra
-Processing Serebii Pokemon: Klefki
-Processing Serebii Pokemon: Phantump
-Processing Serebii Pokemon: Trevenant
-Processing Serebii Pokemon: Pumpkaboo
-Processing Serebii Pokemon: Gourgeist
-Processing Serebii Pokemon: Bergmite
-Processing Serebii Pokemon: Avalugg
-Processing Serebii Pokemon: Noibat
-Processing Serebii Pokemon: Noivern
-Processing Serebii Pokemon: Xerneas
-Processing Serebii Pokemon: Yveltal
-Processing Serebii Pokemon: Zygarde
-Processing Serebii Pokemon: Diancie
-Processing Serebii Pokemon: Hoopa
-Processing Serebii Pokemon: Volcanion
-Processing Serebii Pokemon: Rowlet
-Processing Serebii Pokemon: Dartrix
-Processing Serebii Pokemon: Decidueye
-Processing Serebii Pokemon: Litten
-Processing Serebii Pokemon: Torracat
-Processing Serebii Pokemon: Incineroar
-Processing Serebii Pokemon: Popplio
-Processing Serebii Pokemon: Brionne
-Processing Serebii Pokemon: Primarina
-Processing Serebii Pokemon: Pikipek
-Processing Serebii Pokemon: Trumbeak
-Processing Serebii Pokemon: Toucannon
-Processing Serebii Pokemon: Yungoos
-Processing Serebii Pokemon: Gumshoos
-Processing Serebii Pokemon: Grubbin
-Processing Serebii Pokemon: Charjabug
-Processing Serebii Pokemon: Vikavolt
-Processing Serebii Pokemon: Crabrawler
-Processing Serebii Pokemon: Crabominable
-Processing Serebii Pokemon: Oricorio
-Processing Serebii Pokemon: Cutiefly
-Processing Serebii Pokemon: Ribombee
-Processing Serebii Pokemon: Rockruff
-Processing Serebii Pokemon: Lycanroc
-Processing Serebii Pokemon: Wishiwashi
-Processing Serebii Pokemon: Mareanie
-Processing Serebii Pokemon: Toxapex
-Processing Serebii Pokemon: Mudbray
-Processing Serebii Pokemon: Mudsdale
-Processing Serebii Pokemon: Dewpider
-Processing Serebii Pokemon: Araquanid
-Processing Serebii Pokemon: Fomantis
-Processing Serebii Pokemon: Lurantis
-Processing Serebii Pokemon: Morelull
-Processing Serebii Pokemon: Shiinotic
-Processing Serebii Pokemon: Salandit
-Processing Serebii Pokemon: Salazzle
-Processing Serebii Pokemon: Stufful
-Processing Serebii Pokemon: Bewear
-Processing Serebii Pokemon: Bounsweet
-Processing Serebii Pokemon: Steenee
-Processing Serebii Pokemon: Tsareena
-Processing Serebii Pokemon: Comfey
-Processing Serebii Pokemon: Oranguru
-Processing Serebii Pokemon: Passimian
-Processing Serebii Pokemon: Wimpod
-Processing Serebii Pokemon: Golisopod
-Processing Serebii Pokemon: Sandygast
-Processing Serebii Pokemon: Palossand
-Processing Serebii Pokemon: Pyukumuku
-Processing Serebii Pokemon: Type: Null
-Processing Serebii Pokemon: Silvally
-Processing Serebii Pokemon: Minior
-Processing Serebii Pokemon: Komala
-Processing Serebii Pokemon: Turtonator
-Processing Serebii Pokemon: Togedemaru
-Processing Serebii Pokemon: Mimikyu
-Processing Serebii Pokemon: Bruxish
-Processing Serebii Pokemon: Drampa
-Processing Serebii Pokemon: Dhelmise
-Processing Serebii Pokemon: Jangmo-o
-Processing Serebii Pokemon: Hakamo-o
-Processing Serebii Pokemon: Kommo-o
-Processing Serebii Pokemon: Tapu Koko
-Processing Serebii Pokemon: Tapu Lele
-Processing Serebii Pokemon: Tapu Bulu
-Processing Serebii Pokemon: Tapu Fini
-Processing Serebii Pokemon: Solgaleo
-Processing Serebii Pokemon: Lunala
-Processing Serebii Pokemon: Nihilego
-Processing Serebii Pokemon: Buzzwole
-Processing Serebii Pokemon: Pheromosa
-Processing Serebii Pokemon: Xurkitree
-Processing Serebii Pokemon: Celesteela
-Processing Serebii Pokemon: Kartana
-Processing Serebii Pokemon: Guzzlord
-Processing Serebii Pokemon: Necrozma
-Processing Serebii Pokemon: Magearna
-Processing Serebii Pokemon: Marshadow
-Processing Serebii Pokemon: Poipole
-Processing Serebii Pokemon: Naganadel
-Processing Serebii Pokemon: Stakataka
-Processing Serebii Pokemon: Blacephalon
-Processing Serebii Pokemon: Zeraora
+Processing Serebii Pokemon: Bulbasaur isSwSh: False
+Processing Serebii Pokemon: Ivysaur isSwSh: False
+Processing Serebii Pokemon: Venusaur isSwSh: False
+Processing Serebii Pokemon: Charmander isSwSh: False
+Processing Serebii Pokemon: Charmeleon isSwSh: False
+Processing Serebii Pokemon: Charizard isSwSh: False
+Processing Serebii Pokemon: Squirtle isSwSh: False
+Processing Serebii Pokemon: Wartortle isSwSh: False
+Processing Serebii Pokemon: Blastoise isSwSh: False
+Processing Serebii Pokemon: Caterpie isSwSh: False
+Processing Serebii Pokemon: Metapod isSwSh: False
+Processing Serebii Pokemon: Butterfree isSwSh: False
+Processing Serebii Pokemon: Weedle isSwSh: False
+Processing Serebii Pokemon: Kakuna isSwSh: False
+Processing Serebii Pokemon: Beedrill isSwSh: False
+Processing Serebii Pokemon: Pidgey isSwSh: False
+Processing Serebii Pokemon: Pidgeotto isSwSh: False
+Processing Serebii Pokemon: Pidgeot isSwSh: False
+Processing Serebii Pokemon: Rattata isSwSh: False
+Processing Serebii Pokemon: Raticate isSwSh: False
+Processing Serebii Pokemon: Spearow isSwSh: False
+Processing Serebii Pokemon: Fearow isSwSh: False
+Processing Serebii Pokemon: Ekans isSwSh: False
+Processing Serebii Pokemon: Arbok isSwSh: False
+Processing Serebii Pokemon: Pikachu isSwSh: False
+Processing Serebii Pokemon: Raichu isSwSh: False
+Processing Serebii Pokemon: Sandshrew isSwSh: False
+Processing Serebii Pokemon: Sandslash isSwSh: False
+Processing Serebii Pokemon: Nidoran♀ isSwSh: False
+Processing Serebii Pokemon: Nidorina isSwSh: False
+Processing Serebii Pokemon: Nidoqueen isSwSh: False
+Processing Serebii Pokemon: Nidoran♂ isSwSh: False
+Processing Serebii Pokemon: Nidorino isSwSh: False
+Processing Serebii Pokemon: Nidoking isSwSh: False
+Processing Serebii Pokemon: Clefairy isSwSh: False
+Processing Serebii Pokemon: Clefable isSwSh: False
+Processing Serebii Pokemon: Vulpix isSwSh: False
+Processing Serebii Pokemon: Ninetales isSwSh: False
+Processing Serebii Pokemon: Jigglypuff isSwSh: False
+Processing Serebii Pokemon: Wigglytuff isSwSh: False
+Processing Serebii Pokemon: Zubat isSwSh: False
+Processing Serebii Pokemon: Golbat isSwSh: False
+Processing Serebii Pokemon: Oddish isSwSh: False
+Processing Serebii Pokemon: Gloom isSwSh: False
+Processing Serebii Pokemon: Vileplume isSwSh: False
+Processing Serebii Pokemon: Paras isSwSh: False
+Processing Serebii Pokemon: Parasect isSwSh: False
+Processing Serebii Pokemon: Venonat isSwSh: False
+Processing Serebii Pokemon: Venomoth isSwSh: False
+Processing Serebii Pokemon: Diglett isSwSh: False
+Processing Serebii Pokemon: Dugtrio isSwSh: False
+Processing Serebii Pokemon: Meowth isSwSh: False
+Processing Serebii Pokemon: Persian isSwSh: False
+Processing Serebii Pokemon: Psyduck isSwSh: False
+Processing Serebii Pokemon: Golduck isSwSh: False
+Processing Serebii Pokemon: Mankey isSwSh: False
+Processing Serebii Pokemon: Primeape isSwSh: False
+Processing Serebii Pokemon: Growlithe isSwSh: False
+Processing Serebii Pokemon: Arcanine isSwSh: False
+Processing Serebii Pokemon: Poliwag isSwSh: False
+Processing Serebii Pokemon: Poliwhirl isSwSh: False
+Processing Serebii Pokemon: Poliwrath isSwSh: False
+Processing Serebii Pokemon: Abra isSwSh: False
+Processing Serebii Pokemon: Kadabra isSwSh: False
+Processing Serebii Pokemon: Alakazam isSwSh: False
+Processing Serebii Pokemon: Machop isSwSh: False
+Processing Serebii Pokemon: Machoke isSwSh: False
+Processing Serebii Pokemon: Machamp isSwSh: False
+Processing Serebii Pokemon: Bellsprout isSwSh: False
+Processing Serebii Pokemon: Weepinbell isSwSh: False
+Processing Serebii Pokemon: Victreebel isSwSh: False
+Processing Serebii Pokemon: Tentacool isSwSh: False
+Processing Serebii Pokemon: Tentacruel isSwSh: False
+Processing Serebii Pokemon: Geodude isSwSh: False
+Processing Serebii Pokemon: Graveler isSwSh: False
+Processing Serebii Pokemon: Golem isSwSh: False
+Processing Serebii Pokemon: Ponyta isSwSh: False
+Processing Serebii Pokemon: Rapidash isSwSh: False
+Processing Serebii Pokemon: Slowpoke isSwSh: False
+Processing Serebii Pokemon: Slowbro isSwSh: False
+Processing Serebii Pokemon: Magnemite isSwSh: False
+Processing Serebii Pokemon: Magneton isSwSh: False
+Processing Serebii Pokemon: Farfetch'd isSwSh: False
+Processing Serebii Pokemon: Doduo isSwSh: False
+Processing Serebii Pokemon: Dodrio isSwSh: False
+Processing Serebii Pokemon: Seel isSwSh: False
+Processing Serebii Pokemon: Dewgong isSwSh: False
+Processing Serebii Pokemon: Grimer isSwSh: False
+Processing Serebii Pokemon: Muk isSwSh: False
+Processing Serebii Pokemon: Shellder isSwSh: False
+Processing Serebii Pokemon: Cloyster isSwSh: False
+Processing Serebii Pokemon: Gastly isSwSh: False
+Processing Serebii Pokemon: Haunter isSwSh: False
+Processing Serebii Pokemon: Gengar isSwSh: False
+Processing Serebii Pokemon: Onix isSwSh: False
+Processing Serebii Pokemon: Drowzee isSwSh: False
+Processing Serebii Pokemon: Hypno isSwSh: False
+Processing Serebii Pokemon: Krabby isSwSh: False
+Processing Serebii Pokemon: Kingler isSwSh: False
+Processing Serebii Pokemon: Voltorb isSwSh: False
+Processing Serebii Pokemon: Electrode isSwSh: False
+Processing Serebii Pokemon: Exeggcute isSwSh: False
+Processing Serebii Pokemon: Exeggutor isSwSh: False
+Processing Serebii Pokemon: Cubone isSwSh: False
+Processing Serebii Pokemon: Marowak isSwSh: False
+Processing Serebii Pokemon: Hitmonlee isSwSh: False
+Processing Serebii Pokemon: Hitmonchan isSwSh: False
+Processing Serebii Pokemon: Lickitung isSwSh: False
+Processing Serebii Pokemon: Koffing isSwSh: False
+Processing Serebii Pokemon: Weezing isSwSh: False
+Processing Serebii Pokemon: Rhyhorn isSwSh: False
+Processing Serebii Pokemon: Rhydon isSwSh: False
+Processing Serebii Pokemon: Chansey isSwSh: False
+Processing Serebii Pokemon: Tangela isSwSh: False
+Processing Serebii Pokemon: Kangaskhan isSwSh: False
+Processing Serebii Pokemon: Horsea isSwSh: False
+Processing Serebii Pokemon: Seadra isSwSh: False
+Processing Serebii Pokemon: Goldeen isSwSh: False
+Processing Serebii Pokemon: Seaking isSwSh: False
+Processing Serebii Pokemon: Staryu isSwSh: False
+Processing Serebii Pokemon: Starmie isSwSh: False
+Processing Serebii Pokemon: Mr. Mime isSwSh: False
+Processing Serebii Pokemon: Scyther isSwSh: False
+Processing Serebii Pokemon: Jynx isSwSh: False
+Processing Serebii Pokemon: Electabuzz isSwSh: False
+Processing Serebii Pokemon: Magmar isSwSh: False
+Processing Serebii Pokemon: Pinsir isSwSh: False
+Processing Serebii Pokemon: Tauros isSwSh: False
+Processing Serebii Pokemon: Magikarp isSwSh: False
+Processing Serebii Pokemon: Gyarados isSwSh: False
+Processing Serebii Pokemon: Lapras isSwSh: False
+Processing Serebii Pokemon: Eevee isSwSh: False
+Processing Serebii Pokemon: Vaporeon isSwSh: False
+Processing Serebii Pokemon: Jolteon isSwSh: False
+Processing Serebii Pokemon: Flareon isSwSh: False
+Processing Serebii Pokemon: Porygon isSwSh: False
+Processing Serebii Pokemon: Omanyte isSwSh: False
+Processing Serebii Pokemon: Omastar isSwSh: False
+Processing Serebii Pokemon: Kabuto isSwSh: False
+Processing Serebii Pokemon: Kabutops isSwSh: False
+Processing Serebii Pokemon: Aerodactyl isSwSh: False
+Processing Serebii Pokemon: Snorlax isSwSh: False
+Processing Serebii Pokemon: Articuno isSwSh: False
+Processing Serebii Pokemon: Zapdos isSwSh: False
+Processing Serebii Pokemon: Moltres isSwSh: False
+Processing Serebii Pokemon: Dratini isSwSh: False
+Processing Serebii Pokemon: Dragonair isSwSh: False
+Processing Serebii Pokemon: Dragonite isSwSh: False
+Processing Serebii Pokemon: Mewtwo isSwSh: False
+Processing Serebii Pokemon: Mew isSwSh: False
+Processing Serebii Pokemon: Chikorita isSwSh: False
+Processing Serebii Pokemon: Bayleef isSwSh: False
+Processing Serebii Pokemon: Meganium isSwSh: False
+Processing Serebii Pokemon: Cyndaquil isSwSh: False
+Processing Serebii Pokemon: Quilava isSwSh: False
+Processing Serebii Pokemon: Typhlosion isSwSh: False
+Processing Serebii Pokemon: Totodile isSwSh: False
+Processing Serebii Pokemon: Croconaw isSwSh: False
+Processing Serebii Pokemon: Feraligatr isSwSh: False
+Processing Serebii Pokemon: Sentret isSwSh: False
+Processing Serebii Pokemon: Furret isSwSh: False
+Processing Serebii Pokemon: Hoothoot isSwSh: False
+Processing Serebii Pokemon: Noctowl isSwSh: False
+Processing Serebii Pokemon: Ledyba isSwSh: False
+Processing Serebii Pokemon: Ledian isSwSh: False
+Processing Serebii Pokemon: Spinarak isSwSh: False
+Processing Serebii Pokemon: Ariados isSwSh: False
+Processing Serebii Pokemon: Crobat isSwSh: False
+Processing Serebii Pokemon: Chinchou isSwSh: False
+Processing Serebii Pokemon: Lanturn isSwSh: False
+Processing Serebii Pokemon: Pichu isSwSh: False
+Processing Serebii Pokemon: Cleffa isSwSh: False
+Processing Serebii Pokemon: Igglybuff isSwSh: False
+Processing Serebii Pokemon: Togepi isSwSh: False
+Processing Serebii Pokemon: Togetic isSwSh: False
+Processing Serebii Pokemon: Natu isSwSh: False
+Processing Serebii Pokemon: Xatu isSwSh: False
+Processing Serebii Pokemon: Mareep isSwSh: False
+Processing Serebii Pokemon: Flaaffy isSwSh: False
+Processing Serebii Pokemon: Ampharos isSwSh: False
+Processing Serebii Pokemon: Bellossom isSwSh: False
+Processing Serebii Pokemon: Marill isSwSh: False
+Processing Serebii Pokemon: Azumarill isSwSh: False
+Processing Serebii Pokemon: Sudowoodo isSwSh: False
+Processing Serebii Pokemon: Politoed isSwSh: False
+Processing Serebii Pokemon: Hoppip isSwSh: False
+Processing Serebii Pokemon: Skiploom isSwSh: False
+Processing Serebii Pokemon: Jumpluff isSwSh: False
+Processing Serebii Pokemon: Aipom isSwSh: False
+Processing Serebii Pokemon: Sunkern isSwSh: False
+Processing Serebii Pokemon: Sunflora isSwSh: False
+Processing Serebii Pokemon: Yanma isSwSh: False
+Processing Serebii Pokemon: Wooper isSwSh: False
+Processing Serebii Pokemon: Quagsire isSwSh: False
+Processing Serebii Pokemon: Espeon isSwSh: False
+Processing Serebii Pokemon: Umbreon isSwSh: False
+Processing Serebii Pokemon: Murkrow isSwSh: False
+Processing Serebii Pokemon: Slowking isSwSh: False
+Processing Serebii Pokemon: Misdreavus isSwSh: False
+Processing Serebii Pokemon: Girafarig isSwSh: False
+Processing Serebii Pokemon: Pineco isSwSh: False
+Processing Serebii Pokemon: Forretress isSwSh: False
+Processing Serebii Pokemon: Dunsparce isSwSh: False
+Processing Serebii Pokemon: Gligar isSwSh: False
+Processing Serebii Pokemon: Steelix isSwSh: False
+Processing Serebii Pokemon: Snubbull isSwSh: False
+Processing Serebii Pokemon: Granbull isSwSh: False
+Processing Serebii Pokemon: Qwilfish isSwSh: False
+Processing Serebii Pokemon: Scizor isSwSh: False
+Processing Serebii Pokemon: Shuckle isSwSh: False
+Processing Serebii Pokemon: Heracross isSwSh: False
+Processing Serebii Pokemon: Sneasel isSwSh: False
+Processing Serebii Pokemon: Teddiursa isSwSh: False
+Processing Serebii Pokemon: Ursaring isSwSh: False
+Processing Serebii Pokemon: Slugma isSwSh: False
+Processing Serebii Pokemon: Magcargo isSwSh: False
+Processing Serebii Pokemon: Swinub isSwSh: False
+Processing Serebii Pokemon: Piloswine isSwSh: False
+Processing Serebii Pokemon: Corsola isSwSh: False
+Processing Serebii Pokemon: Remoraid isSwSh: False
+Processing Serebii Pokemon: Octillery isSwSh: False
+Processing Serebii Pokemon: Delibird isSwSh: False
+Processing Serebii Pokemon: Mantine isSwSh: False
+Processing Serebii Pokemon: Skarmory isSwSh: False
+Processing Serebii Pokemon: Houndour isSwSh: False
+Processing Serebii Pokemon: Houndoom isSwSh: False
+Processing Serebii Pokemon: Kingdra isSwSh: False
+Processing Serebii Pokemon: Phanpy isSwSh: False
+Processing Serebii Pokemon: Donphan isSwSh: False
+Processing Serebii Pokemon: Porygon2 isSwSh: False
+Processing Serebii Pokemon: Stantler isSwSh: False
+Processing Serebii Pokemon: Tyrogue isSwSh: False
+Processing Serebii Pokemon: Hitmontop isSwSh: False
+Processing Serebii Pokemon: Smoochum isSwSh: False
+Processing Serebii Pokemon: Elekid isSwSh: False
+Processing Serebii Pokemon: Magby isSwSh: False
+Processing Serebii Pokemon: Miltank isSwSh: False
+Processing Serebii Pokemon: Blissey isSwSh: False
+Processing Serebii Pokemon: Raikou isSwSh: False
+Processing Serebii Pokemon: Entei isSwSh: False
+Processing Serebii Pokemon: Suicune isSwSh: False
+Processing Serebii Pokemon: Larvitar isSwSh: False
+Processing Serebii Pokemon: Pupitar isSwSh: False
+Processing Serebii Pokemon: Tyranitar isSwSh: False
+Processing Serebii Pokemon: Lugia isSwSh: False
+Processing Serebii Pokemon: Ho-Oh isSwSh: False
+Processing Serebii Pokemon: Celebi isSwSh: False
+Processing Serebii Pokemon: Treecko isSwSh: False
+Processing Serebii Pokemon: Grovyle isSwSh: False
+Processing Serebii Pokemon: Sceptile isSwSh: False
+Processing Serebii Pokemon: Torchic isSwSh: False
+Processing Serebii Pokemon: Combusken isSwSh: False
+Processing Serebii Pokemon: Blaziken isSwSh: False
+Processing Serebii Pokemon: Mudkip isSwSh: False
+Processing Serebii Pokemon: Marshtomp isSwSh: False
+Processing Serebii Pokemon: Swampert isSwSh: False
+Processing Serebii Pokemon: Poochyena isSwSh: False
+Processing Serebii Pokemon: Mightyena isSwSh: False
+Processing Serebii Pokemon: Zigzagoon isSwSh: False
+Processing Serebii Pokemon: Linoone isSwSh: False
+Processing Serebii Pokemon: Wurmple isSwSh: False
+Processing Serebii Pokemon: Silcoon isSwSh: False
+Processing Serebii Pokemon: Beautifly isSwSh: False
+Processing Serebii Pokemon: Cascoon isSwSh: False
+Processing Serebii Pokemon: Dustox isSwSh: False
+Processing Serebii Pokemon: Lotad isSwSh: False
+Processing Serebii Pokemon: Lombre isSwSh: False
+Processing Serebii Pokemon: Ludicolo isSwSh: False
+Processing Serebii Pokemon: Seedot isSwSh: False
+Processing Serebii Pokemon: Nuzleaf isSwSh: False
+Processing Serebii Pokemon: Shiftry isSwSh: False
+Processing Serebii Pokemon: Taillow isSwSh: False
+Processing Serebii Pokemon: Swellow isSwSh: False
+Processing Serebii Pokemon: Wingull isSwSh: False
+Processing Serebii Pokemon: Pelipper isSwSh: False
+Processing Serebii Pokemon: Ralts isSwSh: False
+Processing Serebii Pokemon: Kirlia isSwSh: False
+Processing Serebii Pokemon: Gardevoir isSwSh: False
+Processing Serebii Pokemon: Surskit isSwSh: False
+Processing Serebii Pokemon: Masquerain isSwSh: False
+Processing Serebii Pokemon: Shroomish isSwSh: False
+Processing Serebii Pokemon: Breloom isSwSh: False
+Processing Serebii Pokemon: Slakoth isSwSh: False
+Processing Serebii Pokemon: Vigoroth isSwSh: False
+Processing Serebii Pokemon: Slaking isSwSh: False
+Processing Serebii Pokemon: Nincada isSwSh: False
+Processing Serebii Pokemon: Ninjask isSwSh: False
+Processing Serebii Pokemon: Shedinja isSwSh: False
+Processing Serebii Pokemon: Whismur isSwSh: False
+Processing Serebii Pokemon: Loudred isSwSh: False
+Processing Serebii Pokemon: Exploud isSwSh: False
+Processing Serebii Pokemon: Makuhita isSwSh: False
+Processing Serebii Pokemon: Hariyama isSwSh: False
+Processing Serebii Pokemon: Azurill isSwSh: False
+Processing Serebii Pokemon: Nosepass isSwSh: False
+Processing Serebii Pokemon: Skitty isSwSh: False
+Processing Serebii Pokemon: Delcatty isSwSh: False
+Processing Serebii Pokemon: Sableye isSwSh: False
+Processing Serebii Pokemon: Mawile isSwSh: False
+Processing Serebii Pokemon: Aron isSwSh: False
+Processing Serebii Pokemon: Lairon isSwSh: False
+Processing Serebii Pokemon: Aggron isSwSh: False
+Processing Serebii Pokemon: Meditite isSwSh: False
+Processing Serebii Pokemon: Medicham isSwSh: False
+Processing Serebii Pokemon: Electrike isSwSh: False
+Processing Serebii Pokemon: Manectric isSwSh: False
+Processing Serebii Pokemon: Plusle isSwSh: False
+Processing Serebii Pokemon: Minun isSwSh: False
+Processing Serebii Pokemon: Volbeat isSwSh: False
+Processing Serebii Pokemon: Illumise isSwSh: False
+Processing Serebii Pokemon: Roselia isSwSh: False
+Processing Serebii Pokemon: Gulpin isSwSh: False
+Processing Serebii Pokemon: Swalot isSwSh: False
+Processing Serebii Pokemon: Carvanha isSwSh: False
+Processing Serebii Pokemon: Sharpedo isSwSh: False
+Processing Serebii Pokemon: Wailmer isSwSh: False
+Processing Serebii Pokemon: Wailord isSwSh: False
+Processing Serebii Pokemon: Numel isSwSh: False
+Processing Serebii Pokemon: Camerupt isSwSh: False
+Processing Serebii Pokemon: Torkoal isSwSh: False
+Processing Serebii Pokemon: Spoink isSwSh: False
+Processing Serebii Pokemon: Grumpig isSwSh: False
+Processing Serebii Pokemon: Spinda isSwSh: False
+Processing Serebii Pokemon: Trapinch isSwSh: False
+Processing Serebii Pokemon: Vibrava isSwSh: False
+Processing Serebii Pokemon: Flygon isSwSh: False
+Processing Serebii Pokemon: Cacnea isSwSh: False
+Processing Serebii Pokemon: Cacturne isSwSh: False
+Processing Serebii Pokemon: Swablu isSwSh: False
+Processing Serebii Pokemon: Altaria isSwSh: False
+Processing Serebii Pokemon: Zangoose isSwSh: False
+Processing Serebii Pokemon: Seviper isSwSh: False
+Processing Serebii Pokemon: Lunatone isSwSh: False
+Processing Serebii Pokemon: Solrock isSwSh: False
+Processing Serebii Pokemon: Barboach isSwSh: False
+Processing Serebii Pokemon: Whiscash isSwSh: False
+Processing Serebii Pokemon: Corphish isSwSh: False
+Processing Serebii Pokemon: Crawdaunt isSwSh: False
+Processing Serebii Pokemon: Baltoy isSwSh: False
+Processing Serebii Pokemon: Claydol isSwSh: False
+Processing Serebii Pokemon: Lileep isSwSh: False
+Processing Serebii Pokemon: Cradily isSwSh: False
+Processing Serebii Pokemon: Anorith isSwSh: False
+Processing Serebii Pokemon: Armaldo isSwSh: False
+Processing Serebii Pokemon: Feebas isSwSh: False
+Processing Serebii Pokemon: Milotic isSwSh: False
+Processing Serebii Pokemon: Castform isSwSh: False
+Processing Serebii Pokemon: Kecleon isSwSh: False
+Processing Serebii Pokemon: Shuppet isSwSh: False
+Processing Serebii Pokemon: Banette isSwSh: False
+Processing Serebii Pokemon: Duskull isSwSh: False
+Processing Serebii Pokemon: Dusclops isSwSh: False
+Processing Serebii Pokemon: Tropius isSwSh: False
+Processing Serebii Pokemon: Chimecho isSwSh: False
+Processing Serebii Pokemon: Absol isSwSh: False
+Processing Serebii Pokemon: Snorunt isSwSh: False
+Processing Serebii Pokemon: Glalie isSwSh: False
+Processing Serebii Pokemon: Spheal isSwSh: False
+Processing Serebii Pokemon: Sealeo isSwSh: False
+Processing Serebii Pokemon: Walrein isSwSh: False
+Processing Serebii Pokemon: Clamperl isSwSh: False
+Processing Serebii Pokemon: Huntail isSwSh: False
+Processing Serebii Pokemon: Gorebyss isSwSh: False
+Processing Serebii Pokemon: Relicanth isSwSh: False
+Processing Serebii Pokemon: Luvdisc isSwSh: False
+Processing Serebii Pokemon: Bagon isSwSh: False
+Processing Serebii Pokemon: Shelgon isSwSh: False
+Processing Serebii Pokemon: Salamence isSwSh: False
+Processing Serebii Pokemon: Beldum isSwSh: False
+Processing Serebii Pokemon: Metang isSwSh: False
+Processing Serebii Pokemon: Metagross isSwSh: False
+Processing Serebii Pokemon: Regirock isSwSh: False
+Processing Serebii Pokemon: Regice isSwSh: False
+Processing Serebii Pokemon: Registeel isSwSh: False
+Processing Serebii Pokemon: Latias isSwSh: False
+Processing Serebii Pokemon: Latios isSwSh: False
+Processing Serebii Pokemon: Kyogre isSwSh: False
+Processing Serebii Pokemon: Groudon isSwSh: False
+Processing Serebii Pokemon: Rayquaza isSwSh: False
+Processing Serebii Pokemon: Jirachi isSwSh: False
+Processing Serebii Pokemon: Deoxys isSwSh: False
+Processing Serebii Pokemon: Turtwig isSwSh: False
+Processing Serebii Pokemon: Grotle isSwSh: False
+Processing Serebii Pokemon: Torterra isSwSh: False
+Processing Serebii Pokemon: Chimchar isSwSh: False
+Processing Serebii Pokemon: Monferno isSwSh: False
+Processing Serebii Pokemon: Infernape isSwSh: False
+Processing Serebii Pokemon: Piplup isSwSh: False
+Processing Serebii Pokemon: Prinplup isSwSh: False
+Processing Serebii Pokemon: Empoleon isSwSh: False
+Processing Serebii Pokemon: Starly isSwSh: False
+Processing Serebii Pokemon: Staravia isSwSh: False
+Processing Serebii Pokemon: Staraptor isSwSh: False
+Processing Serebii Pokemon: Bidoof isSwSh: False
+Processing Serebii Pokemon: Bibarel isSwSh: False
+Processing Serebii Pokemon: Kricketot isSwSh: False
+Processing Serebii Pokemon: Kricketune isSwSh: False
+Processing Serebii Pokemon: Shinx isSwSh: False
+Processing Serebii Pokemon: Luxio isSwSh: False
+Processing Serebii Pokemon: Luxray isSwSh: False
+Processing Serebii Pokemon: Budew isSwSh: False
+Processing Serebii Pokemon: Roserade isSwSh: False
+Processing Serebii Pokemon: Cranidos isSwSh: False
+Processing Serebii Pokemon: Rampardos isSwSh: False
+Processing Serebii Pokemon: Shieldon isSwSh: False
+Processing Serebii Pokemon: Bastiodon isSwSh: False
+Processing Serebii Pokemon: Burmy isSwSh: False
+Processing Serebii Pokemon: Wormadam isSwSh: False
+Processing Serebii Pokemon: Mothim isSwSh: False
+Processing Serebii Pokemon: Combee isSwSh: False
+Processing Serebii Pokemon: Vespiquen isSwSh: False
+Processing Serebii Pokemon: Pachirisu isSwSh: False
+Processing Serebii Pokemon: Buizel isSwSh: False
+Processing Serebii Pokemon: Floatzel isSwSh: False
+Processing Serebii Pokemon: Cherubi isSwSh: False
+Processing Serebii Pokemon: Cherrim isSwSh: False
+Processing Serebii Pokemon: Shellos isSwSh: False
+Processing Serebii Pokemon: Gastrodon isSwSh: False
+Processing Serebii Pokemon: Ambipom isSwSh: False
+Processing Serebii Pokemon: Drifloon isSwSh: False
+Processing Serebii Pokemon: Drifblim isSwSh: False
+Processing Serebii Pokemon: Buneary isSwSh: False
+Processing Serebii Pokemon: Lopunny isSwSh: False
+Processing Serebii Pokemon: Mismagius isSwSh: False
+Processing Serebii Pokemon: Honchkrow isSwSh: False
+Processing Serebii Pokemon: Glameow isSwSh: False
+Processing Serebii Pokemon: Purugly isSwSh: False
+Processing Serebii Pokemon: Chingling isSwSh: False
+Processing Serebii Pokemon: Stunky isSwSh: False
+Processing Serebii Pokemon: Skuntank isSwSh: False
+Processing Serebii Pokemon: Bronzor isSwSh: False
+Processing Serebii Pokemon: Bronzong isSwSh: False
+Processing Serebii Pokemon: Bonsly isSwSh: False
+Processing Serebii Pokemon: Mime Jr. isSwSh: False
+Processing Serebii Pokemon: Happiny isSwSh: False
+Processing Serebii Pokemon: Chatot isSwSh: False
+Processing Serebii Pokemon: Spiritomb isSwSh: False
+Processing Serebii Pokemon: Gible isSwSh: False
+Processing Serebii Pokemon: Gabite isSwSh: False
+Processing Serebii Pokemon: Garchomp isSwSh: False
+Processing Serebii Pokemon: Munchlax isSwSh: False
+Processing Serebii Pokemon: Riolu isSwSh: False
+Processing Serebii Pokemon: Lucario isSwSh: False
+Processing Serebii Pokemon: Hippopotas isSwSh: False
+Processing Serebii Pokemon: Hippowdon isSwSh: False
+Processing Serebii Pokemon: Skorupi isSwSh: False
+Processing Serebii Pokemon: Drapion isSwSh: False
+Processing Serebii Pokemon: Croagunk isSwSh: False
+Processing Serebii Pokemon: Toxicroak isSwSh: False
+Processing Serebii Pokemon: Carnivine isSwSh: False
+Processing Serebii Pokemon: Finneon isSwSh: False
+Processing Serebii Pokemon: Lumineon isSwSh: False
+Processing Serebii Pokemon: Mantyke isSwSh: False
+Processing Serebii Pokemon: Snover isSwSh: False
+Processing Serebii Pokemon: Abomasnow isSwSh: False
+Processing Serebii Pokemon: Weavile isSwSh: False
+Processing Serebii Pokemon: Magnezone isSwSh: False
+Processing Serebii Pokemon: Lickilicky isSwSh: False
+Processing Serebii Pokemon: Rhyperior isSwSh: False
+Processing Serebii Pokemon: Tangrowth isSwSh: False
+Processing Serebii Pokemon: Electivire isSwSh: False
+Processing Serebii Pokemon: Magmortar isSwSh: False
+Processing Serebii Pokemon: Togekiss isSwSh: False
+Processing Serebii Pokemon: Yanmega isSwSh: False
+Processing Serebii Pokemon: Leafeon isSwSh: False
+Processing Serebii Pokemon: Glaceon isSwSh: False
+Processing Serebii Pokemon: Gliscor isSwSh: False
+Processing Serebii Pokemon: Mamoswine isSwSh: False
+Processing Serebii Pokemon: Porygon-Z isSwSh: False
+Processing Serebii Pokemon: Gallade isSwSh: False
+Processing Serebii Pokemon: Probopass isSwSh: False
+Processing Serebii Pokemon: Dusknoir isSwSh: False
+Processing Serebii Pokemon: Froslass isSwSh: False
+Processing Serebii Pokemon: Rotom isSwSh: False
+Processing Serebii Pokemon: Uxie isSwSh: False
+Processing Serebii Pokemon: Mesprit isSwSh: False
+Processing Serebii Pokemon: Azelf isSwSh: False
+Processing Serebii Pokemon: Dialga isSwSh: False
+Processing Serebii Pokemon: Palkia isSwSh: False
+Processing Serebii Pokemon: Heatran isSwSh: False
+Processing Serebii Pokemon: Regigigas isSwSh: False
+Processing Serebii Pokemon: Giratina isSwSh: False
+Processing Serebii Pokemon: Cresselia isSwSh: False
+Processing Serebii Pokemon: Phione isSwSh: False
+Processing Serebii Pokemon: Manaphy isSwSh: False
+Processing Serebii Pokemon: Darkrai isSwSh: False
+Processing Serebii Pokemon: Shaymin isSwSh: False
+Processing Serebii Pokemon: Arceus isSwSh: False
+Processing Serebii Pokemon: Victini isSwSh: False
+Processing Serebii Pokemon: Snivy isSwSh: False
+Processing Serebii Pokemon: Servine isSwSh: False
+Processing Serebii Pokemon: Serperior isSwSh: False
+Processing Serebii Pokemon: Tepig isSwSh: False
+Processing Serebii Pokemon: Pignite isSwSh: False
+Processing Serebii Pokemon: Emboar isSwSh: False
+Processing Serebii Pokemon: Oshawott isSwSh: False
+Processing Serebii Pokemon: Dewott isSwSh: False
+Processing Serebii Pokemon: Samurott isSwSh: False
+Processing Serebii Pokemon: Patrat isSwSh: False
+Processing Serebii Pokemon: Watchog isSwSh: False
+Processing Serebii Pokemon: Lillipup isSwSh: False
+Processing Serebii Pokemon: Herdier isSwSh: False
+Processing Serebii Pokemon: Stoutland isSwSh: False
+Processing Serebii Pokemon: Purrloin isSwSh: False
+Processing Serebii Pokemon: Liepard isSwSh: False
+Processing Serebii Pokemon: Pansage isSwSh: False
+Processing Serebii Pokemon: Simisage isSwSh: False
+Processing Serebii Pokemon: Pansear isSwSh: False
+Processing Serebii Pokemon: Simisear isSwSh: False
+Processing Serebii Pokemon: Panpour isSwSh: False
+Processing Serebii Pokemon: Simipour isSwSh: False
+Processing Serebii Pokemon: Munna isSwSh: False
+Processing Serebii Pokemon: Musharna isSwSh: False
+Processing Serebii Pokemon: Pidove isSwSh: False
+Processing Serebii Pokemon: Tranquill isSwSh: False
+Processing Serebii Pokemon: Unfezant isSwSh: False
+Processing Serebii Pokemon: Blitzle isSwSh: False
+Processing Serebii Pokemon: Zebstrika isSwSh: False
+Processing Serebii Pokemon: Roggenrola isSwSh: False
+Processing Serebii Pokemon: Boldore isSwSh: False
+Processing Serebii Pokemon: Gigalith isSwSh: False
+Processing Serebii Pokemon: Woobat isSwSh: False
+Processing Serebii Pokemon: Swoobat isSwSh: False
+Processing Serebii Pokemon: Drilbur isSwSh: False
+Processing Serebii Pokemon: Excadrill isSwSh: False
+Processing Serebii Pokemon: Audino isSwSh: False
+Processing Serebii Pokemon: Timburr isSwSh: False
+Processing Serebii Pokemon: Gurdurr isSwSh: False
+Processing Serebii Pokemon: Conkeldurr isSwSh: False
+Processing Serebii Pokemon: Tympole isSwSh: False
+Processing Serebii Pokemon: Palpitoad isSwSh: False
+Processing Serebii Pokemon: Seismitoad isSwSh: False
+Processing Serebii Pokemon: Throh isSwSh: False
+Processing Serebii Pokemon: Sawk isSwSh: False
+Processing Serebii Pokemon: Sewaddle isSwSh: False
+Processing Serebii Pokemon: Swadloon isSwSh: False
+Processing Serebii Pokemon: Leavanny isSwSh: False
+Processing Serebii Pokemon: Venipede isSwSh: False
+Processing Serebii Pokemon: Whirlipede isSwSh: False
+Processing Serebii Pokemon: Scolipede isSwSh: False
+Processing Serebii Pokemon: Cottonee isSwSh: False
+Processing Serebii Pokemon: Whimsicott isSwSh: False
+Processing Serebii Pokemon: Petilil isSwSh: False
+Processing Serebii Pokemon: Lilligant isSwSh: False
+Processing Serebii Pokemon: Basculin isSwSh: False
+Processing Serebii Pokemon: Sandile isSwSh: False
+Processing Serebii Pokemon: Krokorok isSwSh: False
+Processing Serebii Pokemon: Krookodile isSwSh: False
+Processing Serebii Pokemon: Darumaka isSwSh: False
+Processing Serebii Pokemon: Darmanitan isSwSh: False
+Processing Serebii Pokemon: Maractus isSwSh: False
+Processing Serebii Pokemon: Dwebble isSwSh: False
+Processing Serebii Pokemon: Crustle isSwSh: False
+Processing Serebii Pokemon: Scraggy isSwSh: False
+Processing Serebii Pokemon: Scrafty isSwSh: False
+Processing Serebii Pokemon: Sigilyph isSwSh: False
+Processing Serebii Pokemon: Yamask isSwSh: False
+Processing Serebii Pokemon: Cofagrigus isSwSh: False
+Processing Serebii Pokemon: Tirtouga isSwSh: False
+Processing Serebii Pokemon: Carracosta isSwSh: False
+Processing Serebii Pokemon: Archen isSwSh: False
+Processing Serebii Pokemon: Archeops isSwSh: False
+Processing Serebii Pokemon: Trubbish isSwSh: False
+Processing Serebii Pokemon: Garbodor isSwSh: False
+Processing Serebii Pokemon: Zorua isSwSh: False
+Processing Serebii Pokemon: Zoroark isSwSh: False
+Processing Serebii Pokemon: Minccino isSwSh: False
+Processing Serebii Pokemon: Cinccino isSwSh: False
+Processing Serebii Pokemon: Gothita isSwSh: False
+Processing Serebii Pokemon: Gothorita isSwSh: False
+Processing Serebii Pokemon: Gothitelle isSwSh: False
+Processing Serebii Pokemon: Solosis isSwSh: False
+Processing Serebii Pokemon: Duosion isSwSh: False
+Processing Serebii Pokemon: Reuniclus isSwSh: False
+Processing Serebii Pokemon: Ducklett isSwSh: False
+Processing Serebii Pokemon: Swanna isSwSh: False
+Processing Serebii Pokemon: Vanillite isSwSh: False
+Processing Serebii Pokemon: Vanillish isSwSh: False
+Processing Serebii Pokemon: Vanilluxe isSwSh: False
+Processing Serebii Pokemon: Deerling isSwSh: False
+Processing Serebii Pokemon: Sawsbuck isSwSh: False
+Processing Serebii Pokemon: Emolga isSwSh: False
+Processing Serebii Pokemon: Karrablast isSwSh: False
+Processing Serebii Pokemon: Escavalier isSwSh: False
+Processing Serebii Pokemon: Foongus isSwSh: False
+Processing Serebii Pokemon: Amoonguss isSwSh: False
+Processing Serebii Pokemon: Frillish isSwSh: False
+Processing Serebii Pokemon: Jellicent isSwSh: False
+Processing Serebii Pokemon: Alomomola isSwSh: False
+Processing Serebii Pokemon: Joltik isSwSh: False
+Processing Serebii Pokemon: Galvantula isSwSh: False
+Processing Serebii Pokemon: Ferroseed isSwSh: False
+Processing Serebii Pokemon: Ferrothorn isSwSh: False
+Processing Serebii Pokemon: Klink isSwSh: False
+Processing Serebii Pokemon: Klang isSwSh: False
+Processing Serebii Pokemon: Klinklang isSwSh: False
+Processing Serebii Pokemon: Tynamo isSwSh: False
+Processing Serebii Pokemon: Eelektrik isSwSh: False
+Processing Serebii Pokemon: Eelektross isSwSh: False
+Processing Serebii Pokemon: Elgyem isSwSh: False
+Processing Serebii Pokemon: Beheeyem isSwSh: False
+Processing Serebii Pokemon: Litwick isSwSh: False
+Processing Serebii Pokemon: Lampent isSwSh: False
+Processing Serebii Pokemon: Chandelure isSwSh: False
+Processing Serebii Pokemon: Axew isSwSh: False
+Processing Serebii Pokemon: Fraxure isSwSh: False
+Processing Serebii Pokemon: Haxorus isSwSh: False
+Processing Serebii Pokemon: Cubchoo isSwSh: False
+Processing Serebii Pokemon: Beartic isSwSh: False
+Processing Serebii Pokemon: Cryogonal isSwSh: False
+Processing Serebii Pokemon: Shelmet isSwSh: False
+Processing Serebii Pokemon: Accelgor isSwSh: False
+Processing Serebii Pokemon: Stunfisk isSwSh: False
+Processing Serebii Pokemon: Mienfoo isSwSh: False
+Processing Serebii Pokemon: Mienshao isSwSh: False
+Processing Serebii Pokemon: Druddigon isSwSh: False
+Processing Serebii Pokemon: Golett isSwSh: False
+Processing Serebii Pokemon: Golurk isSwSh: False
+Processing Serebii Pokemon: Pawniard isSwSh: False
+Processing Serebii Pokemon: Bisharp isSwSh: False
+Processing Serebii Pokemon: Bouffalant isSwSh: False
+Processing Serebii Pokemon: Rufflet isSwSh: False
+Processing Serebii Pokemon: Braviary isSwSh: False
+Processing Serebii Pokemon: Vullaby isSwSh: False
+Processing Serebii Pokemon: Mandibuzz isSwSh: False
+Processing Serebii Pokemon: Heatmor isSwSh: False
+Processing Serebii Pokemon: Durant isSwSh: False
+Processing Serebii Pokemon: Deino isSwSh: False
+Processing Serebii Pokemon: Zweilous isSwSh: False
+Processing Serebii Pokemon: Hydreigon isSwSh: False
+Processing Serebii Pokemon: Larvesta isSwSh: False
+Processing Serebii Pokemon: Volcarona isSwSh: False
+Processing Serebii Pokemon: Cobalion isSwSh: False
+Processing Serebii Pokemon: Terrakion isSwSh: False
+Processing Serebii Pokemon: Virizion isSwSh: False
+Processing Serebii Pokemon: Tornadus isSwSh: False
+Processing Serebii Pokemon: Thundurus isSwSh: False
+Processing Serebii Pokemon: Reshiram isSwSh: False
+Processing Serebii Pokemon: Zekrom isSwSh: False
+Processing Serebii Pokemon: Landorus isSwSh: False
+Processing Serebii Pokemon: Kyurem isSwSh: False
+Processing Serebii Pokemon: Keldeo isSwSh: False
+Processing Serebii Pokemon: Meloetta isSwSh: False
+Processing Serebii Pokemon: Genesect isSwSh: False
+Processing Serebii Pokemon: Chespin isSwSh: False
+Processing Serebii Pokemon: Quilladin isSwSh: False
+Processing Serebii Pokemon: Chesnaught isSwSh: False
+Processing Serebii Pokemon: Fennekin isSwSh: False
+Processing Serebii Pokemon: Braixen isSwSh: False
+Processing Serebii Pokemon: Delphox isSwSh: False
+Processing Serebii Pokemon: Froakie isSwSh: False
+Processing Serebii Pokemon: Frogadier isSwSh: False
+Processing Serebii Pokemon: Greninja isSwSh: False
+Processing Serebii Pokemon: Bunnelby isSwSh: False
+Processing Serebii Pokemon: Diggersby isSwSh: False
+Processing Serebii Pokemon: Fletchling isSwSh: False
+Processing Serebii Pokemon: Fletchinder isSwSh: False
+Processing Serebii Pokemon: Talonflame isSwSh: False
+Processing Serebii Pokemon: Scatterbug isSwSh: False
+Processing Serebii Pokemon: Spewpa isSwSh: False
+Processing Serebii Pokemon: Vivillon isSwSh: False
+Processing Serebii Pokemon: Litleo isSwSh: False
+Processing Serebii Pokemon: Pyroar isSwSh: False
+Processing Serebii Pokemon: Flabébé isSwSh: False
+Processing Serebii Pokemon: Floette isSwSh: False
+Processing Serebii Pokemon: Florges isSwSh: False
+Processing Serebii Pokemon: Skiddo isSwSh: False
+Processing Serebii Pokemon: Gogoat isSwSh: False
+Processing Serebii Pokemon: Pancham isSwSh: False
+Processing Serebii Pokemon: Pangoro isSwSh: False
+Processing Serebii Pokemon: Furfrou isSwSh: False
+Processing Serebii Pokemon: Espurr isSwSh: False
+Processing Serebii Pokemon: Meowstic isSwSh: False
+Processing Serebii Pokemon: Honedge isSwSh: False
+Processing Serebii Pokemon: Doublade isSwSh: False
+Processing Serebii Pokemon: Aegislash isSwSh: False
+Processing Serebii Pokemon: Spritzee isSwSh: False
+Processing Serebii Pokemon: Aromatisse isSwSh: False
+Processing Serebii Pokemon: Swirlix isSwSh: False
+Processing Serebii Pokemon: Slurpuff isSwSh: False
+Processing Serebii Pokemon: Inkay isSwSh: False
+Processing Serebii Pokemon: Malamar isSwSh: False
+Processing Serebii Pokemon: Binacle isSwSh: False
+Processing Serebii Pokemon: Barbaracle isSwSh: False
+Processing Serebii Pokemon: Skrelp isSwSh: False
+Processing Serebii Pokemon: Dragalge isSwSh: False
+Processing Serebii Pokemon: Clauncher isSwSh: False
+Processing Serebii Pokemon: Clawitzer isSwSh: False
+Processing Serebii Pokemon: Helioptile isSwSh: False
+Processing Serebii Pokemon: Heliolisk isSwSh: False
+Processing Serebii Pokemon: Tyrunt isSwSh: False
+Processing Serebii Pokemon: Tyrantrum isSwSh: False
+Processing Serebii Pokemon: Amaura isSwSh: False
+Processing Serebii Pokemon: Aurorus isSwSh: False
+Processing Serebii Pokemon: Sylveon isSwSh: False
+Processing Serebii Pokemon: Hawlucha isSwSh: False
+Processing Serebii Pokemon: Dedenne isSwSh: False
+Processing Serebii Pokemon: Carbink isSwSh: False
+Processing Serebii Pokemon: Goomy isSwSh: False
+Processing Serebii Pokemon: Sliggoo isSwSh: False
+Processing Serebii Pokemon: Goodra isSwSh: False
+Processing Serebii Pokemon: Klefki isSwSh: False
+Processing Serebii Pokemon: Phantump isSwSh: False
+Processing Serebii Pokemon: Trevenant isSwSh: False
+Processing Serebii Pokemon: Pumpkaboo isSwSh: False
+Processing Serebii Pokemon: Gourgeist isSwSh: False
+Processing Serebii Pokemon: Bergmite isSwSh: False
+Processing Serebii Pokemon: Avalugg isSwSh: False
+Processing Serebii Pokemon: Noibat isSwSh: False
+Processing Serebii Pokemon: Noivern isSwSh: False
+Processing Serebii Pokemon: Xerneas isSwSh: False
+Processing Serebii Pokemon: Yveltal isSwSh: False
+Processing Serebii Pokemon: Zygarde isSwSh: False
+Processing Serebii Pokemon: Diancie isSwSh: False
+Processing Serebii Pokemon: Hoopa isSwSh: False
+Processing Serebii Pokemon: Volcanion isSwSh: False
+Processing Serebii Pokemon: Rowlet isSwSh: False
+Processing Serebii Pokemon: Dartrix isSwSh: False
+Processing Serebii Pokemon: Decidueye isSwSh: False
+Processing Serebii Pokemon: Litten isSwSh: False
+Processing Serebii Pokemon: Torracat isSwSh: False
+Processing Serebii Pokemon: Incineroar isSwSh: False
+Processing Serebii Pokemon: Popplio isSwSh: False
+Processing Serebii Pokemon: Brionne isSwSh: False
+Processing Serebii Pokemon: Primarina isSwSh: False
+Processing Serebii Pokemon: Pikipek isSwSh: False
+Processing Serebii Pokemon: Trumbeak isSwSh: False
+Processing Serebii Pokemon: Toucannon isSwSh: False
+Processing Serebii Pokemon: Yungoos isSwSh: False
+Processing Serebii Pokemon: Gumshoos isSwSh: False
+Processing Serebii Pokemon: Grubbin isSwSh: False
+Processing Serebii Pokemon: Charjabug isSwSh: False
+Processing Serebii Pokemon: Vikavolt isSwSh: False
+Processing Serebii Pokemon: Crabrawler isSwSh: False
+Processing Serebii Pokemon: Crabominable isSwSh: False
+Processing Serebii Pokemon: Oricorio isSwSh: False
+Processing Serebii Pokemon: Cutiefly isSwSh: False
+Processing Serebii Pokemon: Ribombee isSwSh: False
+Processing Serebii Pokemon: Rockruff isSwSh: False
+Processing Serebii Pokemon: Lycanroc isSwSh: False
+Processing Serebii Pokemon: Wishiwashi isSwSh: False
+Processing Serebii Pokemon: Mareanie isSwSh: False
+Processing Serebii Pokemon: Toxapex isSwSh: False
+Processing Serebii Pokemon: Mudbray isSwSh: False
+Processing Serebii Pokemon: Mudsdale isSwSh: False
+Processing Serebii Pokemon: Dewpider isSwSh: False
+Processing Serebii Pokemon: Araquanid isSwSh: False
+Processing Serebii Pokemon: Fomantis isSwSh: False
+Processing Serebii Pokemon: Lurantis isSwSh: False
+Processing Serebii Pokemon: Morelull isSwSh: False
+Processing Serebii Pokemon: Shiinotic isSwSh: False
+Processing Serebii Pokemon: Salandit isSwSh: False
+Processing Serebii Pokemon: Salazzle isSwSh: False
+Processing Serebii Pokemon: Stufful isSwSh: False
+Processing Serebii Pokemon: Bewear isSwSh: False
+Processing Serebii Pokemon: Bounsweet isSwSh: False
+Processing Serebii Pokemon: Steenee isSwSh: False
+Processing Serebii Pokemon: Tsareena isSwSh: False
+Processing Serebii Pokemon: Comfey isSwSh: False
+Processing Serebii Pokemon: Oranguru isSwSh: False
+Processing Serebii Pokemon: Passimian isSwSh: False
+Processing Serebii Pokemon: Wimpod isSwSh: False
+Processing Serebii Pokemon: Golisopod isSwSh: False
+Processing Serebii Pokemon: Sandygast isSwSh: False
+Processing Serebii Pokemon: Palossand isSwSh: False
+Processing Serebii Pokemon: Pyukumuku isSwSh: False
+Processing Serebii Pokemon: Type: Null isSwSh: False
+Processing Serebii Pokemon: Silvally isSwSh: False
+Processing Serebii Pokemon: Minior isSwSh: False
+Processing Serebii Pokemon: Komala isSwSh: False
+Processing Serebii Pokemon: Turtonator isSwSh: False
+Processing Serebii Pokemon: Togedemaru isSwSh: False
+Processing Serebii Pokemon: Mimikyu isSwSh: False
+Processing Serebii Pokemon: Bruxish isSwSh: False
+Processing Serebii Pokemon: Drampa isSwSh: False
+Processing Serebii Pokemon: Dhelmise isSwSh: False
+Processing Serebii Pokemon: Jangmo-o isSwSh: False
+Processing Serebii Pokemon: Hakamo-o isSwSh: False
+Processing Serebii Pokemon: Kommo-o isSwSh: False
+Processing Serebii Pokemon: Tapu Koko isSwSh: False
+Processing Serebii Pokemon: Tapu Lele isSwSh: False
+Processing Serebii Pokemon: Tapu Bulu isSwSh: False
+Processing Serebii Pokemon: Tapu Fini isSwSh: False
+Processing Serebii Pokemon: Solgaleo isSwSh: False
+Processing Serebii Pokemon: Lunala isSwSh: False
+Processing Serebii Pokemon: Nihilego isSwSh: False
+Processing Serebii Pokemon: Buzzwole isSwSh: False
+Processing Serebii Pokemon: Pheromosa isSwSh: False
+Processing Serebii Pokemon: Xurkitree isSwSh: False
+Processing Serebii Pokemon: Celesteela isSwSh: False
+Processing Serebii Pokemon: Kartana isSwSh: False
+Processing Serebii Pokemon: Guzzlord isSwSh: False
+Processing Serebii Pokemon: Necrozma isSwSh: False
+Processing Serebii Pokemon: Magearna isSwSh: False
+Processing Serebii Pokemon: Marshadow isSwSh: False
+Processing Serebii Pokemon: Poipole isSwSh: False
+Processing Serebii Pokemon: Naganadel isSwSh: False
+Processing Serebii Pokemon: Stakataka isSwSh: False
+Processing Serebii Pokemon: Blacephalon isSwSh: False
+Processing Serebii Pokemon: Zeraora isSwSh: False
 Processing Form Name Fixes
 Fixing Alola to Alolan in Rattata
 Fixing Alola to Alolan in Raticate
@@ -2494,7 +2494,6 @@ Adding Tutor Move "Uproar" from Pikachu (Normal) to Raichu (Normal)
 Adding Level Up Move "Double Kick (9)" from Pikachu (Normal) to Raichu (Alolan)
 Adding Level Up Move "Swift (26)" from Pikachu (Normal) to Raichu (Alolan)
 Adding Level Up Move "Wild Charge (50)" from Pikachu (Normal) to Raichu (Alolan)
-Adding Egg Move "Volt Tackle" from Pikachu (Normal) to Raichu (Alolan)
 Adding Tutor Move "Body Slam" from Pikachu (Normal) to Raichu (Alolan)
 Adding Tutor Move "Counter" from Pikachu (Normal) to Raichu (Alolan)
 Adding Tutor Move "Defense Curl" from Pikachu (Normal) to Raichu (Alolan)
@@ -2704,11 +2703,8 @@ Adding Level Up Move "Natural Gift (37)" from Exeggcute (Normal) to Exeggutor (A
 Adding Level Up Move "Psychic (47)" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Level Up Move "Bestow (50)" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Egg Move "Mega Drain" from Exeggcute (Normal) to Exeggutor (Alolan)
-Adding Egg Move "Poison Powder" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Egg Move "Psych Up" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Egg Move "Reflect" from Exeggcute (Normal) to Exeggutor (Alolan)
-Adding Egg Move "Sleep Powder" from Exeggcute (Normal) to Exeggutor (Alolan)
-Adding Egg Move "Stun Spore" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Tutor Move "Ancient Power" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Tutor Move "Double-Edge" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Tutor Move "Dream Eater" from Exeggcute (Normal) to Exeggutor (Alolan)
@@ -2739,7 +2735,6 @@ Adding Machine Move "Secret Power" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Machine Move "Strength" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Machine Move "Take Down" from Exeggcute (Normal) to Exeggutor (Alolan)
 Adding Machine Move "Telekinesis" from Exeggcute (Normal) to Exeggutor (Alolan)
-Adding Egg Move "Leer" from Cubone (Normal) to Marowak (Alolan)
 Adding Egg Move "Rock Slide" from Cubone (Normal) to Marowak (Alolan)
 Adding Egg Move "Swords Dance" from Cubone (Normal) to Marowak (Alolan)
 Adding Tutor Move "Body Slam" from Cubone (Normal) to Marowak (Alolan)
@@ -2833,17 +2828,9 @@ Adding Machine Move "Submission" from Lickitung (Normal) to Lickilicky (Normal)
 Adding Machine Move "Take Down" from Lickitung (Normal) to Lickilicky (Normal)
 Adding Machine Move "Water Gun" from Lickitung (Normal) to Lickilicky (Normal)
 Adding Level Up Move "Gyro Ball (29)" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Curse" from Koffing (Normal) to Weezing (Galarian)
 Adding Egg Move "Destiny Bond" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Grudge" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Pain Split" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Psybeam" from Koffing (Normal) to Weezing (Galarian)
 Adding Egg Move "Psywave" from Koffing (Normal) to Weezing (Galarian)
 Adding Egg Move "Screech" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Spit Up" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Spite" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Stockpile" from Koffing (Normal) to Weezing (Galarian)
-Adding Egg Move "Swallow" from Koffing (Normal) to Weezing (Galarian)
 Adding Egg Move "Toxic Spikes" from Koffing (Normal) to Weezing (Galarian)
 Adding Egg Move "Venom Drench" from Koffing (Normal) to Weezing (Galarian)
 Adding Egg Move "Will-O-Wisp" from Koffing (Normal) to Weezing (Galarian)
@@ -3850,51 +3837,12 @@ Adding Level Up Move "Tackle (1)" from Floette (Red Flower) to Florges (Red Flow
 Adding Level Up Move "Vine Whip (1)" from Floette (Red Flower) to Florges (Red Flower)
 Adding Level Up Move "Razor Leaf (15)" from Floette (Red Flower) to Florges (Red Flower)
 Adding Level Up Move "Solar Beam (58)" from Floette (Red Flower) to Florges (Red Flower)
-Adding Egg Move "Tickle" from Espurr (Normal) to Meowstic (Female)
 Adding Tutor Move "Ally Switch" from Espurr (Normal) to Meowstic (Female)
-Adding Tutor Move "Expanding Force" from Espurr (Normal) to Meowstic (Female)
 Adding Tutor Move "Helping Hand" from Espurr (Normal) to Meowstic (Female)
 Adding Tutor Move "Skill Swap" from Espurr (Normal) to Meowstic (Female)
 Adding Tutor Move "Telekinesis" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Ally Switch" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Endure" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Fake Tears" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Helping Hand" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Iron Tail" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Magic Room" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Nasty Plot" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Pay Day" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Play Rough" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Skill Swap" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Snore" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Swift" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Trick" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Wonder Room" from Espurr (Normal) to Meowstic (Female)
-Adding Machine Move "Zen Headbutt" from Espurr (Normal) to Meowstic (Female)
 Adding Level Up Move "Payback (29)" from Crabrawler (Normal) to Crabominable (Normal)
 Adding Level Up Move "Crabhammer (37)" from Crabrawler (Normal) to Crabominable (Normal)
-Adding Egg Move "Endeavor" from Rockruff (Normal) to Lycanroc (Midnight)
-Adding Egg Move "Last Resort" from Rockruff (Normal) to Lycanroc (Midnight)
-Adding Egg Move "Endeavor" from Rockruff (Normal) to Lycanroc (Dusk)
-Adding Egg Move "Last Resort" from Rockruff (Normal) to Lycanroc (Dusk)
 Adding Level Up Move "Water Sport (1)" from Dewpider (Normal) to Araquanid (Normal)
 Adding Level Up Move "Splash (1)" from Cosmog (Normal) to Cosmoem (Normal)
-Adding Level Up Move "Splash (1)" from Cosmoem (Normal) to Solgaleo (Normal)
-Adding Level Up Move "Splash (1)" from Cosmoem (Normal) to Lunala (Normal)
-Adding Tutor Move "Covet" from Poipole (Normal) to Naganadel (Normal)
-Adding Egg Move "Endeavor" from Toxel (Normal) to Toxtricity (Low Key)
-Adding Egg Move "Metal Sound" from Toxel (Normal) to Toxtricity (Low Key)
-Adding Egg Move "Power-Up Punch" from Toxel (Normal) to Toxtricity (Low Key)
-Adding Level Up Move "Dragon Pulse (1)" from Drakloak (Normal) to Dragapult (Normal)
-Processing Missing Evolution Moves AGAIN (Should be no output)
-Processing Alt Forms with One Additional Move
-Processing Alt Form (With One Additional Move): Rotom (Heat) - Move: Overheat
-Processing Alt Form (With One Additional Move): Rotom (Wash) - Move: Hydro Pump
-Processing Alt Form (With One Additional Move): Rotom (Frost) - Move: Blizzard
-Processing Alt Form (With One Additional Move): Rotom (Fan) - Move: Air Slash
-Processing Alt Form (With One Additional Move): Rotom (Mow) - Move: Leaf Storm
-Processing Alt Form (With One Additional Move): Pikachu (Rock Star) - Move: Meteor Mash
-Processing Alt Form (With One Additional Move): Pikachu (Belle) - Move: Icicle Crash
-Processing Alt Form (With One Additional Move): Pikachu (Pop Star) - Move: Draining Kiss
-Processing Alt Form (With One Additional Move): Pikachu (Ph. D) - Move: Electric Terrain
-Processing Alt Form (With One Additional Move): Pikachu (Libre) - Move: Flying Pres
+Adding L

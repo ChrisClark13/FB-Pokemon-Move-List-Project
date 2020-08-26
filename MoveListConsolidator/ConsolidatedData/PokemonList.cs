@@ -36,14 +36,14 @@ namespace MoveListConsolidator.ConsolidatedData
             });
         }
 
-        public void ParseVeekunPokemonList(VeekunPokemonList veekunPokemonList)
+        public void ParseVeekunPokemonList(VeekunPokemonList veekunPokemonList, string filePath)
         {
-            veekunPokemonList.Pokemon.ForEach(vp => Pokemon.Find(p => vp.DexNumValue == p.DexNum).ParseVeekunPokemon(vp));
+            veekunPokemonList.Pokemon.ForEach(vp => Pokemon.Find(p => vp.DexNumValue == p.DexNum).ParseVeekunPokemon(vp, filePath));
         }
 
-        public void ParseSerebiiPokemonList(SerebiiPokemonList serebiiPokemonList)
+        public void ParseSerebiiPokemonList(SerebiiPokemonList serebiiPokemonList, bool isSwSh, string filePath)
         {
-            serebiiPokemonList.Pokemon.ForEach(sp => Pokemon.Find(p => sp.DexNumValue == p.DexNum).ParseSerebiiPokemon(sp));
+            serebiiPokemonList.Pokemon.ForEach(sp => Pokemon.Find(p => sp.DexNumValue == p.DexNum).ParseSerebiiPokemon(sp, isSwSh, filePath));
         }
 
         public void ParseAltFormsWithOneAdditionalMoveList(List<AlternateFormList.AltFormWithSingleAdditionalMove> list)

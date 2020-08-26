@@ -37,7 +37,7 @@ namespace MoveListConsolidator.ConsolidatedData
             return levelUpMoveList;
         }
 
-        public void ParseVeekunPokemon(VeekunPokemon veekunPokemon)
+        public void ParseVeekunPokemon(VeekunPokemon veekunPokemon, string filePath)
         {
             var form = veekunPokemon.Form.Equals("Normal", StringComparison.InvariantCultureIgnoreCase) ? DefaultForm : veekunPokemon.Form;
 
@@ -48,12 +48,12 @@ namespace MoveListConsolidator.ConsolidatedData
             veekunPokemon.LevelUpMoves.ForEach(vm => levelUpMoveList.AddMove(vm.Name, vm.LevelValue));
             levelUpMoveList.SortMoves();
 
-            ParseVeekunMoveList(veekunPokemon.EggMoves, EggMoves, form);
-            ParseVeekunMoveList(veekunPokemon.TutorMoves, TutorMoves, form);
-            ParseVeekunMoveList(veekunPokemon.MachineMoves, MachineMoves, form);
+            ParseVeekunMoveList(veekunPokemon.EggMoves, EggMoves, form, filePath);
+            ParseVeekunMoveList(veekunPokemon.TutorMoves, TutorMoves, form, filePath);
+            ParseVeekunMoveList(veekunPokemon.MachineMoves, MachineMoves, form, filePath);
         }
 
-        private void ParseVeekunMoveList(List<RawDataMove> source, List<Move> dest, string form)
+        private void ParseVeekunMoveList(List<RawDataMove> source, List<Move> dest, string form, string filePath)
         {
             if (source == null)
                 return;
@@ -64,7 +64,8 @@ namespace MoveListConsolidator.ConsolidatedData
                 .Select(vm => new Move
                 {
                     Name = vm.Name,
-                    Forms = { form }
+                    Forms = { form },
+                    FormSources = { new Move.FormSource { Form = form, Sources = { filePath } } }
                 })
             );
 
@@ -72,13 +73,20 @@ namespace MoveListConsolidator.ConsolidatedData
             foreach (var m in source.Join(dest, vm => vm.Name, m => m.Name, (vm, m) => m))
             {
                 if (!m.Forms.Contains(form))
+                {
                     m.Forms.Add(form);
+                    m.FormSources.Add(new Move.FormSource { Form = form, Sources = { filePath } });
+                }
+                else
+                {
+                    m.FormSources.Find(fs => fs.Form == form && !fs.Sources.Contains(filePath))?.Sources.Add(filePath);
+                }
             }
         }
 
-        public void ParseSerebiiPokemon(SerebiiPokemon serebiiPokemon)
+        public void ParseSerebiiPokemon(SerebiiPokemon serebiiPokemon, bool isSwSh, string filePath)
         {
-            Console.WriteLine($"Processing Serebii Pokemon: {Name}");
+            Console.WriteLine($"Processing Serebii Pokemon: {Name} isSwSh: {isSwSh}");
 
             if (serebiiPokemon.LevelUpMoves != null)
             {
@@ -115,14 +123,14 @@ namespace MoveListConsolidator.ConsolidatedData
                 }
             }
 
-            ParseSerebiiMoveList(serebiiPokemon.EggMoves, EggMoves);
-            ParseSerebiiMoveList(serebiiPokemon.TutorMoves, TutorMoves);
-            ParseSerebiiMoveList(serebiiPokemon.MachineMoves, MachineMoves);
+            ParseSerebiiMoveList(serebiiPokemon.EggMoves, EggMoves, isSwSh, filePath);
+            ParseSerebiiMoveList(serebiiPokemon.TutorMoves, TutorMoves, isSwSh, filePath);
+            ParseSerebiiMoveList(serebiiPokemon.MachineMoves, MachineMoves, isSwSh, filePath);
 
             SortMoves();
         }
 
-        private void ParseSerebiiMoveList(List<SerebiiMove> source, List<Move> dest)
+        private void ParseSerebiiMoveList(List<SerebiiMove> source, List<Move> dest, bool isSwSh, string filePath)
         {
             if (source == null)
                 return;
@@ -131,21 +139,37 @@ namespace MoveListConsolidator.ConsolidatedData
             source.Where(m => m.Forms != null).SelectMany(m => m.Forms.Where(f => f.Form == Name)).ToList().ForEach(f => f.Form = DefaultForm);
             source.Where(m => m.Forms != null).SelectMany(m => m.Forms.Where(f => f.Form == "Alolan")).ToList().ForEach(f => f.Form = "Alola");
 
+            if (Name == "Meowstic") {
+                source.Find(sm => sm.Name == "Imprison");
+            }
+
+            List<string> GetFormNames(List<SerebiiMove.FormEntry> forms)
+            {
+                if (forms != null)
+                    return forms.Select(f => f.Form).ToList();
+                else if (isSwSh)
+                    return new List<string> { DefaultForm }.Concat(AltForms).ToList();
+                else
+                    return new List<string> { DefaultForm };
+            };
+
             //Add all moves that aren't already in the list
             dest.AddRange(
                 source.Where(sm => !dest.Any(m => m.Name == sm.Name))
                 .Select(sm => new Move
                 {
                     Name = sm.Name,
-                    Forms = (sm.Forms != null) ? sm.Forms.Select(f => f.Form).ToList() : new List<string> { DefaultForm }
+                    Forms = GetFormNames(sm.Forms),
+                    FormSources = GetFormNames(sm.Forms).Select(f => new Move.FormSource { Form = f, Sources = {filePath}}).ToList()
                 })
             );
 
             //For all moves that are already in the list, update their corresponding move.
             foreach ((var forms, var m) in source.Join(dest, sm => sm.Name, m => m.Name, (sm, m) =>
-                Tuple.Create((sm.Forms != null) ? sm.Forms.Select(f => f.Form).ToList() : new List<string> { DefaultForm }, m)))
+                Tuple.Create(GetFormNames(sm.Forms), m)))
             {
                 m.Forms.AddRange(forms.Where(form => !m.Forms.Contains(form)));
+                m.FormSources.Where(fs => forms.Contains(fs.Form) && !fs.Sources.Contains(filePath)).Select(fm => fm.Sources).ToList().ForEach(sources => sources.Add(filePath));
             }
 
             SortMoves();
