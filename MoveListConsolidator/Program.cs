@@ -20,11 +20,12 @@ namespace MoveListConsolidator
         {
             Console.WriteLine($"Hewwo Fizztopia, FILES ARE AT {System.IO.Path.GetFullPath(PathToFiles)}");
 
-            // var logPath = $@"{PathToFiles}\output\log.txt";
-            // Console.WriteLine($@"Outputting log to {logPath}");
-            // FileStream logStream = new FileStream(logPath, FileMode.OpenOrCreate, FileAccess.Write);
-            // StreamWriter logWriter = new StreamWriter(logStream);
-            // Console.SetOut(logWriter);
+            var logPath = $@"{PathToFiles}\output\log.txt";
+            Console.WriteLine($@"Outputting log to {logPath}");
+            File.WriteAllText(logPath, string.Empty);
+            FileStream logStream = new FileStream(logPath, FileMode.OpenOrCreate, FileAccess.Write);
+            StreamWriter logWriter = new StreamWriter(logStream);
+            Console.SetOut(logWriter);
 
             var pokemonList = new PokemonList();
 
@@ -186,6 +187,8 @@ namespace MoveListConsolidator
             Console.WriteLine($@"Placing output in {PathToFiles}\output\pokemonMoveList.json");
             Directory.CreateDirectory($@"{PathToFiles}\output");
             File.WriteAllText($@"{PathToFiles}\output\pokemonMoveList.json", JsonConvert.SerializeObject(pokemonList, Formatting.Indented));
+
+            Console.Out.Flush();
         }
     }
 }

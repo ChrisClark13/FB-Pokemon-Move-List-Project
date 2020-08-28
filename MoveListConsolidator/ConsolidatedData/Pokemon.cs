@@ -139,7 +139,8 @@ namespace MoveListConsolidator.ConsolidatedData
             source.Where(m => m.Forms != null).SelectMany(m => m.Forms.Where(f => f.Form == Name)).ToList().ForEach(f => f.Form = DefaultForm);
             source.Where(m => m.Forms != null).SelectMany(m => m.Forms.Where(f => f.Form == "Alolan")).ToList().ForEach(f => f.Form = "Alola");
 
-            if (Name == "Meowstic") {
+            if (Name == "Meowstic")
+            {
                 source.Find(sm => sm.Name == "Imprison");
             }
 
@@ -150,7 +151,7 @@ namespace MoveListConsolidator.ConsolidatedData
                 else if (isSwSh)
                     return new List<string> { DefaultForm }.Concat(AltForms).ToList();
                 else
-                    return new List<string> { DefaultForm };
+                    return new List<string> { DefaultForm }.Concat(AltForms).Where(f => f != "Galarian").ToList();
             };
 
             //Add all moves that aren't already in the list
@@ -160,7 +161,7 @@ namespace MoveListConsolidator.ConsolidatedData
                 {
                     Name = sm.Name,
                     Forms = GetFormNames(sm.Forms),
-                    FormSources = GetFormNames(sm.Forms).Select(f => new Move.FormSource { Form = f, Sources = {filePath}}).ToList()
+                    FormSources = GetFormNames(sm.Forms).Select(f => new Move.FormSource { Form = f, Sources = { filePath } }).ToList()
                 })
             );
 
@@ -169,6 +170,13 @@ namespace MoveListConsolidator.ConsolidatedData
                 Tuple.Create(GetFormNames(sm.Forms), m)))
             {
                 m.Forms.AddRange(forms.Where(form => !m.Forms.Contains(form)));
+
+                forms.ForEach(f => {
+                    if (!m.FormSources.Any(fs => fs.Form == f)) {
+                        m.FormSources.Add(new Move.FormSource { Form = f});
+                    }
+                });
+
                 m.FormSources.Where(fs => forms.Contains(fs.Form) && !fs.Sources.Contains(filePath)).Select(fm => fm.Sources).ToList().ForEach(sources => sources.Add(filePath));
             }
 
@@ -211,38 +219,43 @@ namespace MoveListConsolidator.ConsolidatedData
                     levelUpMoveList.AddMove(pm.Name, pm.Level);
                 });
 
-            pokemon.EggMoves.Where(pm => pm.Forms.Contains(preEvolvedForm) && !EggMoves.Any(m => m.Name == pm.Name && m.Forms.Contains(form)))
+            void AddPreEvolvedMoves(List<Move> sourceList, List<Move> destList, string debugMoveType)
+            {
+                sourceList.Where(pm => pm.Forms.Contains(preEvolvedForm) && !destList.Any(m => m.Name == pm.Name && m.Forms.Contains(form)))
                 .ToList().ForEach(pm =>
                 {
-                    Console.WriteLine($"Adding Egg Move \"{pm.Name}\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
-                    var existingMove = EggMoves.Find(m => m.Name == pm.Name);
+                    Console.WriteLine($"Adding {debugMoveType} \"{pm.Name}\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
+                    var existingMove = destList.Find(m => m.Name == pm.Name);
                     if (existingMove != null)
+                    {
                         existingMove.Forms.Add(form);
+                        var formSourcesForm = existingMove.FormSources.Find(fs => fs.Form == form);
+                        if (formSourcesForm == null)
+                        {
+                            formSourcesForm = new Move.FormSource { Form = form };
+                            existingMove.FormSources.Add(formSourcesForm);
+                        }
+                        var s = $"Move of previous stage {pokemon.Name} ({preEvolvedForm})";
+                        if (!formSourcesForm.Sources.Contains(s))
+                           formSourcesForm.Sources.Add(s);
+                    }
                     else
-                        EggMoves.Add(new Move { Name = pm.Name, Forms = { form } });
+                        destList.Add(new Move
+                        {
+                            Name = pm.Name,
+                            Forms = { form },
+                            FormSources = { new Move.FormSource {
+                                Form = form,
+                                Sources = { $"Move of previous stage {pokemon.Name} ({preEvolvedForm})" } 
+                                } 
+                            }
+                        });
                 });
+            }
 
-            pokemon.TutorMoves.Where(pm => !EvolutionList.AllNonTransferableMoves.Contains(pm.Name) && pm.Forms.Contains(preEvolvedForm) && !TutorMoves.Any(m => m.Name == pm.Name && m.Forms.Contains(form)))
-            .ToList().ForEach(pm =>
-            {
-                Console.WriteLine($"Adding Tutor Move \"{pm.Name}\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
-                var existingMove = TutorMoves.Find(m => m.Name == pm.Name);
-                if (existingMove != null)
-                    existingMove.Forms.Add(form);
-                else
-                    TutorMoves.Add(new Move { Name = pm.Name, Forms = { form } });
-            });
-
-            pokemon.MachineMoves.Where(pm => pm.Forms.Contains(preEvolvedForm) && !MachineMoves.Any(m => m.Name == pm.Name && m.Forms.Contains(form)))
-            .ToList().ForEach(pm =>
-            {
-                Console.WriteLine($"Adding Machine Move \"{pm.Name}\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
-                var existingMove = MachineMoves.Find(m => m.Name == pm.Name);
-                if (existingMove != null)
-                    existingMove.Forms.Add(form);
-                else
-                    MachineMoves.Add(new Move { Name = pm.Name, Forms = { form } });
-            });
+            AddPreEvolvedMoves(pokemon.EggMoves, EggMoves, "Egg Move");
+            AddPreEvolvedMoves(pokemon.TutorMoves, TutorMoves, "Tutor Move");
+            AddPreEvolvedMoves(pokemon.MachineMoves, MachineMoves, "Machine Move");
 
             SortMoves();
         }
