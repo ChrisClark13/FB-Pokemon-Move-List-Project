@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kriza\\Documents\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj": {}
+    "C:\\Users\\kriza\\Documents\\FB Coding Projects\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kriza\\Documents\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj": {
+    "C:\\Users\\kriza\\Documents\\FB Coding Projects\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kriza\\Documents\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj",
+        "projectUniqueName": "C:\\Users\\kriza\\Documents\\FB Coding Projects\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj",
         "projectName": "MoveListConsolidator",
-        "projectPath": "C:\\Users\\kriza\\Documents\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj",
+        "projectPath": "C:\\Users\\kriza\\Documents\\FB Coding Projects\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj",
         "packagesPath": "C:\\Users\\kriza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kriza\\Documents\\Pokemon Move List Project\\MoveListConsolidator\\obj\\",
+        "outputPath": "C:\\Users\\kriza\\Documents\\FB Coding Projects\\Pokemon Move List Project\\MoveListConsolidator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+ax3FYgrgYtVKDoj93evkR7frauPlCGGH9jLOoFY5InrG8T1Qcy/yw8denUdjeJ0kTTsY3WTCyOXV7iLCD3CA==",
+  "dgSpecHash": "J1iUsU2wbtzVzdPfeHhnXkwE6/ZEq9gE+VtA2XzWmkZVQAADLyekzOGE07uZXINijB4Cn9OIlpVqmkzl8C/wjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kriza\\Documents\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj",
+  "projectFilePath": "C:\\Users\\kriza\\Documents\\FB Coding Projects\\Pokemon Move List Project\\MoveListConsolidator\\MoveListConsolidator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kriza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

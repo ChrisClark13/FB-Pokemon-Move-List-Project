@@ -212,7 +212,7 @@ namespace MoveListConsolidator.ConsolidatedData
             var levelUpMoveList = LevelUpMoveLists.Find(l => l.Form == form);
             var preEvolvedLevelUpMoveList = pokemon.LevelUpMoveLists.Find(l => l.Form == preEvolvedForm);
 
-            preEvolvedLevelUpMoveList.LevelUpMoves.Where(pm => !levelUpMoveList.LevelUpMoves.Any(m => m.Name == pm.Name))
+            preEvolvedLevelUpMoveList.LevelUpMoves.Where(pm => !levelUpMoveList.LevelUpMoves.Any(m => m.Name == pm.Name && m.Level <= pm.Level))
                 .ToList().ForEach(pm =>
                 {
                     Console.WriteLine($"Adding Level Up Move \"{pm.Name} ({pm.Level})\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
@@ -221,7 +221,7 @@ namespace MoveListConsolidator.ConsolidatedData
 
             void AddPreEvolvedMoves(List<Move> sourceList, List<Move> destList, string debugMoveType)
             {
-                sourceList.Where(pm => pm.Forms.Contains(preEvolvedForm) && !destList.Any(m => m.Name == pm.Name && m.Forms.Contains(form)))
+                sourceList.Where(pm => !EvolutionList.AllNonTransferableMoves.Contains(pm.Name)).Where(pm => pm.Forms.Contains(preEvolvedForm) && !destList.Any(m => m.Name == pm.Name && m.Forms.Contains(form)))
                 .ToList().ForEach(pm =>
                 {
                     Console.WriteLine($"Adding {debugMoveType} \"{pm.Name}\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
