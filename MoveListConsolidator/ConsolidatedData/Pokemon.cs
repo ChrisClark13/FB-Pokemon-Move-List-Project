@@ -212,7 +212,7 @@ namespace MoveListConsolidator.ConsolidatedData
             var levelUpMoveList = LevelUpMoveLists.Find(l => l.Form == form);
             var preEvolvedLevelUpMoveList = pokemon.LevelUpMoveLists.Find(l => l.Form == preEvolvedForm);
 
-            preEvolvedLevelUpMoveList.LevelUpMoves.Where(pm => !levelUpMoveList.LevelUpMoves.Any(m => m.Name == pm.Name && m.Level <= pm.Level))
+            preEvolvedLevelUpMoveList.LevelUpMoves.Where(pm => !levelUpMoveList.LevelUpMoves.Any(m => m.Name == pm.Name))
                 .ToList().ForEach(pm =>
                 {
                     Console.WriteLine($"Adding Level Up Move \"{pm.Name} ({pm.Level})\" from {pokemon.Name} ({preEvolvedForm}) to {Name} ({form})");
